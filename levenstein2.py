@@ -27,7 +27,7 @@
 
 # la méthode levenstein en python, calculant le nombre minimale de modification entre deux chaine de caractères:
 
-def LevDistance(s, t):
+def LD(s, t):
     if s == "":
         return len(t)
     if t == "":
