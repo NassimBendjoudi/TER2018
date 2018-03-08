@@ -75,4 +75,6 @@ https://secweb.cs.odu.edu/~zeil/cs361/web/website/Lectures/styles/pages/editdist
 
 https://www.python-course.eu/levenshtein_distance.php
 
+-/////////////  Les stop-words
 
+https://www.geeksforgeeks.org/removing-stop-words-nltk-python/
