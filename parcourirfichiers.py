@@ -27,7 +27,7 @@ for ligne in lecture:
 		origine2 = origine1.replace('$e',',')
 		origine3 = origine2.replace('-','')
 		print(origine2)
-		#listeOrigine.append(origine)
+		#listeOrigine.append(origine2)
 		
 
 
