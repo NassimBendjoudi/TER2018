@@ -1,0 +1,17 @@
+LA COMMANDE :
+
+iconv -f formatOrigine -t newFormat fichierOrigine > newFichier
+
+-f : FROME
+-t : TO
+iconv : I CONVERT
+
+
+
+
+DU COUP DANS LE TERMINAL :
+
+>>>>iconv -f macintosh -t utf-8 RAMEAU.txt > RAMEAU_utf-8.txt
+
+
+ps.macintosh parceque le fichier a était créer d'un pc apple
