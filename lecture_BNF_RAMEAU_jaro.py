@@ -3,6 +3,8 @@
 
 from __future__ import division
 import re, sys, os
+#from nltk import word_tokenize
+#from nltk.corpus import stopwords
 
 
 
@@ -11,16 +13,18 @@ import re, sys, os
 #//////////////////// lancer ces commandes dans le terminal///////////////////
 
 #iconv -f macintosh -t utf-8 RAMEAU-Groupes_ethniques-2.txt > RAMEAU_utf-8.txt
-#iconv -f macintosh -t utf-8 BNF_traditions_field.txt > BNF_utf-8.txt
+#iconv -f macintosh -t utf-8 BNF_traditions_field.txt > BNF_utf-8.txt ////// `A ne pas utiliser car le format initial du fichier est en UTF-8
 
 
 
-#//////////////////// on ouvre le fichier BNF , lecture ligne par ligne
-file1 =open('BNF_utf-8.txt','r')
+#//////////////////// on ouvre le fichier BNF , lecture ligne 
+file1 =open('BNF_test.txt','r')
 read1= file1.read()
+	
+		
 
-#/////////////////// on ouvre le fichier RAMEAU , lecture ligne par ligne
-file2 = open('RAMEAU_utf-8.txt','r')
+#/////////////////// on ouvre le fichier RAMEAU , lecture ligne 
+file2 = open('RM_test.txt','r')
 read2 = file2.read()
 
 #//////////////////////////////////////////////////////////////////////////
@@ -78,31 +82,11 @@ def jaro(mot1, mot2): #s et t étant les chaines de caractère à aligner
         k += 1
     #print ('Transpositions :',transpositions) #Console
     return ((matches / mot1_len) + (matches / mot2_len) + ((matches - transpositions/2) / matches)) / 3
- 
-
-    
-
-
-
-
-
-"""
-def levenshtein(mot1,mot2):
-	ligne_i = [ k for k in range(len(mot1)+1) ]
-	for i in range(1, len(mot2) + 1):
-		ligne_prec = ligne_i
-		ligne_i = [i]*(len(mot1)+1)
-		for k in range(1,len(ligne_i)):	
-			cout = int(mot1[k-1] != mot2[i-1])	
-			ligne_i[k] = min(ligne_i[k-1] + 1, ligne_prec[k] + 1, ligne_prec[k-1] + cout)	
-	return ligne_i[len(mot1)]
-	
-"""
-
-
 
 
 #/////////////////// création de deux nouveaux fichiers en écrtiture
+
+
 #////////////////// création d'un fichier pour aligner les termes des deux fichiers
 
 nFichierBNF = open('newBNF_utf-8.txt','x+')
@@ -111,25 +95,115 @@ nFichierRM = open('newRAMEAU_utf-8.txt','x+')
 #nAlignement = open('AlignementBNF_RAMEAU.txt','x+')
 
 
-#//////////////// on parcour le fichier BNF , on récupère dans tout les lignes que la partie aprés le dernier $ 
-#/////////////// on écrit ces lignes là dans le nouveau fichier BNF
+
+#//////////////// on parcour le fichier BNF , on récupère dans toutes les lignes que la partie après le dernier $ 
+#/////////////// on écrit ces lignes là dans le nouveau fichier > BNF
+
+
 res1 = re.findall(r"(\d{8})\n\d{3}\s+\$.*\$[a-z](.*)",read1)
 if res1:
 	for ligne in res1:	
 		#print(ligne,'\n')
-		nFichierBNF.write(str(ligne)+'\n')
+		#nFichierBNF.write(str(ligne)+'\n')
+		sentence=str(ligne)
+		#Supprimer les accents
 
-res2 = re.findall(r"(\d{8})\s+\$a(.+)\$",read2)
+		accent = ['é', 'è', 'ê', 'ë', 'à','É', 'ù', 'û', 'ç', 'ô', 'î','Î', 'ï', 'â','ã','ā','ţ']
+		sans_accent = ['e', 'e', 'e', 'e', 'a','E', 'u', 'u', 'c', 'o', 'I','i', 'i', 'a', 'a', 'a','t']
+
+		for i in range(len(accent)):
+			sentence = sentence.replace(accent[i], sans_accent[i])
+		sentence=re.sub('d\'|l\'|de|du|\'|-|la|peuple','',sentence)
+		#Suppréssion des éspaces
+		#sentence=sentence.replace(" ","")
+
+		#Transformer les majuscules en minuscules
+		sentence=sentence.lower()
+		#Ecriture du nouveau fichier à alligner RAMEAU
+		nFichierBNF.write(sentence+'\n')
+	
+#/////////////// Lignes simplifiées avec le contenu après le premier $a seulement > RAMEAU
+
+res2 = re.findall(r"(\d{8})\s+\$a(.+)\n",read2)
 if res2:
 	for line in res2:
-		#print(line,'\n')
-		nFichierRM.write(str(line)+'\n')
+		sentence=str(line)
+		#Supprimer les accents
+		
+		accent = ['é', 'è', 'ê', 'ë', 'à','É', 'ù', 'û', 'ç', 'ô', 'î','Î', 'ï', 'â','ã','ā','ţ']
+		sans_accent = ['e', 'e', 'e', 'e', 'a','E', 'u', 'u', 'c', 'o', 'I','i', 'i', 'a', 'a', 'a','t']
+
+		for i in range(len(accent)):
+			sentence = sentence.replace(accent[i], sans_accent[i])
+		
+		#Garder que ce qui a après $a.*$|$a.*\n
+		res3 = re.search(r"[a-z]\$(g.*)\)",sentence)
+		if res3:
+			aSupprimer = res3.group(1)
+					
+			sentence2=str(aSupprimer)
+			
+		#Supprimer les stop-words manuellement et sans appel à ntlk
+			sentence=re.sub('\$'+sentence2, '',sentence)
+		
+		sentence=re.sub('d\'|l\'|de|du|\'|\"|-|la|peuple','',sentence)
+		
+		#Suppréssion des éspaces
+		#sentence=sentence.replace(" ","")
+		#Transformer les majuscules en minuscules
+		sentence=sentence.lower()
+		#Ecriture du nouveau fichier à alligner RAMEAU
+		nFichierRM.write(sentence+'\n')
+		
+
+
+
+
 
 nFichierBNF.close()
 nFichierRM.close()
 
 #/////////////// on collecte les termes à mesurer //////////////////////////
 
+mots1 = open('newBNF_utf-8.txt','r')
+read_mots1= mots1.readlines()
+
+mots2 = open('newRAMEAU_utf-8.txt','r')
+read_mots2= mots2.readlines()
+
+for ligne in read_mots1:	
+	res_mots1 = re.search(r".*(\d{8}).*,(.*)\).*",ligne)
+	if res_mots1:
+		iD1 = res_mots1.group(1)
+		mot1 = res_mots1.group(2)
+		#print('mot1 :'+mot1,'iD1 :'+iD1)
+
+		for line in read_mots2:
+			res_mots2 = re.search(r".*(\d{8}).*,(.*)\).*",line)
+			if res_mots2:
+				iD2 = res_mots2.group(1)
+				mot2 = res_mots2.group(2)
+				#print('mot2 :'+mot2,'iD2 :'+iD2)
+				if jaro(mot1, mot2) > 0.7:
+                   			print(mot1+' iD1:'+iD1,'    <>    ',mot2+' iD2:'+iD2 ,' : ', jaro(mot1, mot2))
+					#print(iD1,'    <>    ',iD2 ,' : ', jaro(mot1, mot2))
+					#print(mot1,'    <>    ',mot2,' : ',levenshtein(mot1,mot2))
+"""	
+res_mots1 = re.findall(r".*'(.*)'\)",read_mots1)
+if res_mots1:
+	for ligne1 in res_mots1:
+		mot1 = ligne1
+		res_mots2 = re.findall(r".*'(.*)'\)",read_mots2)
+		if res_mots2:
+			for ligne2 in res_mots2:
+				mot2 = ligne2
+				if jaro(mot1, mot2) > 0.7:
+                   			print(mot1,'    <>    ', mot2,' : ', jaro(mot1, mot2))
+
+
+
+"""
+"""
 mots1 = open('newBNF_utf-8.txt','r')
 read_mots1= mots1.read()
 
@@ -144,11 +218,14 @@ if res_mots1:
 		if res_mots2:
 			for ligne2 in res_mots2:
 				mot2 = ligne2
-				if jaro(mot1, mot2) > 0.95:
+				if jaro(mot1, mot2) > 0.7:
                    			print(mot1,'    <>    ', mot2,' : ', jaro(mot1, mot2))
+"""
 					#print(mot1,'    <>    ',mot2,' : ',levenshtein(mot1,mot2))
-os.remove("newBNF_utf-8.txt")
-os.remove("newBNF_utf-8.txt")
+#os.remove("newBNF_utf-8.txt")
+#os.remove("newBNF_utf-8.txt")
+
+
 
 
 
