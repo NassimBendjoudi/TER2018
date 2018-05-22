@@ -1,0 +1,180 @@
+17526.ttl	\"Tribute to Fela\" feat. Seun Kuti & Egypt 80, Talib Kweli, Ibeyi, Tony Allen, Cheick Tidiane Seck..	2016-09-08T20:00
+1056261.ttl	Jazz à la Villette : \"Tribute to Fela\" feat. Seun Kuti & Egypt 80, Talib Kweli, Ibeyi, Tony Allen, Cheick Tidiane Seck	2016-09-08T20:00
+JaroW:0.803 Levenstein: 0.862 > 
+
+13169.ttl	Les Dissonances - David Grimal 	2014-03-01T16:30
+1018848.ttl	Mozart enfant. Les Dissonances, David Grimal	2014-03-01T16:30
+JaroW:0.741 Levenstein: 0.657 > 
+
+13316.ttl	Orchestre du Théâtre Mariinsky - Valery Gergiev - Daniil Trifonov 	2013-12-01T16:00
+1011723.ttl	Orchestre du Théâtre Mariinsky, Valery Gergiev, Daniil Trifonov, Timur Martynov	2013-12-01T16:00
+JaroW:0.961 Levenstein: 0.803 > 
+
+14564.ttl	Robin McKelle & The Flytones \"Stax Soul Session\"	2014-09-07T20:00
+1021884.ttl	Jazz à la Villette. Robin McKelle & The Flytones \"Stax Soul Session\"	2014-09-07T20:00
+JaroW:0.786 Levenstein: 0.769 > 
+
+14026.ttl	La Chambre Philharmonique - Emmanuel Krivine - Steven Isserlis	2014-12-16T20:00
+1028627.ttl	Guerre et Paix III. La Chambre Philharmonique, Emmanuel Krivine, Steven Isserlis	2014-12-16T20:00
+JaroW:0.789 Levenstein: 0.797 > 
+
+13238.ttl	Univers parallèles	2014-06-18T20:00
+1019811.ttl	Visions du monde. Univers parallèles	2014-06-18T20:00
+JaroW:0.737 Levenstein: 0.6 > 
+
+15128.ttl	Les Dissonances	2015-10-06T20:30
+1040876.ttl	Les Dissonances : David Grimal	2015-10-06T20:30
+JaroW:0.879 Levenstein: 0.522 > 
+
+13428.ttl	Orchestre de Paris - Daniel Harding 	2014-05-07T20:00
+1017724.ttl	Orchestre de Paris, Daniel Harding, Christianne Stotijn	2014-05-07T20:00
+JaroW:0.922 Levenstein: 0.609 > 
+
+14566.ttl	Joshua Redman & The Bad Plus	2014-09-09T20:00
+1021565.ttl	Jazz à la Villette. Joshua Redman and the Bad Plus	2014-09-09T20:00
+JaroW:0.718 Levenstein: 0.559 > 
+
+14559.ttl	James Carter \"Giant Steps\" / Omar Sosa \"Kind of Blue\"	2014-09-06T17:30
+1021056.ttl	Jazz à la Villette. Omar Sosa \"Kind of Blue\"	2014-09-06T17:30
+JaroW:0.756 Levenstein: 0.625 > 
+
+13170.ttl	Les Dissonances - David Grimal	2014-03-01T20:00
+1018849.ttl	Mozart enfant. Les Dissonances, David Grimal	2014-03-01T20:00
+JaroW:0.741 Levenstein: 0.657 > 
+
+13480.ttl	Le Ramayana balinais - L'Enlèvement de Sita	2014-02-02T16:00
+1013599.ttl	Wayang Wong, le Ramayana balinais : l'enlèvement de Sita	2014-02-02T16:00
+JaroW:0.784 Levenstein: 0.756 > 
+
+17803.ttl	Archie Shepp \"Art songs & spirituals\"	2017-09-12T20:00
+1069702.ttl	Jazz à la Villette : Archie Shepp \"Art songs & spirituals\"	2017-09-12T20:00
+JaroW:0.767 Levenstein: 0.721 > 
+
+18220.ttl	Démos	2017-06-25T18:30
+1067689.ttl	Démos 2017	2017-06-25T18:30
+JaroW:0.92 Levenstein: 0.6 > 
+
+17843.ttl	Jeanne Cherhal & Bachar Mar-Khalifé	2017-11-24T20:30
+1074291.ttl	Jeanne Cherhal et Bachar Mar-Khalifé. ARBA - Autour de Barbara	2017-11-24T20:30
+JaroW:0.921 Levenstein: 0.617 > 
+
+16656.ttl	Staatskapelle Berlin / Daniel Barenboim	2017-01-05T20:30
+1061035.ttl	Staatskapelle Berlin, Daniel Barenboim. Mozart et Bruckner	2017-01-05T20:30
+JaroW:0.943 Levenstein: 0.714 > 
+
+16676.ttl	Symphonieorchester des Bayerischen Rundfunks - Jansons 	2017-01-31T20:30
+1062335.ttl	Jansons, Symphonieorchester des Bayerischen Rundfunks	2017-01-31T20:30
+JaroW:0.813 Levenstein: 0.696 > 
+
+17102.ttl	Jamaican Revue	2017-04-21T20:30
+1065605.ttl	Jamaican Revue. Jah9	2017-04-21T20:30
+JaroW:0.956 Levenstein: 0.778 > 
+
+17102.ttl	Jamaican Revue	2017-04-21T20:30
+1066233.ttl	Jamaican Revue. Brigadier Jerry	2017-04-21T20:30
+JaroW:0.879 Levenstein: 0.5 > 
+
+18855.ttl	Gregory Porter	2017-09-05T20:00
+1071729.ttl	Jazz à la Villette : Gregory Porter	2017-09-05T20:00
+JaroW:0.727 Levenstein: 0.538 > 
+
+18867.ttl	Omer Avital Quintet / Laurent de Wilde & Ray Lema	2017-09-08T20:00
+1071742.ttl	Jazz à la Villette : Laurent de Wilde et Ray Lema	2017-09-08T20:00
+JaroW:0.722 Levenstein: 0.658 > 
+
+18860.ttl	Mulatu Astatke & friends	2017-09-13T20:00
+1071864.ttl	Jazz à la Villette : Mulatu Astatke and friends	2017-09-13T20:00
+JaroW:0.727 Levenstein: 0.583 > 
+
+16697.ttl	Chamber Orchestra of Europe	2017-02-07T20:30
+1062702.ttl	Chamber Orchestra of Europe, Yannick Nézet-Séguin	2017-02-07T20:30
+JaroW:0.916 Levenstein: 0.581 > 
+
+17960.ttl	Bach en sept paroles - V - Des profondeurs	2018-02-06T20:30
+1076345.ttl	Bach en sept paroles : V : des profondeurs. Pygmalion - Raphaël Pichon	2018-02-06T20:30
+JaroW:0.889 Levenstein: 0.511 > 
+
+10693.ttl	3 Decades of Einstürzende Neubauten	2010-11-16T20:00
+0952911.ttl	3 Decades of Einstürzende Neubauten. First Night of Celebration	2010-11-16T20:00
+JaroW:0.916 Levenstein: 0.582 > 
+
+11069.ttl	Leçon de musique par Menahem Pressler : Interpréter Mozart et Chopin	2011-03-20T16:30
+0961895.ttl	Leçon de musique. Interpréter Mozart et Chopin.	2011-03-20T16:30
+JaroW:0.883 Levenstein: 0.706 > 
+
+11083.ttl	Les Arts Florissants - Le Jardin de Monsieur Lully	2011-06-07T20:30
+0967509.ttl	5e biennale d'art vocal. Le jardin de Monsieur Lully	2011-06-07T20:30
+JaroW:0.703 Levenstein: 0.553 > 
+
+10952.ttl	Orchestre Philharmonique de Radio France - Lionel Bringuier - Nelson Freire	2011-04-08T20:00
+0963902.ttl	Orchestre Philharmonique de Radio France. Nelson Freire	2011-04-08T20:00
+JaroW:0.926 Levenstein: 0.758 > 
+
+11016.ttl	London Symphony Orchestra - Valery Gergiev	2011-03-28T20:00
+0960360.ttl	London Symphony Orchestra	2011-03-28T20:00
+JaroW:0.93 Levenstein: 0.649 > 
+
+10998.ttl	Budapest Festival Orchestra - Iván Fischer - Petra Lang	2011-03-05T20:00
+0960343.ttl	Budapest Festival Orchestra	2011-03-05T20:00
+JaroW:0.913 Levenstein: 0.565 > 
+
+11929.ttl	The Velvet Underground Revisited 	2011-07-07T20:00
+0993793.ttl	Festival Days Off. The Velvet Underground Revisited	2011-07-07T20:00
+JaroW:0.756 Levenstein: 0.667 > 
+
+10705.ttl	Chamber Orchestra of Europe / V. Jurowski - J. Bell	2010-12-17T20:00
+0955272.ttl	Chamber Orchestra of Europe. Vladimir Jurowski. Joshua Bell	2010-12-17T20:00
+JaroW:0.925 Levenstein: 0.765 > 
+
+10925.ttl	Orchestre Philharmonique de Radio France - Manfred Honeck - Tedi Papavrami	2011-01-07T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:0.915 Levenstein: 0.574 > 
+
+13129.ttl	La Chambre Philharmonique	2013-10-12T20:00
+1010181.ttl	Fleuves. La Chambre Philharmonique	2013-10-12T20:00
+JaroW:0.76 Levenstein: 0.759 > 
+
+12757.ttl	Wild Beasts - Other Lives	2012-07-06T20:00
+0989993.ttl	Festival Days Off : Other Lives	2012-07-06T20:00
+JaroW:0.738 Levenstein: 0.538 > 
+
+11514.ttl	The Tiger Lillies	2012-02-09T20:00
+0981548.ttl	The Tiger Lillies : Low Life Lullabies	2012-02-09T20:00
+JaroW:0.881 Levenstein: 0.5 > 
+
+12684.ttl	Orchestre Philharmonique de Radio France - Daniel Harding	2013-03-29T20:00
+1000295.ttl	Orchestre Philharmonique de Radio France, Daniel Harding. La Chute de Fukuyama (opéra vidéo)	2013-03-29T20:00
+JaroW:0.935 Levenstein: 0.676 > 
+
+11451.ttl	Hélène Grimaud / Kammerorchester des Bayerischen Rundfunk	2011-11-05T20:00
+0977016.ttl	Domaine privé Hélène Grimaud : Kammerorchester des Bayerischen Rundfunks, Hélène Grimaud, Radoslaw Szulc	2011-11-05T20:00
+JaroW:0.705 Levenstein: 0.552 > 
+
+11522.ttl	Solistes de l'Ensemble intercontemporain	2012-02-11T20:00
+1005569.ttl	Des pieds et des mains. Solistes de l'Ensemble intercontemporain	2012-02-11T20:00
+JaroW:0.767 Levenstein: 0.773 > 
+
+12097.ttl	Medeski, Martin & Wood / Steven Bernstein & The Millennial Territory Orchestra play Sly	2011-09-11T17:00
+0975146.ttl	Jazz à la Villette. Steven Bernstein & The Millennial Territory Orchestra play Sly & The Family Stone	2011-09-11T17:00
+JaroW:0.762 Levenstein: 0.622 > 
+
+12409.ttl	Orchestre Philharmonique de Radio France - Santtu-Matias Rouvali - Anu Komsi 	2013-04-19T20:00
+1002176.ttl	Domaine privé Kaija Saariaho. Orchestre Philharmonique de Radio France, Santtu-Matias Rouvali, Anu Komsi	2013-04-19T20:00
+JaroW:0.751 Levenstein: 0.713 > 
+
+12829.ttl	Orchestre Philharmonique de Radio France - Orchestre Unhasu	2012-03-14T20:30
+0983961.ttl	Orchestre Philharmonique de Radio France, Orchestre Unhasu, Myung-Whun Chung	2012-03-14T20:30
+JaroW:0.956 Levenstein: 0.781 > 
+
+11452.ttl	Jan Vogler / Hélène Grimaud	2011-11-06T16:30
+0976426.ttl	Domaine privé. Hélène Grimaud	2011-11-06T16:30
+JaroW:0.771 Levenstein: 0.615 > 
+
+13270.ttl	Orchestre Symphonique d'Etat de São Paulo - Nelson Freire - Marin Alsop	2013-10-07T20:00
+1009521.ttl	Orchestre Symphonique d'Etat de São Paulo, Marin Alsop, Nelson Freire	2013-10-07T20:00
+JaroW:0.962 Levenstein: 0.636 > 
+
+13284.ttl	Bach, concertos pour piano - Orchestre de chambre de Lausanne	2013-10-22T20:00
+1010107.ttl	Bach, concertos pour clavier, Orchestre de chambre de Lausanne	2013-10-22T20:00
+JaroW:0.904 Levenstein: 0.867 > 
+

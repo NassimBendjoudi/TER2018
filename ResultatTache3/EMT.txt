@@ -1,0 +1,1136 @@
+13420.ttl	Orchestre Philharmonique de Radio France - Myung-Whun Chung	2014-04-25T20:00
+0983800.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung	2012-03-16T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+13420.ttl	Orchestre Philharmonique de Radio France - Myung-Whun Chung	2014-04-25T20:00
+1016854.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung	2014-04-11T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+15288.ttl	Orchestre Philharmonique de Radio France	2018-03-22T17:09
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+13408.ttl	Orchestre Philharmonique de Radio France - Myung-Whun Chung	2014-04-11T20:00
+0983800.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung	2012-03-16T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+14120.ttl	Chamber Orchestra of Europe	2015-05-28T20:30
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+14120.ttl	Chamber Orchestra of Europe	2015-05-28T20:30
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+14194.ttl	Gala d’ouverture 2	2015-01-15T20:30
+1029164.ttl	Gala d'ouverture 1	2018-03-29T21:50
+JaroW:0.973 Levenstein: 0.933 > 
+
+13368.ttl	Orchestre du Théâtre Mariinsky - Valery Gergiev	2018-03-22T17:09
+1014019.ttl	Orchestre du Théâtre Mariinsky, Valery Gergiev	2014-02-17T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+13169.ttl	Les Dissonances - David Grimal 	2014-03-01T16:30
+1062228.ttl	Les Dissonances, David Grimal	2017-01-30T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13169.ttl	Les Dissonances - David Grimal 	2014-03-01T16:30
+1023315.ttl	Les Dissonances, David Grimal	2014-10-21T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+13169.ttl	Les Dissonances - David Grimal 	2014-03-01T16:30
+1033088.ttl	Les Dissonances. David Grimal	2015-04-01T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13169.ttl	Les Dissonances - David Grimal 	2014-03-01T16:30
+1040876.ttl	Les Dissonances : David Grimal	2015-10-06T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13169.ttl	Les Dissonances - David Grimal 	2014-03-01T16:30
+1030927.ttl	Les Dissonances, David Grimal	2015-02-09T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13187.ttl	Les Dissonances - David Grimal	2014-05-25T16:30
+1062228.ttl	Les Dissonances, David Grimal	2017-01-30T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13187.ttl	Les Dissonances - David Grimal	2014-05-25T16:30
+1023315.ttl	Les Dissonances, David Grimal	2014-10-21T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+13187.ttl	Les Dissonances - David Grimal	2014-05-25T16:30
+1033088.ttl	Les Dissonances. David Grimal	2015-04-01T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13187.ttl	Les Dissonances - David Grimal	2014-05-25T16:30
+1040876.ttl	Les Dissonances : David Grimal	2015-10-06T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13187.ttl	Les Dissonances - David Grimal	2014-05-25T16:30
+1030927.ttl	Les Dissonances, David Grimal	2015-02-09T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13311.ttl	Orchestre de Paris - Bertrand de Billy	2013-11-30T20:00
+1011154.ttl	Orchestre de Paris, Bertrand de Billy	2013-11-28T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+14270.ttl	Maurizio Pollini	2015-03-30T20:30
+0947333.ttl	Maurizio Pollini	2018-03-29T21:44
+JaroW:1.0 Levenstein: 1.0 > 
+
+13419.ttl	Orchestre de Paris - Paavo Järvi - Nicholas Angelich	2014-04-24T20:00
+1016964.ttl	Orchestre de Paris, Paavo Järvi, Nicholas Angelich	2014-04-23T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+14057.ttl	Ensemble intercontemporain - Tito Ceccherini	2015-01-16T20:30
+1029404.ttl	Ensemble intercontemporain, Tito Ceccherini	2018-03-29T21:50
+JaroW:1.0 Levenstein: 1.0 > 
+
+13319.ttl	Orchestre de Paris - Kristjan Järvi - Yamandu Costa - Alessandro Kramer	2013-12-04T20:00
+1011998.ttl	Orchestre de Paris, Kristjan Järvi, Yamandu Costa, Alessandro Kramer	2018-03-29T21:44
+JaroW:1.0 Levenstein: 1.0 > 
+
+13367.ttl	Orchestre du Théâtre Mariinsky - Valery Gergiev	2018-03-22T17:09
+1014019.ttl	Orchestre du Théâtre Mariinsky, Valery Gergiev	2014-02-17T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+14247.ttl	Les Dissonances - David Grimal	2015-02-09T20:30
+1062228.ttl	Les Dissonances, David Grimal	2017-01-30T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+14247.ttl	Les Dissonances - David Grimal	2015-02-09T20:30
+1023315.ttl	Les Dissonances, David Grimal	2014-10-21T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+14247.ttl	Les Dissonances - David Grimal	2015-02-09T20:30
+1033088.ttl	Les Dissonances. David Grimal	2015-04-01T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+14247.ttl	Les Dissonances - David Grimal	2015-02-09T20:30
+1040876.ttl	Les Dissonances : David Grimal	2015-10-06T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+15268.ttl	Chamber Orchestra of Europe	2016-03-22T20:30
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+15268.ttl	Chamber Orchestra of Europe	2016-03-22T20:30
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+15281.ttl	London Symphony Orchestra	2016-04-12T20:30
+0960360.ttl	London Symphony Orchestra	2011-03-28T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+13301.ttl	Maurizio Pollini 	2013-11-14T20:00
+0947333.ttl	Maurizio Pollini	2018-03-29T21:44
+JaroW:1.0 Levenstein: 1.0 > 
+
+14280.ttl	Orchestre du Théâtre Mariinsky - Valery Gergiev	2018-03-22T17:09
+1014019.ttl	Orchestre du Théâtre Mariinsky, Valery Gergiev	2014-02-17T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+14208.ttl	Ensemble intercontemporain - Orchestre du Conservatoire de Paris - Matthias Pintscher	2015-02-03T20:30
+1030395.ttl	Ensemble intercontemporain, Orchestre du Conservatoire de Paris, Matthias Pintscher	2018-03-29T21:50
+JaroW:1.0 Levenstein: 1.0 > 
+
+13135.ttl	Ensemble intercontemporain - Matthias Pintscher	2013-11-08T20:00
+1023309.ttl	Ensemble intercontemporain, Matthias Pintscher	2014-10-17T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+15170.ttl	London Symphony Orchestra	2015-10-17T20:30
+0960360.ttl	London Symphony Orchestra	2011-03-28T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+13305.ttl	Antonio Meneses - Maria-João Pires	2013-11-18T20:00
+1011607.ttl	Antonio Meneses, Maria Joao Pires	2018-03-29T21:51
+JaroW:1.0 Levenstein: 1.0 > 
+
+14029.ttl	Les Dissonances - David Grimal	2014-10-21T20:00
+1062228.ttl	Les Dissonances, David Grimal	2017-01-30T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+14029.ttl	Les Dissonances - David Grimal	2014-10-21T20:00
+1033088.ttl	Les Dissonances. David Grimal	2015-04-01T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+14029.ttl	Les Dissonances - David Grimal	2014-10-21T20:00
+1040876.ttl	Les Dissonances : David Grimal	2015-10-06T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+14029.ttl	Les Dissonances - David Grimal	2014-10-21T20:00
+1030927.ttl	Les Dissonances, David Grimal	2015-02-09T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+14162.ttl	Orchestre de Paris - David Zinman - Gautier Capuçon	2014-11-20T20:00
+1023837.ttl	Orchestre de Paris, David Zinman, Gautier Capuçon	2014-11-19T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+14203.ttl	Orchestre Philharmonique de Radio France - Myung-Whun Chung - Renaud Capuçon	2018-03-22T17:09
+1030324.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung, Renaud Capuçon	2015-01-26T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+14200.ttl	Orchestre de Paris / Paavo Järvi / Janine Jansen	2018-03-22T17:09
+1030037.ttl	Orchestre de Paris, Paavo Järvi, Janine Jansen	2015-01-22T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13222.ttl	Chamber Orchestra of Europe	2014-03-15T20:00
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+13222.ttl	Chamber Orchestra of Europe	2014-03-15T20:00
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+13428.ttl	Orchestre de Paris - Daniel Harding 	2014-05-07T20:00
+1056843.ttl	Orchestre de Paris / Daniel Harding	2016-09-16T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13428.ttl	Orchestre de Paris - Daniel Harding 	2014-05-07T20:00
+1049486.ttl	Orchestre de Paris, Daniel Harding	2016-05-19T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13428.ttl	Orchestre de Paris - Daniel Harding 	2014-05-07T20:00
+1061651.ttl	Orchestre de Paris, Daniel Harding	2016-09-28T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13428.ttl	Orchestre de Paris - Daniel Harding 	2014-05-07T20:00
+1067466.ttl	Orchestre de Paris. Daniel Harding	2017-05-24T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+15169.ttl	London Symphony Orchestra	2015-10-16T20:30
+0960360.ttl	London Symphony Orchestra	2011-03-28T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+14198.ttl	Orchestre de Paris - Paavo Järvi	2015-01-18T16:30
+0987827.ttl	Orchestre de Paris, Paavo Järvi	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+15533.ttl	Hommage à Henri Dutilleux	2016-01-22T20:30
+1045998.ttl	Hommage à Henri Dutilleux	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+16996.ttl	Youssou Ndour et le Super étoile	2016-11-15T20:30
+0950960.ttl	Youssou Ndour et le Super Etoile	2010-10-28T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+15487.ttl	Orchestre Philharmonique de Radio France	2016-02-19T20:30
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+15246.ttl	Khatia Buniatishvili	2018-03-22T17:09
+1014782.ttl	Khatia Buniatishvili	2014-03-04T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+14193.ttl	Gala d’ouverture 1	2015-01-14T20:30
+1029164.ttl	Gala d'ouverture 1	2018-03-29T21:50
+JaroW:1.0 Levenstein: 1.0 > 
+
+14193.ttl	Gala d’ouverture 1	2015-01-14T20:30
+1029282.ttl	Gala d'ouverture 2	2015-01-15T20:30
+JaroW:0.973 Levenstein: 0.933 > 
+
+15192.ttl	Ensemble intercontemporain	2018-03-22T17:09
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+15225.ttl	Maurizio Pollini	2016-02-08T20:30
+0947333.ttl	Maurizio Pollini	2018-03-29T21:44
+JaroW:1.0 Levenstein: 1.0 > 
+
+13318.ttl	Orchestre du Théâtre Mariinsky - Valery Gergiev - Gautier Capuçon 	2018-03-22T17:09
+1011731.ttl	Orchestre du Théâtre Mariinsky, Valery Gergiev, Gautier Capuçon	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+14376.ttl	West-Eastern Divan Orchestra - Daniel Barenboim	2015-01-19T20:30
+0967748.ttl	West-Eastern Divan Orchestra, Daniel Barenboim	2018-03-29T21:50
+JaroW:1.0 Levenstein: 1.0 > 
+
+14095.ttl	Les Dissonances - David Grimal	2015-04-01T20:30
+1062228.ttl	Les Dissonances, David Grimal	2017-01-30T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+14095.ttl	Les Dissonances - David Grimal	2015-04-01T20:30
+1023315.ttl	Les Dissonances, David Grimal	2014-10-21T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+14095.ttl	Les Dissonances - David Grimal	2015-04-01T20:30
+1040876.ttl	Les Dissonances : David Grimal	2015-10-06T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+14095.ttl	Les Dissonances - David Grimal	2015-04-01T20:30
+1030927.ttl	Les Dissonances, David Grimal	2015-02-09T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+14183.ttl	Orchestre Philharmonique de Radio France	2014-10-10T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+14226.ttl	Budapest Festival Orchestra	2015-05-26T20:30
+0960343.ttl	Budapest Festival Orchestra	2011-03-05T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+14736.ttl	Orchestre de Paris - Paavo Järvi	2015-01-18T11:00
+0987827.ttl	Orchestre de Paris, Paavo Järvi	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+14092.ttl	Ensemble intercontemporain - Matthias Pintscher	2015-04-21T20:30
+1023309.ttl	Ensemble intercontemporain, Matthias Pintscher	2014-10-17T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+13306.ttl	Les Arts Florissants - William Christie 	2013-11-19T20:00
+1029285.ttl	Les Arts Florissants, William Christie	2015-01-16T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13354.ttl	Orchestre de Paris - Paavo Järvi - Menahem Pressler	2014-01-30T20:00
+0993240.ttl	Orchestre de Paris, Paavo Järvi, Menahem Pressler	2012-10-17T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+14249.ttl	Orchestre de Paris / Yuri Temirkanov / Leonidas Kavakos	2018-03-22T17:09
+1031623.ttl	Orchestre de Paris, Yuri Temirkanov, Leonidas Kavakos	2015-02-25T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+14250.ttl	Chamber Orchestra of Europe	2015-02-16T20:30
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+14250.ttl	Chamber Orchestra of Europe	2015-02-16T20:30
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+13186.ttl	Chamber Orchestra of Europe	2014-05-24T20:00
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+13186.ttl	Chamber Orchestra of Europe	2014-05-24T20:00
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+14014.ttl	Ensemble intercontemporain - Matthias Pintscher	2014-09-23T20:00
+1023309.ttl	Ensemble intercontemporain, Matthias Pintscher	2014-10-17T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+15238.ttl	Chamber Orchestra of Europe	2018-03-22T17:09
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+15238.ttl	Chamber Orchestra of Europe	2018-03-22T17:09
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+14360.ttl	Gustavo Dudamel 1	2015-01-24T20:30
+1029290.ttl	Gustavo Dudamel 2	2015-01-25T16:30
+JaroW:0.975 Levenstein: 0.938 > 
+
+13170.ttl	Les Dissonances - David Grimal	2014-03-01T20:00
+1062228.ttl	Les Dissonances, David Grimal	2017-01-30T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13170.ttl	Les Dissonances - David Grimal	2014-03-01T20:00
+1023315.ttl	Les Dissonances, David Grimal	2014-10-21T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+13170.ttl	Les Dissonances - David Grimal	2014-03-01T20:00
+1033088.ttl	Les Dissonances. David Grimal	2015-04-01T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13170.ttl	Les Dissonances - David Grimal	2014-03-01T20:00
+1040876.ttl	Les Dissonances : David Grimal	2015-10-06T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13170.ttl	Les Dissonances - David Grimal	2014-03-01T20:00
+1030927.ttl	Les Dissonances, David Grimal	2015-02-09T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+15296.ttl	Lucio Silla - Mozart	2018-03-22T17:09
+1049479.ttl	Lucio Silla, Mozart	2016-04-23T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+14171.ttl	Orchestre Philharmonique de Radio France - Mikko Franck - Anu Komsi - Andrew Staples	2014-10-03T20:00
+1022195.ttl	Orchestre Philharmonique de Radio France, Mikko Franck, Anu Komsi, Andrew Staples	2018-03-29T21:50
+JaroW:1.0 Levenstein: 1.0 > 
+
+14189.ttl	Orchestre de Paris - Paavo Järvi - Nicholas Angelich	2014-10-23T20:00
+1016964.ttl	Orchestre de Paris, Paavo Järvi, Nicholas Angelich	2014-04-23T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+16052.ttl	Chamber Orchestra of Europe	2016-02-21T16:30
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+16052.ttl	Chamber Orchestra of Europe	2016-02-21T16:30
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+13149.ttl	Les Dissonances - David Grimal	2018-03-22T17:09
+1062228.ttl	Les Dissonances, David Grimal	2017-01-30T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13149.ttl	Les Dissonances - David Grimal	2018-03-22T17:09
+1023315.ttl	Les Dissonances, David Grimal	2014-10-21T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+13149.ttl	Les Dissonances - David Grimal	2018-03-22T17:09
+1033088.ttl	Les Dissonances. David Grimal	2015-04-01T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13149.ttl	Les Dissonances - David Grimal	2018-03-22T17:09
+1040876.ttl	Les Dissonances : David Grimal	2015-10-06T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13149.ttl	Les Dissonances - David Grimal	2018-03-22T17:09
+1030927.ttl	Les Dissonances, David Grimal	2015-02-09T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+16599.ttl	Wayne Shorter Quartet	2016-11-29T20:30
+1004463.ttl	Wayne Shorter Quartet	2012-11-03T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+16753.ttl	Rover	2017-03-08T20:30
+0980906.ttl	Rover	2012-01-15T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+18220.ttl	Démos	2017-06-25T18:30
+1067429.ttl	Démos	2017-06-24T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+18220.ttl	Démos	2017-06-25T18:30
+1067440.ttl	Démos	2017-06-25T14:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+18068.ttl	Gustavo Dudamel	2018-05-06T16:30
+1029290.ttl	Gustavo Dudamel 2	2015-01-25T16:30
+JaroW:0.987 Levenstein: 0.938 > 
+
+18964.ttl	Démos	2018-03-22T17:09
+1067429.ttl	Démos	2017-06-24T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+18964.ttl	Démos	2018-03-22T17:09
+1067440.ttl	Démos	2017-06-25T14:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+18222.ttl	Revisiting Grappelli	2018-03-22T17:09
+1072133.ttl	Revisiting Grappelli	2017-09-29T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+17867.ttl	London Symphony Orchestra	2017-12-18T20:30
+0960360.ttl	London Symphony Orchestra	2011-03-28T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+18122.ttl	London Symphony Orchestra	2018-03-13T20:30
+0960360.ttl	London Symphony Orchestra	2011-03-28T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+17778.ttl	Maurizio Pollini	2017-10-09T20:30
+0947333.ttl	Maurizio Pollini	2018-03-29T21:44
+JaroW:1.0 Levenstein: 1.0 > 
+
+16723.ttl	Budapest Festival Orchestra	2017-03-10T20:30
+0960343.ttl	Budapest Festival Orchestra	2011-03-05T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+18067.ttl	Gustavo Dudamel	2018-05-05T20:30
+1029290.ttl	Gustavo Dudamel 2	2015-01-25T16:30
+JaroW:0.987 Levenstein: 0.938 > 
+
+17777.ttl	Nicholas Angelich	2018-03-22T17:09
+1072540.ttl	Nicholas Angelich	2017-10-06T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+16770.ttl	Chamber Orchestra of Europe	2017-04-08T20:30
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+16770.ttl	Chamber Orchestra of Europe	2017-04-08T20:30
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+16662.ttl	Maurizio Pollini	2017-04-28T20:30
+0947333.ttl	Maurizio Pollini	2018-03-29T21:44
+JaroW:1.0 Levenstein: 1.0 > 
+
+17078.ttl	Nicholas Angelich 	2017-06-06T20:30
+1072540.ttl	Nicholas Angelich	2017-10-06T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+16820.ttl	Démos	2017-06-24T20:30
+1067440.ttl	Démos	2017-06-25T14:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+16616.ttl	Chamber Orchestra of Europe	2016-11-30T20:30
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+16616.ttl	Chamber Orchestra of Europe	2016-11-30T20:30
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+16697.ttl	Chamber Orchestra of Europe	2017-02-07T20:30
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+16697.ttl	Chamber Orchestra of Europe	2017-02-07T20:30
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+17942.ttl	Khatia Buniatishvili	2018-02-06T20:30
+1014782.ttl	Khatia Buniatishvili	2014-03-04T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+18207.ttl	Agnes Obel	2018-03-22T17:09
+1067459.ttl	Agnes Obel	2017-05-14T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+18091.ttl	Chamber Orchestra of Europe	2018-05-22T20:30
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+18091.ttl	Chamber Orchestra of Europe	2018-05-22T20:30
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+17814.ttl	Sgt. Pepper Live	2018-03-22T17:09
+1072924.ttl	Sgt. Pepper Live	2017-10-22T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+10678.ttl	Ensemble intercontemporain	2010-10-05T20:00
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+10703.ttl	Ensemble intercontemporain 	2010-12-14T20:00
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+10691.ttl	Orchestre Philharmonique de Radio France	2010-11-10T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+5479.ttl	Ensemble intercontemporain	2009-06-09T20:30
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+5393.ttl	Ensemble intercontemporain	2008-11-05T20:00
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+6493.ttl	Orchestre Philharmonique de Radio France	2010-01-15T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+5334.ttl	Ensemble intercontemporain	2008-10-02T20:00
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+6463.ttl	Orchestre Philharmonique de Radio France	2009-11-20T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+10647.ttl	Orchestre Divertimento 	2010-02-17T20:00
+0934775.ttl	Orchestre Divertimento	2018-03-29T21:50
+JaroW:1.0 Levenstein: 1.0 > 
+
+6494.ttl	Orchestre Philharmonique de Radio France	2010-01-22T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+6515.ttl	Anniversaire Christoph Eschenbach	2018-03-22T17:08
+0935344.ttl	Anniversaire Christoph Eschenbach	2018-03-29T21:50
+JaroW:1.0 Levenstein: 1.0 > 
+
+6530.ttl	Orchestre Philharmonique de Radio France	2010-06-04T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+6524.ttl	Orchestre Philharmonique de Radio France	2010-04-02T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+10045.ttl	Ensemble intercontemporain	2009-11-19T20:00
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+10036.ttl	Les Arts Florissants - William Christie	2009-11-10T20:00
+1029285.ttl	Les Arts Florissants, William Christie	2015-01-16T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+5394.ttl	Orchestre Philharmonique de Radio France	2008-11-07T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+10023.ttl	Orchestre Philharmonique de Radio France	2009-10-09T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+6525.ttl	Orchestre Philharmonique de Radio France	2010-04-09T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+5404.ttl	Ensemble intercontemporain	2008-11-28T20:00
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+6487.ttl	Budapest Festival Orchestra	2018-03-22T17:08
+0960343.ttl	Budapest Festival Orchestra	2011-03-05T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+10753.ttl	Ensemble intercontemporain	2011-02-25T20:00
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+10080.ttl	Ensemble intercontemporain	2010-04-15T20:00
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+6450.ttl	Simón Bolívar Youth Orchestra Venezuela	2009-10-24T20:00
+0924969.ttl	Simón Bolívar Youth Orchestra Venezuela	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+5714.ttl	La petite renarde rusée	2009-03-08T11:00
+1070561.ttl	La petite renarde rusée	2018-03-29T21:51
+JaroW:1.0 Levenstein: 1.0 > 
+
+10130.ttl	Chamber Orchestra of Europe	2010-04-17T20:00
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+10130.ttl	Chamber Orchestra of Europe	2010-04-17T20:00
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+6500.ttl	London Symphony Orchestra	2010-01-30T20:30
+0960360.ttl	London Symphony Orchestra	2011-03-28T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+6519.ttl	Orchestre Philharmonique de Radio France	2010-02-23T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+6531.ttl	Orchestre Philharmonique de Radio France	2010-06-18T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+6635.ttl	Orchestre Philharmonique de Radio France	2010-03-19T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+6446.ttl	Ensemble intercontemporain	2009-10-17T20:00
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+10027.ttl	Ensemble intercontemporain	2009-10-23T20:00
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+5401.ttl	Chamber Orchestra of Europe	2008-11-20T20:00
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+5401.ttl	Chamber Orchestra of Europe	2008-11-20T20:00
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+10889.ttl	Orchestre Philharmonique de Radio France - Myung-Whun Chung - Leonidas Kavakos	2011-06-24T20:00
+0969116.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung, Leonidas Kavakos	2018-03-29T21:50
+JaroW:1.0 Levenstein: 1.0 > 
+
+6442.ttl	Orchestre Philharmonique de Radio France	2009-10-16T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+5350.ttl	Ensemble intercontemporain	2018-03-22T17:08
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+10906.ttl	Orchestre du Théâtre Mariinsky - Valery Gergiev	2010-12-12T16:00
+1014019.ttl	Orchestre du Théâtre Mariinsky, Valery Gergiev	2014-02-17T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+6649.ttl	Carla Bley \"The Lost Chords find Paolo Fresu\"	2010-04-25T20:00
+0941724.ttl	Carla Bley \"The lost chords find Paolo Fresu\"	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+10168.ttl	Les Dissonances, David Grimal	2010-03-09T20:00
+1062228.ttl	Les Dissonances, David Grimal	2017-01-30T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+10168.ttl	Les Dissonances, David Grimal	2010-03-09T20:00
+1023315.ttl	Les Dissonances, David Grimal	2014-10-21T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+10168.ttl	Les Dissonances, David Grimal	2010-03-09T20:00
+1033088.ttl	Les Dissonances. David Grimal	2015-04-01T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+10168.ttl	Les Dissonances, David Grimal	2010-03-09T20:00
+1040876.ttl	Les Dissonances : David Grimal	2015-10-06T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+10168.ttl	Les Dissonances, David Grimal	2010-03-09T20:00
+1030927.ttl	Les Dissonances, David Grimal	2015-02-09T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+10707.ttl	Orchestre Philharmonique de Radio-France - François Xavier Roth - Nathalie Stutzmann	2010-09-10T20:00
+0951538.ttl	Orchestre Philharmonique de Radio France. François Xavier Roth. Nathalie Stutzmann	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+6420.ttl	Orchestre Philharmonique de Radio France	2009-09-18T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+6526.ttl	Orchestre Philharmonique de Radio France	2010-04-16T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+10698.ttl	Ensemble intercontemporain	2010-11-27T20:00
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+10692.ttl	Ensemble intercontemporain	2018-03-22T17:08
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+10106.ttl	Ensemble intercontemporain	2018-03-22T17:08
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+6449.ttl	Simón Bolívar Youth Orchestra Venezuela	2009-10-23T20:00
+0924969.ttl	Simón Bolívar Youth Orchestra Venezuela	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+10749.ttl	Ensemble intercontemporain	2011-02-11T20:00
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+10104.ttl	Orchestre Philharmonique de Radio France	2010-02-05T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+5434.ttl	Ensemble intercontemporain	2018-03-22T17:08
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+6485.ttl	Orchestre Philharmonique de Radio France	2018-03-22T17:08
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+5342.ttl	Orchestre Philharmonique de Radio France	2008-09-20T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+6443.ttl	 Brahms, musique de chambre I	2009-10-17T16:00
+0924580.ttl	Brahms, musique de chambre II	2018-03-29T21:45
+JaroW:0.983 Levenstein: 0.913 > 
+
+6443.ttl	 Brahms, musique de chambre I	2009-10-17T16:00
+0924579.ttl	Brahms, musique de chambre I	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+10019.ttl	Ensemble intercontemporain	2009-09-30T20:00
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+5426.ttl	Chamber Orchestra of Europe	2018-03-22T17:08
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+5426.ttl	Chamber Orchestra of Europe	2018-03-22T17:08
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+11111.ttl	West-Eastern Divan Orchestra - Daniel Barenboim	2011-05-21T20:00
+0967748.ttl	West-Eastern Divan Orchestra, Daniel Barenboim	2018-03-29T21:50
+JaroW:1.0 Levenstein: 1.0 > 
+
+5473.ttl	La Querelle des Bouffons	2009-05-14T20:00
+0942599.ttl	La querelle des Bouffons	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+5466.ttl	Chamber Orchestra of Europe	2018-03-22T17:08
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+5466.ttl	Chamber Orchestra of Europe	2018-03-22T17:08
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+6516.ttl	Anniversaire Christoph Eschenbach	2010-02-20T20:00
+0935344.ttl	Anniversaire Christoph Eschenbach	2018-03-29T21:50
+JaroW:1.0 Levenstein: 1.0 > 
+
+10136.ttl	Ensemble intercontemporain	2010-06-11T20:00
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+6501.ttl	London Symphony Orchestra	2010-01-31T16:00
+0960360.ttl	London Symphony Orchestra	2011-03-28T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+10135.ttl	Chamber Orchestra of Europe	2018-03-22T17:08
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+10135.ttl	Chamber Orchestra of Europe	2018-03-22T17:08
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+10905.ttl	Orchestre du Théâtre Mariinsky - Valery Gergiev	2010-12-11T20:00
+1014019.ttl	Orchestre du Théâtre Mariinsky, Valery Gergiev	2014-02-17T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+10709.ttl	Orchestre Philharmonique de Radio France - Eliahu Inbal - Marc Coppey	2010-09-17T20:00
+0995446.ttl	Orchestre Philharmonique de Radio France, Eliahu Inbal, Marc Coppey	2012-12-14T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+5476.ttl	Orchestre Philharmonique de Radio France	2009-05-31T16:30
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+10962.ttl	Chamber Orchestra of Europe - Bernard Haitink	2011-01-19T20:00
+0955975.ttl	Chamber Orchestra of Europe. Bernard Haitink	2011-01-18T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+10962.ttl	Chamber Orchestra of Europe - Bernard Haitink	2011-01-19T20:00
+0955976.ttl	Chamber Orchestra of Europe. Bernard Haitink	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+10169.ttl	Les Dissonances, David Grimal	2010-05-18T20:00
+1062228.ttl	Les Dissonances, David Grimal	2017-01-30T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+10169.ttl	Les Dissonances, David Grimal	2010-05-18T20:00
+1023315.ttl	Les Dissonances, David Grimal	2014-10-21T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+10169.ttl	Les Dissonances, David Grimal	2010-05-18T20:00
+1033088.ttl	Les Dissonances. David Grimal	2015-04-01T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+10169.ttl	Les Dissonances, David Grimal	2010-05-18T20:00
+1040876.ttl	Les Dissonances : David Grimal	2015-10-06T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+10169.ttl	Les Dissonances, David Grimal	2010-05-18T20:00
+1030927.ttl	Les Dissonances, David Grimal	2015-02-09T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+5453.ttl	Ensemble intercontemporain	2018-03-22T17:08
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+6454.ttl	Orchestre Philharmonique de Radio France	2009-11-06T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+5454.ttl	Orchestre Philharmonique de Radio France	2009-03-26T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+6429.ttl	London Symphony Orchestra	2009-09-27T16:00
+0960360.ttl	London Symphony Orchestra	2011-03-28T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+11799.ttl	Orchestre Divertimento 	2011-02-13T16:30
+0934775.ttl	Orchestre Divertimento	2018-03-29T21:50
+JaroW:1.0 Levenstein: 1.0 > 
+
+5442.ttl	Ensemble intercontemporain	2009-02-25T20:00
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+6527.ttl	Orchestre Philharmonique de Radio France	2010-04-23T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+10927.ttl	Michel Portal Sextet	2018-03-22T17:08
+0956009.ttl	Michel Portal Sextet	2011-01-09T16:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+5475.ttl	Chamber Orchestra of Europe	2018-03-22T17:08
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+5475.ttl	Chamber Orchestra of Europe	2018-03-22T17:08
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+6529.ttl	Orchestre Philharmonique de Radio France	2010-05-29T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+6685.ttl	Wayne Shorter Quartet	2009-10-29T20:00
+1004463.ttl	Wayne Shorter Quartet	2012-11-03T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+10904.ttl	Orchestre Philharmonique de Radio France - Myung-Whun Chung	2010-12-10T20:00
+0983800.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung	2012-03-16T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+10904.ttl	Orchestre Philharmonique de Radio France - Myung-Whun Chung	2010-12-10T20:00
+1016854.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung	2014-04-11T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+6427.ttl	Orchestre Philharmonique de Radio France	2009-09-25T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+10022.ttl	Chamber Orchestra of Europe	2009-10-06T20:00
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+10022.ttl	Chamber Orchestra of Europe	2009-10-06T20:00
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+6444.ttl	Brahms, musique de chambre II	2009-10-18T11:00
+0924580.ttl	Brahms, musique de chambre II	2018-03-29T21:45
+JaroW:1.0 Levenstein: 1.0 > 
+
+6444.ttl	Brahms, musique de chambre II	2009-10-18T11:00
+0924584.ttl	Brahms, musique de chambre III	2018-03-29T21:47
+JaroW:0.992 Levenstein: 0.958 > 
+
+6444.ttl	Brahms, musique de chambre II	2009-10-18T11:00
+0924579.ttl	Brahms, musique de chambre I	2018-03-29T21:46
+JaroW:0.983 Levenstein: 0.913 > 
+
+10961.ttl	Chamber Orchestra of Europe - Bernard Haitink	2011-01-18T20:00
+0955976.ttl	Chamber Orchestra of Europe. Bernard Haitink	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+6472.ttl	Orchestre Philharmonique de Radio France	2009-12-04T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+6528.ttl	Orchestre Philharmonique de Radio France	2010-05-21T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+6445.ttl	Brahms, musique de chambre III	2009-10-18T16:00
+0924580.ttl	Brahms, musique de chambre II	2018-03-29T21:45
+JaroW:0.992 Levenstein: 0.958 > 
+
+6445.ttl	Brahms, musique de chambre III	2009-10-18T16:00
+0924584.ttl	Brahms, musique de chambre III	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+6478.ttl	Orchestre Philharmonique de Radio France	2009-12-11T20:00
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+5465.ttl	Ensemble intercontemporain	2009-04-28T20:00
+0240344.ttl	Ensemble intercontemporain	2018-03-29T21:48
+JaroW:1.0 Levenstein: 1.0 > 
+
+10902.ttl	Maurizio Pollini	2010-12-07T20:00
+0947333.ttl	Maurizio Pollini	2018-03-29T21:44
+JaroW:1.0 Levenstein: 1.0 > 
+
+6551.ttl	London Symphony Orchestra	2018-03-22T17:08
+0960360.ttl	London Symphony Orchestra	2011-03-28T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+5410.ttl	Chamber Orchestra of Europe	2018-03-22T17:08
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+5410.ttl	Chamber Orchestra of Europe	2018-03-22T17:08
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+6428.ttl	London Symphony Orchestra	2009-09-26T20:00
+0960360.ttl	London Symphony Orchestra	2011-03-28T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+11091.ttl	Orchestre du Théâtre Mariinsky - Valery Gergiev	2010-12-13T20:00
+1014019.ttl	Orchestre du Théâtre Mariinsky, Valery Gergiev	2014-02-17T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+11538.ttl	Les Dissonances / David Grimal	2012-03-18T16:30
+1062228.ttl	Les Dissonances, David Grimal	2017-01-30T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+11538.ttl	Les Dissonances / David Grimal	2012-03-18T16:30
+1023315.ttl	Les Dissonances, David Grimal	2014-10-21T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+11538.ttl	Les Dissonances / David Grimal	2012-03-18T16:30
+1033088.ttl	Les Dissonances. David Grimal	2015-04-01T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+11538.ttl	Les Dissonances / David Grimal	2012-03-18T16:30
+1040876.ttl	Les Dissonances : David Grimal	2015-10-06T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+11538.ttl	Les Dissonances / David Grimal	2012-03-18T16:30
+1030927.ttl	Les Dissonances, David Grimal	2015-02-09T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+11887.ttl	Orchestre de Paris - Paavo Järvi	2011-09-17T15:00
+0987827.ttl	Orchestre de Paris, Paavo Järvi	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+12689.ttl	Orchestre Philharmonique de Radio France - Vasily Petrenko - Julia Fischer	2013-06-14T20:00
+1004739.ttl	Orchestre Philharmonique de Radio France, Vasily Petrenko, Julia Fischer	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+13285.ttl	Orchestre de Paris - Paavo Järvi - Yefim Bronfman 	2013-10-24T20:00
+1010184.ttl	Orchestre de Paris, Paavo Järvi, Yefim Bronfman	2013-10-23T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+12509.ttl	Orchestre de Paris - Paavo Järvi - Jorge Luis Prats	2013-03-28T20:00
+1000232.ttl	Orchestre de Paris, Paavo Järvi, Jorge Luis Prats	2013-03-27T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+12073.ttl	Echo et Narcisse	2012-03-09T14:30
+1070512.ttl	Echo et Narcisse	2012-03-12T11:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+11530.ttl	Les Dissonances / David Grimal	2012-02-24T20:00
+1062228.ttl	Les Dissonances, David Grimal	2017-01-30T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+11530.ttl	Les Dissonances / David Grimal	2012-02-24T20:00
+1023315.ttl	Les Dissonances, David Grimal	2014-10-21T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+11530.ttl	Les Dissonances / David Grimal	2012-02-24T20:00
+1033088.ttl	Les Dissonances. David Grimal	2015-04-01T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+11530.ttl	Les Dissonances / David Grimal	2012-02-24T20:00
+1040876.ttl	Les Dissonances : David Grimal	2015-10-06T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+11530.ttl	Les Dissonances / David Grimal	2012-02-24T20:00
+1030927.ttl	Les Dissonances, David Grimal	2015-02-09T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+12034.ttl	Écho et Narcisse	2018-03-22T17:09
+1070512.ttl	Echo et Narcisse	2012-03-12T11:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+12616.ttl	Les Dissonances - David Grimal	2013-05-23T20:00
+1062228.ttl	Les Dissonances, David Grimal	2017-01-30T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+12616.ttl	Les Dissonances - David Grimal	2013-05-23T20:00
+1023315.ttl	Les Dissonances, David Grimal	2014-10-21T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+12616.ttl	Les Dissonances - David Grimal	2013-05-23T20:00
+1033088.ttl	Les Dissonances. David Grimal	2015-04-01T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+12616.ttl	Les Dissonances - David Grimal	2013-05-23T20:00
+1040876.ttl	Les Dissonances : David Grimal	2015-10-06T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+12616.ttl	Les Dissonances - David Grimal	2013-05-23T20:00
+1030927.ttl	Les Dissonances, David Grimal	2015-02-09T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+12313.ttl	Chamber Orchestra of Europe	2013-05-14T20:00
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+12313.ttl	Chamber Orchestra of Europe	2013-05-14T20:00
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+11624.ttl	Orchestre Philharmonique de Radio France - Myung-Whun Chung - Symphonie n°9 de Beethoven 	2018-03-22T17:09
+0978085.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung, Symphonie n°9 de Beethoven	2018-03-29T21:50
+JaroW:1.0 Levenstein: 1.0 > 
+
+13131.ttl	Chamber Orchestra of Europe	2013-10-30T20:00
+0241240.ttl	Chamber orchestra of Europe	2018-03-29T21:47
+JaroW:1.0 Levenstein: 1.0 > 
+
+13131.ttl	Chamber Orchestra of Europe	2013-10-30T20:00
+0241078.ttl	Chamber orchestra of Europe	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+12688.ttl	Orchestre Philharmonique de Radio France	2018-03-22T17:09
+0956005.ttl	Orchestre Philharmonique de Radio France	2011-01-07T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+11586.ttl	Orchestre Philharmonique de Radio France - Myung-Whun Chung	2011-10-07T20:00
+0983800.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung	2012-03-16T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+11586.ttl	Orchestre Philharmonique de Radio France - Myung-Whun Chung	2011-10-07T20:00
+1016854.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung	2014-04-11T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+11634.ttl	Orchestre de Paris - Pierre Boulez - Bertrand Chamayou	2011-12-21T20:00
+0979095.ttl	Orchestre de Paris, Pierre Boulez, Bertrand Chamayou	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+11701.ttl	Orchestre Philharmonique de Radio France - Gustavo Dudamel	2012-04-13T20:00
+0985774.ttl	Orchestre Philharmonique de Radio France, Gustavo Dudamel	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+11595.ttl	Orchestre Philharmonique de Radio France - Eliahu Inbal - Isabelle Faust - Steve Davislim 	2011-10-21T20:00
+0976415.ttl	Orchestre Philharmonique de Radio France, Eliahu Inbal, Isabelle Faust, Steve Davislim	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+11464.ttl	Ensemble intercontemporain / Matthias Pintscher	2011-12-15T20:00
+1023309.ttl	Ensemble intercontemporain, Matthias Pintscher	2014-10-17T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+11922.ttl	Orchestre de Paris - Kristjan Järvi - Xavier de Maistre	2018-03-22T17:09
+0989253.ttl	Orchestre de Paris, Kristjan Järvi, Xavier de Maistre	2018-03-29T21:50
+JaroW:1.0 Levenstein: 1.0 > 
+
+11888.ttl	Orchestre de Paris - Paavo Järvi	2011-09-17T11:00
+0987827.ttl	Orchestre de Paris, Paavo Järvi	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+11704.ttl	Orchestre Philharmonique de Radio France - Gustavo Dudamel	2012-04-20T20:00
+0985774.ttl	Orchestre Philharmonique de Radio France, Gustavo Dudamel	2018-03-29T21:46
+JaroW:1.0 Levenstein: 1.0 > 
+
+11704.ttl	Orchestre Philharmonique de Radio France - Gustavo Dudamel	2012-04-20T20:00
+0985772.ttl	Orchestre Philharmonique de Radio France, Gustavo Dudamel	2012-04-13T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+11594.ttl	Orchestre de Paris - Paavo Järvi - Jorge Luis Prats	2011-10-20T20:00
+1000232.ttl	Orchestre de Paris, Paavo Järvi, Jorge Luis Prats	2013-03-27T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+11915.ttl	Orchestre Philharmonique de Radio France - Myung-Whun Chung	2012-01-28T11:00
+0983800.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung	2012-03-16T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+11915.ttl	Orchestre Philharmonique de Radio France - Myung-Whun Chung	2012-01-28T11:00
+1016854.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung	2014-04-11T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+11686.ttl	Orchestre de Paris - Paavo Järvi - Katia et Marielle Labèque	2012-03-15T20:00
+0983794.ttl	Orchestre de Paris, Paavo Järvi, Katia et Marielle Labèque	2018-03-29T21:50
+JaroW:1.0 Levenstein: 1.0 > 
+
+11545.ttl	Les Arts Florissants/ William Christie	2012-04-06T20:00
+1029285.ttl	Les Arts Florissants, William Christie	2015-01-16T20:30
+JaroW:1.0 Levenstein: 1.0 > 
+
+13247.ttl	Orchestre Philharmonique de Radio France - Myung-Whun Chung - David Kadouch	2018-03-22T17:09
+1008361.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung, David Kadouch	2013-09-13T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+11576.ttl	Ensemble intercontemporain - Lucerne Festival Academy Ensemble- Pierre Boulez - Barbara Hannigan	2011-09-27T20:00
+0974485.ttl	Ensemble intercontemporain, Lucerne Festival Academy, Pierre Boulez, Barbara Hannigan	2018-03-29T21:50
+JaroW:0.949 Levenstein: 0.904 > 
+
+11709.ttl	Orchestre National du Capitole de Toulouse - Tugan Sokhiev - Jean-Yves Thibaudet	2012-05-12T20:00
+0987968.ttl	Orchestre National du Capitole de Toulouse, Tugan Sokhiev, Jean-Yves Thibaudet	2018-03-29T21:45
+JaroW:1.0 Levenstein: 1.0 > 
+
+11687.ttl	Orchestre Philharmonique de Radio France - Myung-Whun Chung	2012-03-16T20:00
+1016854.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung	2014-04-11T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
+11659.ttl	Orchestre de Paris - Andris Nelsons - Sergey Khachatryan	2018-03-22T17:09
+0980051.ttl	Orchestre de Paris, Andris Nelsons, Sergey Khachatryan	2012-01-18T20:00
+JaroW:1.0 Levenstein: 1.0 > 
+
