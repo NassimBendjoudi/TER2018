@@ -1,0 +1,1508 @@
+40137206	$aTraditions$mAsie$mRussie$eKalmoukes
+11942615	$aRusses
+JaroW:0.519 Levenstein: 0.222
+
+39003197	$aTraditions$mAfrique$mOuganda$eBaganda
+12050073	$aGanda$gpeuple d'Afrique
+JaroW:0.738 Levenstein: 0.714
+
+40032801	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
+11942615	$aRusses
+JaroW:0.5 Levenstein: 0.083
+
+42746546	$aTraditions$mAsie$mJapon$eRyukyuan
+11974155	$aJaponais
+JaroW:0.333 Levenstein: 0.0
+
+40941897	$aTraditions$mAsie centrale$mRussie$eTadjikes
+11942615	$aRusses
+JaroW:0.528 Levenstein: 0.25
+
+42664693	$aTraditions$mEurope$mEspagne$eGitans
+11936374	$aEspagnols
+JaroW:0.611 Levenstein: 0.333
+
+38625368	$aTraditions$mAmérique du Sud$mBrésil$eBahia
+11976818	$aBrésiliens
+JaroW:0.58 Levenstein: 0.2
+
+38479646	$aTraditions$mEurope$mPortugal$eMinho
+11940850	$aPortugais
+JaroW:0.437 Levenstein: 0.0
+
+38562298	$aTraditions$mEurope$mRoumanie$eTziganes
+11949437	$aRoumains
+JaroW:0.583 Levenstein: 0.25
+
+42630994	$aTraditions$mAfrique$mCameroun$eKirdi
+13549199	$aCamerounais
+JaroW:0.43 Levenstein: 0.182
+
+42616984	$aTraditions$mAfrique$mKenya$eSwahilie
+11982232	$aKenyah$gpeuple d'Asie du Sud-Est
+JaroW:0.528 Levenstein: 0.0
+
+42429266	$aTraditions$mAfrique$mSénégal$eGriots
+12372103	$aSeneca$gIndiens
+JaroW:0 Levenstein: 0.0
+
+40134861	$aTraditions$mAsie$mRussie$eSartes
+11942615	$aRusses
+JaroW:0.611 Levenstein: 0.333
+
+38471794	$aTraditions$mOcéanie$mAustralie$eNyongaar
+12020740	$aAustraliens
+JaroW:0.311 Levenstein: 0.091
+
+38526633	$aTraditions$mAfrique du Nord$mÉgypte$eSufi
+12032347	$aÉgyptiens
+JaroW:0.454 Levenstein: 0.111
+
+43801458	$aTraditions$mAsie$mChine$eYunnan
+12216718	$aChin$gpeuple d'Asie
+JaroW:0.472 Levenstein: 0.167
+
+43799754	$aTraditions$mAsie$mLaos$eTa Oi
+11937972	$aLapons
+JaroW:0.578 Levenstein: 0.333
+
+43799742	$aTraditions$mAsie$mLaos$eAkha
+11937972	$aLapons
+JaroW:0.472 Levenstein: 0.167
+
+38432240	$aTraditions$mEurope$mEspagne$eGitans
+11936374	$aEspagnols
+JaroW:0.611 Levenstein: 0.333
+
+43629724	$aTraditions$mOcéanie$mNouvelle-Guinée$mPapouasie$eDani
+11941599	$aPapous
+JaroW:0.472 Levenstein: 0.167
+
+38451724	$aTraditions$mAsie$mLiban$eMaronites
+11973794	$aIban$gpeuple d'Asie du Sud-Est
+JaroW:0.574 Levenstein: 0.111
+
+38522084	$aTraditions$mAsie$mBengale$eBauls
+11943171	$aBengalis$gpeuple d'Asie du Sud
+JaroW:0.79 Levenstein: 0.375
+
+39277478	$aTraditions$mAfrique$mMali$eBonso
+11980487	$aMalais$gpeuple d'Asie du Sud-Est
+JaroW:0.456 Levenstein: 0.0
+
+43799583	$aTraditions$mAsie$mCambodge$eTampoon
+15966646	$aCambodgiens
+JaroW:0.645 Levenstein: 0.364
+
+38516889	$aTraditions$mAsie$mTaiwan$eTsou
+12153909	$aTaiwanais
+JaroW:0.508 Levenstein: 0.111
+
+43800432	$aTraditions$mAsie$mVietnam$eHmong
+11933789	$aVietnamiens
+JaroW:0.43 Levenstein: 0.182
+
+43802219	$aTraditions$mAsie$mCambodge$eBrao$iKrung
+15966646	$aCambodgiens
+JaroW:0.558 Levenstein: 0.091
+
+42763114	$aTraditions$mAsie$mIran$eZagros
+12352295	$aIranxe$gIndiens
+JaroW:0.389 Levenstein: 0.0
+
+39237855	$aTraditions$mAfrique$mGabon$eAtege
+16080200	$aGabonais
+JaroW:0.383 Levenstein: 0.125
+
+38483925	$aTraditions$mAfrique$mSénégal$eMalinké
+12372103	$aSeneca$gIndiens
+JaroW:0.437 Levenstein: 0.0
+
+43795756	$aTraditions$mAsie$mChine$mYunan$eDai Lue
+12514778	$aYunga$gIndiens
+JaroW:0 Levenstein: 0.0
+
+41013850	$aTraditions$mOcéanie$mAustralie$eAborigènes
+12020740	$aAustraliens
+JaroW:0.744 Levenstein: 0.364
+
+42587982	$aTraditions$mEurope$eJuifs Hassidiques
+11966868	$aEuropéens
+JaroW:0.447 Levenstein: 0.118
+
+40125760	$aTraditions$mEurope$mItalie$mCalabre$eAlbanais
+11954058	$aCalabrais
+JaroW:0.837 Levenstein: 0.556
+
+39041577	$aTraditions$mEurope$eRussie
+11966868	$aEuropéens
+JaroW:0.5 Levenstein: 0.222
+
+42427710	$aTraditions$mAsie$mChine$eOuïgour
+12216718	$aChin$gpeuple d'Asie
+JaroW:0.464 Levenstein: 0.143
+
+42638059	$aTraditions$mAmérique du Sud$mGuyane$eNoirs marrons
+14416064	$aGuane$gIndiens
+JaroW:0.351 Levenstein: 0.154
+
+38512378	$aTraditions$mEurope$mHongrie$eTziganes
+11976771	$aHongrois
+JaroW:0.472 Levenstein: 0.25
+
+41386992	$aTraditions$mAsie$mOuzbékistan$eKarakalpaks
+11951751	$aOuzbeks
+JaroW:0.489 Levenstein: 0.182
+
+42633468	$aTraditions$mEurope$mEspagne$mAndalousie$eGitans
+12509453	$aAndalous
+JaroW:0.625 Levenstein: 0.25
+
+38432241	$aTraditions$mEurope$mEspagne$eGitans
+11936374	$aEspagnols
+JaroW:0.611 Levenstein: 0.333
+
+40033923	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
+11942615	$aRusses
+JaroW:0.5 Levenstein: 0.083
+
+38562102	$aTraditions$mAfrique$mGuinée$eMalinké
+12649683	$aGuinéens
+JaroW:0.601 Levenstein: 0.25
+
+38373532	$aTraditions$mAsie$mPakistan$eSoufis
+12443861	$aPakistanais
+JaroW:0.338 Levenstein: 0.273
+
+38454315	$aTraditions$mFrance$eBasques
+11954111	$aFrancs
+JaroW:0.54 Levenstein: 0.143
+
+38559619	$aTraditions$mEurope$mEspagne$eJuifs sépharades
+11936374	$aEspagnols
+JaroW:0.489 Levenstein: 0.25
+
+39074127	$aTraditions$mAmérique Centrale$mCaraïbes$eSaint-Christophe-et-Nevis
+11965850	$aArabes
+JaroW:0.442 Levenstein: 0.16
+
+38440348	$aTraditions$mEspagne$eFlamenco
+11936374	$aEspagnols
+JaroW:0.569 Levenstein: 0.111
+
+40941926	$aTraditions$mAsie centrale$mRussie$eadjikes
+11942615	$aRusses
+JaroW:0.54 Levenstein: 0.286
+
+38595603	$aTraditions$mEurope$mRoumanie$eTziganes
+11949437	$aRoumains
+JaroW:0.583 Levenstein: 0.25
+
+40134867	$aTraditions$mAsie$mRussie$eSartes
+11942615	$aRusses
+JaroW:0.611 Levenstein: 0.333
+
+40030383	$aTraditions$mAfrique$mTogo$eKabiyé
+11981213	$aTogbo$gpeuple d'Afrique
+JaroW:0.456 Levenstein: 0.0
+
+38440349	$aTraditions$mEspagne$eFlamenco
+11936374	$aEspagnols
+JaroW:0.569 Levenstein: 0.111
+
+40137201	$aTraditions$mAsie$mRussie$eKalmoukes
+11942615	$aRusses
+JaroW:0.519 Levenstein: 0.222
+
+39183974	$aTraditions$mAsie$mIran$eKurdes yarsan
+12352295	$aIranxe$gIndiens
+JaroW:0.496 Levenstein: 0.154
+
+43760446	$aTraditions$mAsie$mChine$mYunan$eMosuo
+12514778	$aYunga$gIndiens
+JaroW:0 Levenstein: 0.0
+
+43799746	$aTraditions$mAsie$mLaos$eBit
+11937972	$aLapons
+JaroW:0 Levenstein: 0.0
+
+43799778	$aTraditions$mAsie$mLaos$eLao
+11937972	$aLapons
+JaroW:0.867 Levenstein: 0.5
+
+42155228	$aTraditions$mAsie$mIsraël$esépharades
+11974129	$aIsraéliens
+JaroW:0.678 Levenstein: 0.2
+
+38420681	$aTraditions$mFrance$eMarins
+11954111	$aFrancs
+JaroW:0.694 Levenstein: 0.333
+
+40926558	$aTraditions$mHongrie$eTziganes
+11976771	$aHongrois
+JaroW:0.472 Levenstein: 0.25
+
+42615127	$aTraditions$mEurope$eTziganes
+11966868	$aEuropéens
+JaroW:0.458 Levenstein: 0.222
+
+38522280	$aTraditions$mEurope$mBalkans$eMusulmans
+15042164	$aBalkar$gpeuple turc
+JaroW:0.519 Levenstein: 0.222
+
+39102139	$aTraditions$mAfrique$mNamibie$eJu'hoansi
+15626045	$aNamibiens
+JaroW:0.389 Levenstein: 0.111
+
+40239123	$aTraditions$mEurope$eTziganes
+11966868	$aEuropéens
+JaroW:0.458 Levenstein: 0.222
+
+43800420	$aTraditions$mAsie$mVietnam$eHmong
+11933789	$aVietnamiens
+JaroW:0.43 Levenstein: 0.182
+
+42666042	$aTraditions$mAsie$mIran$eChiites
+12352295	$aIranxe$gIndiens
+JaroW:0.54 Levenstein: 0.143
+
+38471790	$aTraditions$mOcéanie$mAustralie$eNyongaar
+12020740	$aAustraliens
+JaroW:0.311 Levenstein: 0.091
+
+43795750	$aTraditions$mAsie$mChine$mYunan$eDai Lue
+12514778	$aYunga$gIndiens
+JaroW:0 Levenstein: 0.0
+
+38508736	$aTraditions$mAsie$mBangladesh$eMurung
+12177348	$aBangladais
+JaroW:0.511 Levenstein: 0.0
+
+38551119	$aTraditions$mAfrique$mCameroun$eBalis
+13549199	$aCamerounais
+JaroW:0.43 Levenstein: 0.273
+
+42641173	$aTraditions$mAsie$mCorée$eChamans
+11941248	$aCree$gIndiens
+JaroW:0.518 Levenstein: 0.143
+
+43534133	$aTraditions$mEurope$mEspagne$eGitans
+11936374	$aEspagnols
+JaroW:0.611 Levenstein: 0.333
+
+40134858	$aTraditions$mAsie$mRussie$eSartes
+11942615	$aRusses
+JaroW:0.611 Levenstein: 0.333
+
+43800435	$aTraditions$mAsie$mVietnam$eYao
+11933789	$aVietnamiens
+JaroW:0.475 Levenstein: 0.091
+
+42543284	$aTraditions$mAfrique$mMali$eTouaregs
+11980487	$aMalais$gpeuple d'Asie du Sud-Est
+JaroW:0.528 Levenstein: 0.25
+
+43799547	$aTraditions$mAsie$mCambodge$eKhmer
+15966646	$aCambodgiens
+JaroW:0.43 Levenstein: 0.182
+
+43800541	$aTraditions$mAsie$mVietnam$eDao Chang
+11933789	$aVietnamiens
+JaroW:0.301 Levenstein: 0.091
+
+38405825	$aTraditions$mOcéanie$mPolynésie$eMaohi
+11932830	$aPolynésiens
+JaroW:0.527 Levenstein: 0.091
+
+40245837	$aTraditions$mAfrique$mÉthiopie$eMaale
+12481322	$aÉthiopiens
+JaroW:0.433 Levenstein: 0.1
+
+43800526	$aTraditions$mAsie$mVietnam$eThai
+11933789	$aVietnamiens
+JaroW:0.508 Levenstein: 0.273
+
+42638038	$aTraditions$mAmérique du Sud$mGuyane$eCréoles
+14416064	$aGuane$gIndiens
+JaroW:0.448 Levenstein: 0.143
+
+38436456	$aTraditions$mAfrique$mGuinée$eMalinké
+12649683	$aGuinéens
+JaroW:0.601 Levenstein: 0.25
+
+38563494	$aTraditions$mAsie$mPakistan$mPanjab$eSoufis
+14488623	$aPana$gpeuple du Burkina Faso
+JaroW:0 Levenstein: 0.0
+
+43762396	$aTraditions$mAsie$mChine$mYunan$eNisu
+12514778	$aYunga$gIndiens
+JaroW:0 Levenstein: 0.0
+
+38564890	$aTraditions$mAfrique$mGuinée$eSoussous
+12649683	$aGuinéens
+JaroW:0.5 Levenstein: 0.125
+
+43762355	$aTraditions$mAsie$mChine$mYunan$eWa
+12514778	$aYunga$gIndiens
+JaroW:0 Levenstein: 0.2
+
+43795911	$aTraditions$mAsie$mCambodge$ePhnong
+15966646	$aCambodgiens
+JaroW:0.505 Levenstein: 0.182
+
+38432433	$aTraditions$mEurope$eTziganes
+11966868	$aEuropéens
+JaroW:0.458 Levenstein: 0.222
+
+38547523	$aTraditions$mFrance$eGascogne
+11954111	$aFrancs
+JaroW:0.639 Levenstein: 0.125
+
+38602776	$aTraditions$mFrance$mParis$eAveyronnais
+12254564	$aParesi$gIndiens
+JaroW:0.593 Levenstein: 0.182
+
+42236368	$aTraditions$mEurope$mEspagne$eJuifs sépharades
+11936374	$aEspagnols
+JaroW:0.489 Levenstein: 0.25
+
+38931174	$aTraditions$mFrance$eBretagne
+11954111	$aFrancs
+JaroW:0.625 Levenstein: 0.25
+
+42196012	$aTraditions$mEurope$eMacédoine
+11966868	$aEuropéens
+JaroW:0.546 Levenstein: 0.111
+
+38518379	$aTraditions$mFrance$eNormandie$j1946
+11954111	$aFrancs
+JaroW:0.4 Levenstein: 0.2
+
+43748350	$aTraditions$mEurope$mRoumanie$eTziganes
+11949437	$aRoumains
+JaroW:0.583 Levenstein: 0.25
+
+41481949	$aTraditions$mAfrique du Nord$mAlgérie$earabo-andalous
+11988158	$aAlgériens
+JaroW:0.619 Levenstein: 0.214
+
+39088111	$aTraditions$mEurope$mEspagne$eArabo-Andalou
+11936374	$aEspagnols
+JaroW:0.501 Levenstein: 0.154
+
+43799737	$aTraditions$mAsie$mLaos$eAkha
+11937972	$aLapons
+JaroW:0.472 Levenstein: 0.167
+
+41488945	$aTraditions$mAfrique$mMali$eTouareg
+11980487	$aMalais$gpeuple d'Asie du Sud-Est
+JaroW:0.437 Levenstein: 0.143
+
+43795899	$aTraditions$mAsie$mCambodge$ePhnong
+15966646	$aCambodgiens
+JaroW:0.505 Levenstein: 0.182
+
+38389605	$aTraditions$mAfrique$mMali$eKhassonkés
+11980487	$aMalais$gpeuple d'Asie du Sud-Est
+JaroW:0.511 Levenstein: 0.2
+
+42349151	$aTraditions$mEurope$mRussie$eTziganes
+11942615	$aRusses
+JaroW:0.528 Levenstein: 0.25
+
+40033996	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
+11942615	$aRusses
+JaroW:0.5 Levenstein: 0.083
+
+43800531	$aTraditions$mAsie$mVietnam$eHmong
+11933789	$aVietnamiens
+JaroW:0.43 Levenstein: 0.182
+
+43800519	$aTraditions$mAsie$mVietnam$eLu
+11933789	$aVietnamiens
+JaroW:0 Levenstein: 0.0
+
+38931162	$aTraditions$mFrance$eBretagne
+11954111	$aFrancs
+JaroW:0.625 Levenstein: 0.25
+
+39074974	$aTraditions$mEurope$eGrande-Bretagne
+11966868	$aEuropéens
+JaroW:0.445 Levenstein: 0.2
+
+38559092	$aTraditions$mAsie$mViêtnam$eMinorités du Nord
+11933789	$aVietnamiens
+JaroW:0.6 Levenstein: 0.214
+
+40064548	$aTraditions$mAsie$mRussie$mCaucase$eKabarde
+16180520	$aCaucasiens
+JaroW:0.576 Levenstein: 0.3
+
+38530781	$aTraditions$mAsie$mNépal$eGaïnés
+14495458	$aNépalais
+JaroW:0.597 Levenstein: 0.25
+
+41272508	$aTraditions$mEurope$eCroatie
+11966868	$aEuropéens
+JaroW:0.587 Levenstein: 0.222
+
+42669857	$aTraditions$mEurope$mHongrie$eTziganes
+11976771	$aHongrois
+JaroW:0.472 Levenstein: 0.25
+
+40033821	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
+11942615	$aRusses
+JaroW:0.5 Levenstein: 0.083
+
+43799696	$aTraditions$mAsie$mLaos$eNyaheun
+11937972	$aLapons
+JaroW:0.54 Levenstein: 0.143
+
+38389017-008	$aTraditions$mAfrique$mCameroun$ePygmées Baka
+13549199	$aCamerounais
+JaroW:0.482 Levenstein: 0.25
+
+38389017-019	$aTraditions$mOcéanie$mAustralie$eClan de Caledon Bay
+12020740	$aAustraliens
+JaroW:0.456 Levenstein: 0.188
+
+38382142	$aTraditions$mAfrique$mNamibie$eJu'hoansi
+15626045	$aNamibiens
+JaroW:0.389 Levenstein: 0.111
+
+39038773	$aTraditions$mAfrique$mÉthiopie$eKonso
+12481322	$aÉthiopiens
+JaroW:0.433 Levenstein: 0.2
+
+39065461	$aTraditions$mAmérique Centrale$mCaraïbes$eCréoles
+11965850	$aArabes
+JaroW:0.643 Levenstein: 0.429
+
+43795907	$aTraditions$mAsie$mCambodge$ePhnong
+15966646	$aCambodgiens
+JaroW:0.505 Levenstein: 0.182
+
+43799668	$aTraditions$mAsie$mLaos$eNyaheun
+11937972	$aLapons
+JaroW:0.54 Levenstein: 0.143
+
+38610601	$aTraditions$mAsie$mPakistan$eQawal
+12443861	$aPakistanais
+JaroW:0.527 Levenstein: 0.182
+
+38553958	$aTraditions$mAfrique$mCameroun$eMbum
+13549199	$aCamerounais
+JaroW:0.561 Levenstein: 0.182
+
+43762380	$aTraditions$mAsie$mChine$mYunan$eBouddhistes
+12514778	$aYunga$gIndiens
+JaroW:0.43 Levenstein: 0.091
+
+40033439	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
+11942615	$aRusses
+JaroW:0.5 Levenstein: 0.083
+
+43799481	$aTraditions$mAsie$mCambodge$eBrao$iKrung
+15966646	$aCambodgiens
+JaroW:0.558 Levenstein: 0.091
+
+43711178	$aTraditions$mEurope$mRussie$eTziganes
+11942615	$aRusses
+JaroW:0.528 Levenstein: 0.25
+
+42317574	$aTraditions$mAfrique du Nord$mAlgérie$eTouaregs
+11988158	$aAlgériens
+JaroW:0.565 Levenstein: 0.333
+
+38560014	$aTraditions$mAmérique du Sud$mGuyane$eKalina
+14416064	$aGuane$gIndiens
+JaroW:0.578 Levenstein: 0.167
+
+38543197	$aTraditions$mEurope$mHongrie$eTziganes
+11976771	$aHongrois
+JaroW:0.472 Levenstein: 0.25
+
+38558945	$aTraditions$mAmérique du Sud$mGuyane$eKalina
+14416064	$aGuane$gIndiens
+JaroW:0.578 Levenstein: 0.167
+
+38529612	$aTraditions$mAsie$mThaïlande$eBoudhistes
+13319407	$aThaïlandais
+JaroW:0.463 Levenstein: 0.091
+
+38483823	$aTraditions$mAfrique$mMali$eTouaregs
+11980487	$aMalais$gpeuple d'Asie du Sud-Est
+JaroW:0.528 Levenstein: 0.25
+
+43799724	$aTraditions$mAsie$mLaos$eYao$iLantene
+11937972	$aLapons
+JaroW:0.542 Levenstein: 0.25
+
+39010830	$aTraditions$mAsie$mIran$eKurdes yarsan
+12352295	$aIranxe$gIndiens
+JaroW:0.496 Levenstein: 0.154
+
+39010824	$aTraditions$mAsie$mSyrie$eSoufi
+12048392	$aSyriens
+JaroW:0.606 Levenstein: 0.143
+
+43799526	$aTraditions$mAsie$mCambodge$eBrao$iKavet
+15966646	$aCambodgiens
+JaroW:0.57 Levenstein: 0.091
+
+41037374	$aTraditions$mEurope$mRoumanie$eTziganes
+11949437	$aRoumains
+JaroW:0.583 Levenstein: 0.25
+
+41128240	$aTraditions$mAsie$mTaïwan$eHakka
+12153909	$aTaiwanais
+JaroW:0.541 Levenstein: 0.222
+
+41073278	$aTraditions$mAsie$mInde du Sud$mKerala$ePulluvan
+11963507	$aKéra$gpeuple d'Afrique
+JaroW:0.458 Levenstein: 0.125
+
+43800440	$aTraditions$mAsie$mVietnam$eYao
+11933789	$aVietnamiens
+JaroW:0.475 Levenstein: 0.091
+
+43760593	$aTraditions$mAsie$mChine$eBouddhistes
+12216718	$aChin$gpeuple d'Asie
+JaroW:0.561 Levenstein: 0.182
+
+38394094	$aTraditions$mFrance$eMarins
+11954111	$aFrancs
+JaroW:0.694 Levenstein: 0.333
+
+43762409	$aTraditions$mAsie$mChine$mYunan$eJingpaw
+12514778	$aYunga$gIndiens
+JaroW:0.676 Levenstein: 0.429
+
+43760551	$aTraditions$mAsie$mChine$mYunan$eYi Laluo
+12514778	$aYunga$gIndiens
+JaroW:0.595 Levenstein: 0.25
+
+43762385	$aTraditions$mAsie$mChine$mYunan$eNisu
+12514778	$aYunga$gIndiens
+JaroW:0 Levenstein: 0.0
+
+40134838	$aTraditions$mAsie$mRussie$eSartes
+11942615	$aRusses
+JaroW:0.611 Levenstein: 0.333
+
+38389239	$aTraditions$mEurope$mRussie$eOrthodoxes
+11942615	$aRusses
+JaroW:0.6 Levenstein: 0.3
+
+42420031	$aTraditions$mAsie$mPakistan$eSoufis
+12443861	$aPakistanais
+JaroW:0.338 Levenstein: 0.273
+
+38972711	$aTraditions$mAfrique$mAlgérie$eSoufis
+11988158	$aAlgériens
+JaroW:0.519 Levenstein: 0.222
+
+38478879	$aTraditions$mEurope$mEspagne$mAndalousie$eSoufis
+12509453	$aAndalous
+JaroW:0.431 Levenstein: 0.125
+
+42196014	$aTraditions$mEurope$eCroatie
+11966868	$aEuropéens
+JaroW:0.587 Levenstein: 0.222
+
+42196028	$aTraditions$mEurope$eYougoslavie
+11966868	$aEuropéens
+JaroW:0.436 Levenstein: 0.182
+
+43795876	$aTraditions$mAsie$mCambodge$ePhnong
+15966646	$aCambodgiens
+JaroW:0.505 Levenstein: 0.182
+
+41439391	$aTraditions$mAsie$mOuzbékistan$eKarakalpaks
+11951751	$aOuzbeks
+JaroW:0.489 Levenstein: 0.182
+
+40217849	$aTraditions$mAfrique$mOuganda$mAnkole$eIru
+12488303	$aNkole$gpeuple d'Afrique
+JaroW:0 Levenstein: 0.0
+
+40064604	$aTraditions$mAfrique$mÉthiopie$eMaale
+12481322	$aÉthiopiens
+JaroW:0.433 Levenstein: 0.1
+
+38544370	$aTraditions$mFrance$eMarins
+11954111	$aFrancs
+JaroW:0.694 Levenstein: 0.333
+
+38964944	$aTraditions$mEurope$etziganes
+11966868	$aEuropéens
+JaroW:0.458 Levenstein: 0.222
+
+40224887	$aTraditions$mAfrique$mMalawi$eMang'anja
+11980487	$aMalais$gpeuple d'Asie du Sud-Est
+JaroW:0.689 Levenstein: 0.333
+
+38559094	$aTraditions$mAsie$mViêtnam$eÊdê
+11933789	$aVietnamiens
+JaroW:0.475 Levenstein: 0.182
+
+38617419	$aTraditions$mAfrique$mAngola$eBena Luluwa
+14590358	$aAnga$gpeuple de Papouasie-Nouvelle-Guinée
+JaroW:0.394 Levenstein: 0.182
+
+42420027	$aTraditions$mAsie$mIran$eSoufis
+12352295	$aIranxe$gIndiens
+JaroW:0 Levenstein: 0.0
+
+43760584	$aTraditions$mAsie$mChine$mYunan$eBai
+12514778	$aYunga$gIndiens
+JaroW:0 Levenstein: 0.0
+
+43762393	$aTraditions$mAsie$mChine$mYunan$eNisu
+12514778	$aYunga$gIndiens
+JaroW:0 Levenstein: 0.0
+
+43799653	$aTraditions$mAsie$mLaos$eBrao$iKanying
+11937972	$aLapons
+JaroW:0.577 Levenstein: 0.154
+
+43762378	$aTraditions$mAsie$mChine$mYunan$eWa
+12514778	$aYunga$gIndiens
+JaroW:0 Levenstein: 0.2
+
+42284079	$aTraditions$mEurope$eTzigane
+11966868	$aEuropéens
+JaroW:0.336 Levenstein: 0.111
+
+38519895	$aTraditions$mAsie$mTurquie$mKomya$eDerviches tourneurs
+11981616	$aKoma$gpeuple du Soudan du Sud et d'Éthiopie
+JaroW:0 Levenstein: 0.053
+
+39021999	$aTraditions$mAfrique$mCongo$ePygmées Ituri
+12394804	$aConoy$gIndiens
+JaroW:0.426 Levenstein: 0.0
+
+43535064	$aTraditions$mAsie$mJapon$eBiwa
+11974155	$aJaponais
+JaroW:0.458 Levenstein: 0.125
+
+41059493	$aTraditions$mAsie$mInde$mBengale$eBauls
+11943171	$aBengalis$gpeuple d'Asie du Sud
+JaroW:0.79 Levenstein: 0.375
+
+43799530	$aTraditions$mAsie$mCambodge$eBrao$iKrung
+15966646	$aCambodgiens
+JaroW:0.558 Levenstein: 0.091
+
+40245868	$aTraditions$mMoyen Orient$eAbbassides
+12501782	$aMoyen-Orientaux
+JaroW:0.278 Levenstein: 0.067
+
+42155262	$aTraditions$mAsie$mIsraël$esépharades
+11974129	$aIsraéliens
+JaroW:0.678 Levenstein: 0.2
+
+43799717	$aTraditions$mAsie$mLaos$eKhmu
+11937972	$aLapons
+JaroW:0 Levenstein: 0.0
+
+43795850	$aTraditions$mAsie$mCambodge$eTampoon
+15966646	$aCambodgiens
+JaroW:0.645 Levenstein: 0.364
+
+39004453	$aTraditions$mAfrique$mGuinée$eMalinké
+12649683	$aGuinéens
+JaroW:0.601 Levenstein: 0.25
+
+40148679	$aTraditions$mEurope$eNorvège
+11966868	$aEuropéens
+JaroW:0.589 Levenstein: 0.222
+
+38562185	$aTraditions$mAfrique$mGuinée$eSoussous
+12649683	$aGuinéens
+JaroW:0.5 Levenstein: 0.125
+
+43800473	$aTraditions$mAsie$mVietnam$eGiay
+11933789	$aVietnamiens
+JaroW:0.561 Levenstein: 0.182
+
+40033426	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
+11942615	$aRusses
+JaroW:0.5 Levenstein: 0.083
+
+40033142	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
+11942615	$aRusses
+JaroW:0.5 Levenstein: 0.083
+
+43762349	$aTraditions$mAsie$mChine$mYunan$eYi$iLaluo
+12514778	$aYunga$gIndiens
+JaroW:0.587 Levenstein: 0.222
+
+43760562	$aTraditions$mAsie$mChine$mYunan$eBai
+12514778	$aYunga$gIndiens
+JaroW:0 Levenstein: 0.0
+
+38559072	$aTraditions$mAsie$mThaïlande$ePeuples d'origine chinoise
+13319407	$aThaïlandais
+JaroW:0.652 Levenstein: 0.182
+
+41072746	$aTraditions$mAmérique du Sud$mBrésil$eIndiens Kaiapó 
+11976818	$aBrésiliens
+JaroW:0.452 Levenstein: 0.214
+
+38429224-001	$aTraditions$mAmérique du Sud$mBolivie$eQuechuas
+12165757	$aBoliviens
+JaroW:0.412 Levenstein: 0.111
+
+38429224-002	$aTraditions$mAmérique du Sud$mBolivie$eAymaras
+12165757	$aBoliviens
+JaroW:0.418 Levenstein: 0.111
+
+39019205	$aTraditions$mAfrique$mÉthiopie$eAri
+12481322	$aÉthiopiens
+JaroW:0.478 Levenstein: 0.1
+
+42199260	$aTraditions$mEurope$mRussie$eOrthodoxes
+11942615	$aRusses
+JaroW:0.6 Levenstein: 0.3
+
+39029265	$aTraditions$mAsie$mInde$mBengale$eBâuls
+11943171	$aBengalis$gpeuple d'Asie du Sud
+JaroW:0.79 Levenstein: 0.375
+
+38433863	$aTraditions$mEurope$eTzigane
+11966868	$aEuropéens
+JaroW:0.336 Levenstein: 0.111
+
+38539382	$aTraditions$mAfrique$mGuinée$eBagas
+12649683	$aGuinéens
+JaroW:0.55 Levenstein: 0.125
+
+43795845	$aTraditions$mAsie$mCambodge$eTampoon
+15966646	$aCambodgiens
+JaroW:0.645 Levenstein: 0.364
+
+38529620	$aTraditions$mAsie$mNépal$eBoudhistes
+14495458	$aNépalais
+JaroW:0.483 Levenstein: 0.1
+
+40217850	$aTraditions$mAfrique$mCameroun$eBafa
+13549199	$aCamerounais
+JaroW:0.447 Levenstein: 0.182
+
+43800504	$aTraditions$mAsie$mVietnam$eHani$iHani Hmong
+11933789	$aVietnamiens
+JaroW:0.501 Levenstein: 0.25
+
+38528931	$aTraditions$mAfrique du Nord$mAlgérie$eBerbères
+11988158	$aAlgériens
+JaroW:0.648 Levenstein: 0.333
+
+38465762	$aTraditions$mAsie$mInde$mBengale$eBauls
+11943171	$aBengalis$gpeuple d'Asie du Sud
+JaroW:0.79 Levenstein: 0.375
+
+38373398-007	$aTraditions$mAfrique$mCameroun$mMonts Mandara$mMouyengué$eMouyang
+12342234	$aMouyeng$gpeuple d'Afrique
+JaroW:0.943 Levenstein: 0.857
+
+42666760	$aTraditions$mAsie$mIran$eQashqâyi
+12352295	$aIranxe$gIndiens
+JaroW:0.431 Levenstein: 0.0
+
+38454232	$aTraditions$mFrance$eBasques
+11954111	$aFrancs
+JaroW:0.54 Levenstein: 0.143
+
+38425144	$aTraditions$mEurope$mYougoslavie$mMacédoine$eGuègues
+12150208	$aMacédoniens$gRépublique de Macédoine
+JaroW:0.567 Levenstein: 0.273
+
+43762388	$aTraditions$mAsie$mChine$mYunan$eNisu
+12514778	$aYunga$gIndiens
+JaroW:0 Levenstein: 0.0
+
+43762410	$aTraditions$mAsie$mChine$mYunan$eJingpaw
+12514778	$aYunga$gIndiens
+JaroW:0.676 Levenstein: 0.429
+
+43762404	$aTraditions$mAsie$mChine$mYunan$eWa
+12514778	$aYunga$gIndiens
+JaroW:0 Levenstein: 0.2
+
+42539785	$aTraditions$mOcéanie$mAustralie$eAborigènes
+12020740	$aAustraliens
+JaroW:0.744 Levenstein: 0.364
+
+43799675	$aTraditions$mAsie$mLaos$eBrao$iLave
+11937972	$aLapons
+JaroW:0.511 Levenstein: 0.1
+
+41303845	$aTraditions$mAsie$mLaos$eBrao
+11937972	$aLapons
+JaroW:0.611 Levenstein: 0.167
+
+40224889	$aTraditions$mAfrique$mMalawi$eTonga
+11980487	$aMalais$gpeuple d'Asie du Sud-Est
+JaroW:0.456 Levenstein: 0.0
+
+38562811	$aTraditions$mAfrique du Nord$mAlgérie$mKabylie$eBerbères
+11940990	$aKabyles$gpeuple berbère
+JaroW:0.601 Levenstein: 0.375
+
+38931181	$aTraditions$mFrance$eBretagne
+11954111	$aFrancs
+JaroW:0.625 Levenstein: 0.25
+
+40152623	$aTraditions$mAmérique du Sud$mChili$eMapuches
+12411692	$aChiliens
+JaroW:0.5 Levenstein: 0.125
+
+38473075	$aTraditions$mAmérique du Nord$mÉtats-Unis$mDakota Sud$eLakota
+11954078	$aDakota$gIndiens
+JaroW:0.889 Levenstein: 0.833
+
+40055164	$aTraditions$mAfrique$mCongo$eM'Benga
+12394804	$aConoy$gIndiens
+JaroW:0.448 Levenstein: 0.143
+
+43769357	$aTraditions$mEurope$eFrance$mProvence
+11966868	$aEuropéens
+JaroW:0.542 Levenstein: 0.25
+
+42155255	$aTraditions$mAsie$mIsraël$esépharades
+11974129	$aIsraéliens
+JaroW:0.678 Levenstein: 0.2
+
+40217857	$aTraditions$mAfrique$mAngola$eHumbi
+14590358	$aAnga$gpeuple de Papouasie-Nouvelle-Guinée
+JaroW:0 Levenstein: 0.0
+
+42484412	$aTraditions$mAsie$mCambodge$ePinpeat
+15966646	$aCambodgiens
+JaroW:0.323 Levenstein: 0.091
+
+43840131	$aTraditions$mAmérique du Sud$mBolivie$eQuechuas
+12165757	$aBoliviens
+JaroW:0.412 Levenstein: 0.111
+
+42196034	$aTraditions$mEurope$eYougoslavie
+11966868	$aEuropéens
+JaroW:0.436 Levenstein: 0.182
+
+38371575	$aTraditions$mAfrique$mAlgérie$mBiskra$eGnawas
+13325394	$aBisa$gpeuple du Burkina Faso et du Ghana
+JaroW:0.472 Levenstein: 0.167
+
+41072782	$aTraditions$mAfrique$mMali$ePeuhls
+11980487	$aMalais$gpeuple d'Asie du Sud-Est
+JaroW:0.556 Levenstein: 0.167
+
+40033408	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
+11942615	$aRusses
+JaroW:0.5 Levenstein: 0.083
+
+40224872	$aTraditions$mAfrique$mCongo$ePygmées Mbuti
+12394804	$aConoy$gIndiens
+JaroW:0.426 Levenstein: 0.0
+
+43762399	$aTraditions$mAsie$mChine$mYunan$eNisu
+12514778	$aYunga$gIndiens
+JaroW:0 Levenstein: 0.0
+
+40092007	$aTraditions$mFrance$eMariniers
+11954111	$aFrancs
+JaroW:0.62 Levenstein: 0.333
+
+42471934	$aTraditions$mAsie$mChine$mTaiwan$ePaiwan aborigenes
+12153909	$aTaiwanais
+JaroW:0.73 Levenstein: 0.471
+
+43762401	$aTraditions$mAsie$mChine$mYunan$eBulang
+12514778	$aYunga$gIndiens
+JaroW:0.697 Levenstein: 0.333
+
+38507478	$aTraditions$mAfrique$mCongo$eM'Benga
+12394804	$aConoy$gIndiens
+JaroW:0.448 Levenstein: 0.143
+
+41177406	$aTraditions$mAsie$mOuzbékistan$eTadjiks
+11951751	$aOuzbeks
+JaroW:0.524 Levenstein: 0.286
+
+38399584-008	$aTraditions$mFrance$mCamargue$eGitans
+12216718	$aChin$gpeuple d'Asie
+JaroW:0.417 Levenstein: 0.125
+
+38399584-009	$aTraditions$mFrance$mCamargue$eGitans
+11946303	$aAfghans
+JaroW:0.448 Levenstein: 0.143
+
+38399584-001	$aTraditions$mEurope$mEspagne$mAndalousie$eGitans
+12509453	$aAndalous
+JaroW:0.625 Levenstein: 0.25
+
+38399584-002	$aTraditions$mEurope$mEspagne$mAndalousie$eGitans
+12509453	$aAndalous
+JaroW:0.625 Levenstein: 0.25
+
+38399584-003	$aTraditions$mEurope$mEspagne$mAndalousie$eGitans
+12509453	$aAndalous
+JaroW:0.625 Levenstein: 0.25
+
+38399584-004	$aTraditions$mEurope$mEspagne$mAndalousie$eGitans
+12509453	$aAndalous
+JaroW:0.625 Levenstein: 0.25
+
+38399584-005	$aTraditions$mEurope$mEspagne$mAndalousie$eGitans
+12509453	$aAndalous
+JaroW:0.625 Levenstein: 0.25
+
+38399584-006	$aTraditions$mEurope$mEspagne$mAndalousie$eGitans
+12509453	$aAndalous
+JaroW:0.625 Levenstein: 0.25
+
+43799664	$aTraditions$mAsie$mLaos$eBrao$iKavet
+11937972	$aLapons
+JaroW:0.505 Levenstein: 0.091
+
+42667334	$aTraditions$mAsie$mIran$eKermānshāhān
+12352295	$aIranxe$gIndiens
+JaroW:0.478 Levenstein: 0.2
+
+38590512	$aTraditions$mFrance$mParis$eAveyronnais
+12254564	$aParesi$gIndiens
+JaroW:0.593 Levenstein: 0.182
+
+38471707	$aTraditions$mOcéanie$mAustralie$eBardi
+12020740	$aAustraliens
+JaroW:0.624 Levenstein: 0.182
+
+38572226	$aTraditions$mAsie$mPakistan$eSoufis
+12443861	$aPakistanais
+JaroW:0.338 Levenstein: 0.273
+
+40064592	$aTraditions$mAsie$mRussie$mCaucase$eKabarde
+16180520	$aCaucasiens
+JaroW:0.576 Levenstein: 0.3
+
+38606480	$aTraditions$mEurope$eTziganes
+11966868	$aEuropéens
+JaroW:0.458 Levenstein: 0.222
+
+43795843	$aTraditions$mAsie$mCambodge$eBrao$iKrung
+15966646	$aCambodgiens
+JaroW:0.558 Levenstein: 0.091
+
+43883392	$aTraditions$mAfrique$mAfrique occidentale$mSénégal$eOuolof
+12372103	$aSeneca$gIndiens
+JaroW:0 Levenstein: 0.0
+
+42777286	$aTraditions$mEurope$mEspagne$eFlamenco
+11936374	$aEspagnols
+JaroW:0.569 Levenstein: 0.111
+
+43799710	$aTraditions$mAsie$mLaos$eHani$iAkha
+11937972	$aLapons
+JaroW:0.511 Levenstein: 0.1
+
+41481944	$aTraditions$mAfrique du Nord$mAlgérie$earabo-andalous
+11988158	$aAlgériens
+JaroW:0.619 Levenstein: 0.214
+
+38476491	$aTraditions$mAsie$mRussie$eNenec
+11942615	$aRusses
+JaroW:0.456 Levenstein: 0.167
+
+43795855	$aTraditions$mAsie$mCambodge$ePhnong
+15966646	$aCambodgiens
+JaroW:0.505 Levenstein: 0.182
+
+41037381	$aTraditions$mEurope$mRoumanie$eTziganes
+11949437	$aRoumains
+JaroW:0.583 Levenstein: 0.25
+
+40957136	$aTraditions$mAsie$mPakistan$eSoufis
+12443861	$aPakistanais
+JaroW:0.338 Levenstein: 0.273
+
+38403436	$aTraditions$mAfrique$mMauritanie$eHaratines
+12565952	$aMauritaniens
+JaroW:0.81 Levenstein: 0.5
+
+42114197	$aTraditions$mAmérique centrale$mAntilles$eIndiens
+11931627	$aAntillais
+JaroW:0.476 Levenstein: 0.333
+
+38536894	$aTraditions$mAmérique du Sud$mGuyane$eKalina
+14416064	$aGuane$gIndiens
+JaroW:0.578 Levenstein: 0.167
+
+43762403	$aTraditions$mAsie$mChine$mYunan$eWa
+12514778	$aYunga$gIndiens
+JaroW:0 Levenstein: 0.2
+
+43762402	$aTraditions$mAsie$mChine$mYunan$eBulang
+12514778	$aYunga$gIndiens
+JaroW:0.697 Levenstein: 0.333
+
+39947099	$aTraditions$mFrance$eAuvergne
+11954111	$aFrancs
+JaroW:0.514 Levenstein: 0.125
+
+38475953	$aTraditions$mAsie$mPakistan$eKafiri
+12443861	$aPakistanais
+JaroW:0.593 Levenstein: 0.273
+
+38553758	$aTraditions$mAfrique$mNigeria$eHausa
+11959718	$aNigérians
+JaroW:0.437 Levenstein: 0.111
+
+40925199	$aTraditions$mEurope$eGrèce
+11966868	$aEuropéens
+JaroW:0.533 Levenstein: 0.222
+
+39205120	$aTraditions$mAsie$mJapon$ebouddhistes
+11974155	$aJaponais
+JaroW:0.549 Levenstein: 0.182
+
+38633216	$aTraditions$mEurope$mGrèce$eArvanites
+11940385	$aGrecs
+JaroW:0.437 Levenstein: 0.222
+
+39074985	$aTraditions$mEurope$eGrande-Bretagne
+11966868	$aEuropéens
+JaroW:0.445 Levenstein: 0.2
+
+43845665	$aTraditions$mFrance$eBretagne
+11954111	$aFrancs
+JaroW:0.625 Levenstein: 0.25
+
+41037431	$aTraditions$mOcéanie$mAustralie$eAborigènes
+12020740	$aAustraliens
+JaroW:0.744 Levenstein: 0.364
+
+40222346	$aTraditions$mEurope$eTziganes
+11966868	$aEuropéens
+JaroW:0.458 Levenstein: 0.222
+
+38452903-001	$aTraditions$mFrance$eManouche
+11954111	$aFrancs
+JaroW:0.625 Levenstein: 0.25
+
+38452903-002	$aTraditions$mEurope$mRussie$eTzigane
+11942615	$aRusses
+JaroW:0.437 Levenstein: 0.0
+
+38452903-003	$aTraditions$mEurope$mHongrie$eOlah
+11976771	$aHongrois
+JaroW:0.417 Levenstein: 0.125
+
+38452903-004	$aTraditions$mFrance$eGitan
+11954111	$aFrancs
+JaroW:0.578 Levenstein: 0.167
+
+38452903-005	$aTraditions$mEurope$mMoldavie$eTzigane
+13591978	$aMoldaves
+JaroW:0.512 Levenstein: 0.25
+
+38452903-006	$aTraditions$mFrance$eGitans
+11954111	$aFrancs
+JaroW:0.667 Levenstein: 0.333
+
+38452903-007	$aTraditions$mFrance$eManouches
+11954111	$aFrancs
+JaroW:0.704 Levenstein: 0.333
+
+38452903-009	$aTraditions$mEurope$mMoldavie$eTzigane
+13591978	$aMoldaves
+JaroW:0.512 Levenstein: 0.25
+
+38452903-010	$aTraditions$mFrance$eGitan
+11954111	$aFrancs
+JaroW:0.578 Levenstein: 0.167
+
+38452903-011	$aTraditions$mEurope$mHongrie$eOlah
+11976771	$aHongrois
+JaroW:0.417 Levenstein: 0.125
+
+38452903-012	$aTraditions$mEurope$mMacédoine$eTzigane
+12150208	$aMacédoniens$gRépublique de Macédoine
+JaroW:0.456 Levenstein: 0.182
+
+38452903-013	$aTraditions$mEurope$mHongrie$eTzigane
+11976771	$aHongrois
+JaroW:0.345 Levenstein: 0.125
+
+38452903-014	$aTraditions$mEurope$mMoravie$eTzigane
+12265197	$aMoraves
+JaroW:0.524 Levenstein: 0.143
+
+38452903-015	$aTraditions$mEspagne$mAndalousie$eGitans
+12509453	$aAndalous
+JaroW:0.625 Levenstein: 0.25
+
+38452903-016	$aTraditions$mRoumanie$eTzigane
+11949437	$aRoumains
+JaroW:0.49 Levenstein: 0.25
+
+38452903-017	$aTraditions$mSlovaquie$eTzigane
+11956425	$aSlovaques
+JaroW:0.503 Levenstein: 0.222
+
+38452903-018	$aTraditions$mIrlande$eTzigane
+12021855	$aIrlandais
+JaroW:0.587 Levenstein: 0.111
+
+38483828	$aTraditions$mAfrique$mBénin$eMahi
+16237029	$aBéninois
+JaroW:0.458 Levenstein: 0.125
+
+43883408	$aTraditions$mAfrique$mAfrique occidentale$mSénégal$eOuolof
+12372103	$aSeneca$gIndiens
+JaroW:0 Levenstein: 0.0
+
+43760676	$aTraditions$mAsie$mChine$mYunan$eYi Nisu
+12514778	$aYunga$gIndiens
+JaroW:0.606 Levenstein: 0.286
+
+43799589	$aTraditions$mAsie$mCambodge$eTampoon
+15966646	$aCambodgiens
+JaroW:0.645 Levenstein: 0.364
+
+38471830	$aTraditions$mOcéanie$mAustralie$eNyongaar
+12020740	$aAustraliens
+JaroW:0.311 Levenstein: 0.091
+
+41285328	$aTraditions$mEurope$mGrèce$mThrace$eGitans
+11933672	$aThraces
+JaroW:0.643 Levenstein: 0.286
+
+39237320	$aTraditions$mAsie$mChine$eQiangs
+12216718	$aChin$gpeuple d'Asie
+JaroW:0.611 Levenstein: 0.167
+
+43795760	$aTraditions$mAsie$mChine$mYunan$eLahu
+12514778	$aYunga$gIndiens
+JaroW:0 Levenstein: 0.0
+
+38562521	$aTraditions$mAfrique$mMauritanie$eNemadi
+12565952	$aMauritaniens
+JaroW:0.583 Levenstein: 0.167
+
+42641194	$aTraditions$mAfrique$mMali$eDogons
+11980487	$aMalais$gpeuple d'Asie du Sud-Est
+JaroW:0.444 Levenstein: 0.167
+
+42641143	$aTraditions$mAsie$mChine$eYaozu
+12216718	$aChin$gpeuple d'Asie
+JaroW:0 Levenstein: 0.0
+
+40091967	$aTraditions$mFrance$eMariniers
+11954111	$aFrancs
+JaroW:0.62 Levenstein: 0.333
+
+38440352	$aTraditions$mEspagne$eFlamenco
+11936374	$aEspagnols
+JaroW:0.569 Levenstein: 0.111
+
+40033524	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
+11942615	$aRusses
+JaroW:0.5 Levenstein: 0.083
+
+38562124-001	$aTraditions$mAsie$mSakha, république de$mKolyma$eCukc
+11981616	$aKoma$gpeuple du Soudan du Sud et d'Éthiopie
+JaroW:0 Levenstein: 0.0
+
+38562124-002	$aTraditions$mAsie$mSakha, république de$mKolyma$eEven
+11981616	$aKoma$gpeuple du Soudan du Sud et d'Éthiopie
+JaroW:0 Levenstein: 0.0
+
+38562124-003	$aTraditions$mAsie$mCei$mSakha, république de$mKolyma$eJukaghir
+11981616	$aKoma$gpeuple du Soudan du Sud et d'Éthiopie
+JaroW:0.583 Levenstein: 0.125
+
+38563560-001	$aTraditions$mAsie$mSakha, république de$mKolyma$eCukc
+11981616	$aKoma$gpeuple du Soudan du Sud et d'Éthiopie
+JaroW:0 Levenstein: 0.0
+
+38563560-002	$aTraditions$mAsie$mSakha, république de$mKolyma$eEven
+11981616	$aKoma$gpeuple du Soudan du Sud et d'Éthiopie
+JaroW:0 Levenstein: 0.0
+
+38563560-003	$aTraditions$mAsie$mCei$mSakha, république de$mKolyma$eJukaghir
+11981616	$aKoma$gpeuple du Soudan du Sud et d'Éthiopie
+JaroW:0.583 Levenstein: 0.125
+
+42687886	$aTraditions$mAsie$mTaïwan$eAborigènes
+12153909	$aTaiwanais
+JaroW:0.615 Levenstein: 0.2
+
+38618340	$aTraditions$mEurope$eYougoslavie
+11966868	$aEuropéens
+JaroW:0.436 Levenstein: 0.182
+
+43799749	$aTraditions$mAsie$mLaos$eTa Oi
+11937972	$aLapons
+JaroW:0.578 Levenstein: 0.333
+
+43799761	$aTraditions$mAsie$mLaos$eKatu$iPacoh
+11937972	$aLapons
+JaroW:0.505 Levenstein: 0.182
+
+38508499	$aTraditions$mAfrique$mCameroun$eBedzan
+13549199	$aCamerounais
+JaroW:0.48 Levenstein: 0.182
+
+38562873	$aTraditions$mAmérique$mGuyane$eWayanas
+14416064	$aGuane$gIndiens
+JaroW:0.562 Levenstein: 0.286
+
+38402163	$aTraditions$mAsie$mRussie$eTchouktches
+11942615	$aRusses
+JaroW:0.419 Levenstein: 0.273
+
+43800413	$aTraditions$mAsie$mVietnam$eHmong
+11933789	$aVietnamiens
+JaroW:0.43 Levenstein: 0.182
+
+41366067	$aTraditions$mEurope$eYougoslavie
+11966868	$aEuropéens
+JaroW:0.436 Levenstein: 0.182
+
+38573836	$aTraditions$mEurope$mRoumanie$eHongrois
+11949437	$aRoumains
+JaroW:0.583 Levenstein: 0.25
+
+42641155	$aTraditions$mAsie$mTaïwan$eAborigènes
+12153909	$aTaiwanais
+JaroW:0.615 Levenstein: 0.2
+
+42664459	$aTraditions$mEurope$mEspagne$eGitans
+11936374	$aEspagnols
+JaroW:0.611 Levenstein: 0.333
+
+38440351	$aTraditions$mEspagne$eFlamenco
+11936374	$aEspagnols
+JaroW:0.569 Levenstein: 0.111
+
+43760660	$aTraditions$mAsie$mChine$mYunan$eYi Nisu
+12514778	$aYunga$gIndiens
+JaroW:0.606 Levenstein: 0.286
+
+40078903	$aTraditions$mEurope$mEspagne$eGitans
+11936374	$aEspagnols
+JaroW:0.611 Levenstein: 0.333
+
+38508498	$aTraditions$mAfrique$mMali$eDogons
+11980487	$aMalais$gpeuple d'Asie du Sud-Est
+JaroW:0.444 Levenstein: 0.167
+
+38942118	$aTraditions$mAsie$mPhilippines$eT'boli
+12373193	$aPhilippins
+JaroW:0.344 Levenstein: 0.1
+
+38400598	$aTraditions$mEurope$mEspagne$mAndalousie$eGitans
+12509453	$aAndalous
+JaroW:0.625 Levenstein: 0.25
+
+40137209	$aTraditions$mAsie$mRussie$eKalmoukes
+11942615	$aRusses
+JaroW:0.519 Levenstein: 0.222
+
+38430498	$aTraditions$mFrance$eMarins
+11954111	$aFrancs
+JaroW:0.694 Levenstein: 0.333
+
+40149476	$aTraditions$mEurope$eNorvège
+11966868	$aEuropéens
+JaroW:0.589 Levenstein: 0.222
+
+43595279	$aTraditions$mFrance$eCorse
+11954111	$aFrancs
+JaroW:0.578 Levenstein: 0.0
+
+43795766	$aTraditions$mAsie$mChine$mYunan$eBulang
+12514778	$aYunga$gIndiens
+JaroW:0.697 Levenstein: 0.333
+
+41228682	$aTraditions$mAfrique du Nord$mAlgérie$eSoufis
+11988158	$aAlgériens
+JaroW:0.519 Levenstein: 0.222
+
+40034891	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
+11942615	$aRusses
+JaroW:0.5 Levenstein: 0.083
+
+42641186	$aTraditions$mAsie$mJapon$eRyukyu
+11974155	$aJaponais
+JaroW:0 Levenstein: 0.0
+
+40204068	$aTraditions$mAsie$mPakistan$eSoufis
+12443861	$aPakistanais
+JaroW:0.338 Levenstein: 0.273
+
+42762978	$aTraditions$mAsie$mIran$eDastgah
+12352295	$aIranxe$gIndiens
+JaroW:0.437 Levenstein: 0.0
+
+42640930	$aTraditions$mAsie$mInde$mBengal$eBaul
+11943171	$aBengalis$gpeuple d'Asie du Sud
+JaroW:0.738 Levenstein: 0.25
+
+42664662	$aTraditions$mEurope$mEspagne$eGitans
+11936374	$aEspagnols
+JaroW:0.611 Levenstein: 0.333
+
+40032774	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
+11942615	$aRusses
+JaroW:0.5 Levenstein: 0.083
+
+42314199	$aTraditions$mAfrique$mMali$ePeuhls
+11980487	$aMalais$gpeuple d'Asie du Sud-Est
+JaroW:0.556 Levenstein: 0.167
+
+39985637	$aTraditions$mFrance$eAveyron
+11954111	$aFrancs
+JaroW:0.437 Levenstein: 0.0
+
+38608545	$aTraditions$mEurope$mEspagne$eFlamenco
+11936374	$aEspagnols
+JaroW:0.569 Levenstein: 0.111
+
+41258833	$aTraditions$mFrance$eGitans
+11954111	$aFrancs
+JaroW:0.667 Levenstein: 0.333
+
+43799571	$aTraditions$mAsie$mCambodge$eTampoon
+15966646	$aCambodgiens
+JaroW:0.645 Levenstein: 0.364
+
+38479258	$aTraditions$mOcéanie$mAustralie$eNyoongar
+12020740	$aAustraliens
+JaroW:0.311 Levenstein: 0.0
+
+42196042	$aTraditions$mEurope$eHongrie
+11966868	$aEuropéens
+JaroW:0.476 Levenstein: 0.111
+
+40033907	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
+11942615	$aRusses
+JaroW:0.5 Levenstein: 0.083
+
+40125815	$aTraditions$mMoyen Orient$eAbbassides
+12501782	$aMoyen-Orientaux
+JaroW:0.278 Levenstein: 0.067
+
+43799765	$aTraditions$mAsie$mLaos$eKatu$iPacoh
+11937972	$aLapons
+JaroW:0.505 Levenstein: 0.182
+
+43629703	$aTraditions$mOcéanie$mNouvelle-Guinée$mPapouasie$eDani
+11941599	$aPapous
+JaroW:0.472 Levenstein: 0.167
+
+39065578	$aTraditions$mEurope$mHongrie$eTziganes
+11976771	$aHongrois
+JaroW:0.472 Levenstein: 0.25
+
+42633466	$aTraditions$mEurope$mEspagne$mAndalousie$eGitans
+12509453	$aAndalous
+JaroW:0.625 Levenstein: 0.25
+
+38562108	$aTraditions$mAfrique$mMali$eDogons
+11980487	$aMalais$gpeuple d'Asie du Sud-Est
+JaroW:0.444 Levenstein: 0.167
+
+42699841	$aTraditions$mAsie$mCambodge$eKhmer
+15966646	$aCambodgiens
+JaroW:0.43 Levenstein: 0.182
+
+38560125	$aTraditions$mEurope$eJuifs Séfarades
+11966868	$aEuropéens
+JaroW:0.4 Levenstein: 0.2
+
+42666936	$aTraditions$mAsie$mIran$eSufis
+12352295	$aIranxe$gIndiens
+JaroW:0 Levenstein: 0.0
+
+40137197	$aTraditions$mAsie$mRussie$eKalmoukes
+11942615	$aRusses
+JaroW:0.519 Levenstein: 0.222
+
+39021931	$aTraditions$mEurope$mHongrie$eTziganes
+11976771	$aHongrois
+JaroW:0.472 Levenstein: 0.25
+
+38508500	$aTraditions$mAfrique$mCameroun$eBamum
+13549199	$aCamerounais
+JaroW:0.624 Levenstein: 0.273
+
+38595620	$aTraditions$mEurope$mHongrie$eTziganes
+11976771	$aHongrois
+JaroW:0.472 Levenstein: 0.25
+
+39088036	$aTraditions$mAsie$mInde$mBengal$eBaûls
+11943171	$aBengalis$gpeuple d'Asie du Sud
+JaroW:0.79 Levenstein: 0.375
+
+38559028	$aTraditions$mAsie$mRussie$eNenec
+11942615	$aRusses
+JaroW:0.456 Levenstein: 0.167
+
+38559014	$aTraditions$mEurope$eJuifs Séfarades
+11966868	$aEuropéens
+JaroW:0.4 Levenstein: 0.2
+
+40091962	$aTraditions$mFrance$eMariniers
+11954111	$aFrancs
+JaroW:0.62 Levenstein: 0.333
+
+39003207	$aTraditions$mAmérique du Sud$mVenezuela$eDiablos
+11971569	$aVénézuéliens
+JaroW:0.484 Levenstein: 0.167
+
+43843511	$aTraditions$mAfrique$mMali$eTouaregs
+11980487	$aMalais$gpeuple d'Asie du Sud-Est
+JaroW:0.528 Levenstein: 0.25
+
+40941911	$aTraditions$mAsie centrale$mRussie$eTadjikes
+11942615	$aRusses
+JaroW:0.528 Levenstein: 0.25
+
+42699840	$aTraditions$mAsie$mCambodge$eKhmer
+15966646	$aCambodgiens
+JaroW:0.43 Levenstein: 0.182
+
+38560087	$aTraditions$mEurope$mGrèce$eRébètes
+11940385	$aGrecs
+JaroW:0.676 Levenstein: 0.286
+
+43799566	$aTraditions$mAsie$mCambodge$eBrao$iKrung
+15966646	$aCambodgiens
+JaroW:0.558 Levenstein: 0.091
+
+43624971	$aTraditions$mAsie$mThaïlande$ePeuples du Triangle d'or
+13319407	$aThaïlandais
+JaroW:0.49 Levenstein: 0.167
+
+40957140	$aTraditions$mAfrique$mSénégal$eWolofs
+12372103	$aSeneca$gIndiens
+JaroW:0 Levenstein: 0.0
+
+42633467	$aTraditions$mEurope$mEspagne$mAndalousie$eGitans
+12509453	$aAndalous
+JaroW:0.625 Levenstein: 0.25
+
+40033045	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
+11942615	$aRusses
+JaroW:0.5 Levenstein: 0.083
+
+43799758	$aTraditions$mAsie$mLaos$eTa Oi
+11937972	$aLapons
+JaroW:0.578 Levenstein: 0.333
+
+42155220	$aTraditions$mAsie$mIsraël$eAshkénazes de l'Est
+11974129	$aIsraéliens
+JaroW:0.565 Levenstein: 0.286
+
