@@ -1,0 +1,705 @@
+0241670.ttl	Figures de la passion. Autour de Didon et Enée $date:2018-03-29T21:48
+0924969.ttl	Simón Bolívar Youth Orchestra Venezuela $date:2018-03-29T21:48
+0920465.ttl	Jazz à la Villette. Limousine $date:2018-03-29T21:47
+0241365.ttl	Les pionniers $date:2018-03-29T21:50
+1018989.ttl	L'Inde, 24 heures du Raga : le jour. Inde du Nord : Chant Dhrupad $date:2008-09-28T17:00
+0773817.ttl	Electric body. Rétrospective Jimi Hendrix. Nguyên Lê plays Jimi Hendrix $date:2018-03-29T21:47
+1030037.ttl	Orchestre de Paris, Paavo Järvi, Janine Jansen $date:2015-01-22T20:30
+0925252.ttl	Jazz à la Villette. Las Ondas Marteles $date:2018-03-29T21:48
+0992348.ttl	Orchestre de Paris, Paavo Järvi, Rudolf Buchbinder $date:2012-09-19T20:00
+1014916.ttl	Jean Cocteau : mon tour du monde $date:2013-12-07T15:00
+0935483.ttl	Festival de Lugano, autour du tango. Martha Argerich et ses invités $date:2018-03-29T21:48
+1045778.ttl	Biennale de quatuors à cordes. Quatuor Casals $date:2016-01-23T17:00
+1032055.ttl	Une leçon de musique par William Christie, la rhétorique de la passion $date:2015-03-25T20:30
+0240344.ttl	Ensemble intercontemporain $date:2018-03-29T21:48
+0767877.ttl	Pierre Boulez dirige Richard Wagner. Parsifal deuxième acte $date:2018-03-29T21:47
+0241073.ttl	Aspects de l'opéra baroque. Claudio Monteverdi, Dario Castello $date:2018-03-29T21:47
+0241262.ttl	Amérique. Made in the USA $date:2018-03-29T21:50
+0927493.ttl	Identités hongroises. Tsiganes : csardas $date:2018-03-29T21:47
+1017548.ttl	Orchestre national d'Île-de-France, Enrique Mazzola, Markus Werba $date:2014-01-26T16:00
+1056259.ttl	Jazz à la Villette : Emile Parisien Quartet $date:2016-09-03T20:00
+0989811.ttl	Festival Days Off : Hot Chip $date:2012-07-07T20:00
+0925018.ttl	Jazz à la Villette. Daniel Darc $date:2018-03-29T21:50
+1061035.ttl	Staatskapelle Berlin, Daniel Barenboim. Mozart et Bruckner $date:2017-01-05T20:30
+1007239.ttl	L'Inde, 24 heures autour du Raga : la nuit. Chant khyal et thumri $date:2018-03-29T21:48
+0955272.ttl	Chamber Orchestra of Europe. Vladimir Jurowski. Joshua Bell $date:2010-12-17T20:00
+1047693.ttl	Beethoven Héroïque, Insula Orchestra, Laurence Equilbey $date:2016-03-08T20:30
+0240970.ttl	Bertolt Brecht, ici et maintenant $date:2018-03-29T21:47
+0943463.ttl	Avishai Cohen & guests $date:2018-03-29T21:48
+0818886.ttl	Extase et transe : nuit indienne. Chant d'extase du désert du Thar (Rajasthan) $date:2018-03-29T21:48
+0953738.ttl	Orchestre Philharmonique de Radio France. Alan Gilbert. Yvonne Naef $date:2010-11-27T20:00
+1047382.ttl	Gaëtan Roussel \"re-play Blessures\" $date:2015-07-08T20:30
+0950960.ttl	Youssou Ndour et le Super Etoile $date:2010-10-28T20:00
+0992349.ttl	Duo Márta et György Kurtág $date:2012-09-22T20:00
+1056467.ttl	Jazz à la Villette : Jalen N'Gonda $date:2018-03-29T21:48
+0240631.ttl	La nuit des harpes $date:2018-03-29T21:48
+1041860.ttl	Inauguration de l'orgue symphonique. Orchestre de Paris $date:2018-03-29T21:47
+0952911.ttl	3 Decades of Einstürzende Neubauten. First Night of Celebration $date:2010-11-16T20:00
+1067108.ttl	Week-end Mille et une nuits. Chatoiement oriental, Orchestre Pasdeloup $date:2017-05-20T16:00
+0935444.ttl	Festival de Lugano, musique romantique. Martha Argerich et ses invités $date:2018-03-29T21:47
+1011701.ttl	Concert éducatif en famille. Musique et nature $date:2018-03-29T21:48
+0933237.ttl	4e biennale quatuors à cordes. Quatuor Ysaÿe $date:2018-03-29T21:47
+1008323.ttl	Jazz à la Villette. Arthur H : \"I'm Beginning to See the Light\" $date:2013-09-14T20:00
+1056302.ttl	Jazz à la Villette : \"Echoes with a Friend\" with Geri Allen, Craig Taborn & The McCoy Tyner Trio $date:2018-03-29T21:50
+0920060.ttl	Italian jazz masters - Enrico Rava et Stefano Bollani Duo $date:2018-03-29T21:48
+1018686.ttl	L'Inde, 24 heures du Raga : le jour. Inde du Sud : Flûte bansuri $date:2008-09-28T10:00
+1070512.ttl	Echo et Narcisse $date:2012-03-12T11:00
+0817795.ttl	Le Japon, racines et ruptures. Bunraku l'art des marionnettes $date:2018-03-29T21:48
+0241273.ttl	Musiques de Cuba. Estampa de los Orishas $date:2018-03-29T21:47
+1069432.ttl	Festival Days Off. James Vincent McMorrow $date:2017-07-05T20:30
+1063593.ttl	A livres ouverts. Ensemble intercontemporain - Matthias Pintscher $date:2018-03-29T21:47
+1067127.ttl	Orchestre de Paris. Thomas Hengelbrock $date:2018-03-29T21:47
+0982760.ttl	Chamber Orchestra of Europe, Bernard Haitink, Ludwig van Beethoven $date:2012-03-05T20:00
+0919757.ttl	Deutsches Symphonie-Orchester Berlin $date:2018-03-29T21:48
+1014849.ttl	Johann Sebastian Bach. Les Tempéraments $date:2018-03-29T21:47
+1071753.ttl	Jazz à la Villette : Tony Allen $date:2017-09-09T20:00
+1021066.ttl	Jazz à la Villette. Roberto Fonseca solo $date:2014-09-10T20:00
+0240626.ttl	Georg Friedrich Haendel : scènes extraites de Admeto re di Tessaglia, Radamisto, Rodelinda regina de' Langobardi, Giulio Cesare, The Alchemist $date:2018-03-29T21:50
+0885356.ttl	Les années cinquante. Cage / Boulez $date:2018-03-29T21:48
+0961827.ttl	Brassens ou la liberté. Brassens aujourd'hui $date:2018-03-29T21:48
+1023837.ttl	Orchestre de Paris, David Zinman, Gautier Capuçon $date:2014-11-19T20:00
+1007922.ttl	Jazz à la Villette. Kellylee Evans $date:2018-03-29T21:50
+0935678.ttl	Laurent Garnier $date:2018-03-29T21:47
+0770934.ttl	Inde du Nord. Les traditions populaires du Penjab : Gurmeet Bawa, Pammi Bai $date:2018-03-29T21:48
+1071742.ttl	Jazz à la Villette : Laurent de Wilde et Ray Lema $date:2017-09-08T20:00
+1013599.ttl	Wayang Wong, le Ramayana balinais : l'enlèvement de Sita $date:2014-02-02T16:00
+1053484.ttl	Festival Days Off. Soirée Hexagone. L'Impératrice $date:2016-07-08T21:10
+1045787.ttl	Biennale de quatuors à cordes. Quatuor Tetzlaff $date:2018-03-29T21:48
+1071757.ttl	Jazz à la Villette : Sinkane $date:2017-09-09T20:00
+0927485.ttl	Le baroque revisité. Les Arts Florissants fêtent leurs 30 ans. Les grands motets pour la Chapelle du roi $date:2018-03-29T21:47
+0610020.ttl	Carolyn Carlson. The field $date:2018-03-29T21:47
+0931409.ttl	We want more Miles. Electric Miles $date:2018-03-29T21:48
+1015038.ttl	Johann Sebastian Bach. Les Tempéraments $date:2014-03-21T19:00
+1010181.ttl	Fleuves. La Chambre Philharmonique $date:2013-10-12T20:00
+0240423.ttl	Paavo Berglund, Chamber orchestra of Europe $date:2018-03-29T21:47
+0241059.ttl	Voix d'Afrique. Carte blanche à Salif Keita et son groupe. Chant du Mali $date:2018-03-29T21:47
+1000232.ttl	Orchestre de Paris, Paavo Järvi, Jorge Luis Prats $date:2013-03-27T20:00
+1021884.ttl	Jazz à la Villette. Robin McKelle & The Flytones \"Stax Soul Session\" $date:2014-09-07T20:00
+0241115.ttl	Cité-Jazz. Dycotiledone $date:2018-03-29T21:48
+1046926.ttl	Mathieu Boogaerts a 20 ans $date:2016-02-17T20:30
+1072506.ttl	Bach en sept paroles : I : Lumières $date:2017-10-11T20:30
+0981078.ttl	5e biennale quatuors à cordes. Takàcs Quartet, Marc Coppey $date:2018-03-29T21:48
+1018849.ttl	Mozart enfant. Les Dissonances, David Grimal $date:2014-03-01T20:00
+0240988.ttl	Résidence de l'orchestre des jeunes Gustav Mahler $date:2018-03-29T21:48
+1036423.ttl	Week-end Nuit du raga, grands maîtres de l'Inde. L. Subramaniam $date:2015-01-31T21:00
+1051668.ttl	La Force du Destin. Les Dissonances, David Grimal $date:2016-05-30T20:30
+0969116.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung, Leonidas Kavakos $date:2018-03-29T21:50
+1012027.ttl	Orchestre du Théâtre Mariinsky, Valery Gergiev, Mario Brunello $date:2013-01-08T20:00
+1045740.ttl	Biennale de quatuors à cordes. Quatuor Borodine. Concert des 70 ans $date:2016-01-20T20:30
+0241259.ttl	Musiques de Cuba. Salsa $date:2018-03-29T21:47
+0992788.ttl	Django Reinhardt. James Carter's Chasin' the Gipsy invite David Reinhardt $date:2012-10-07T16:30
+1015028.ttl	Johann Sebastian Bach. Les Tempéraments $date:2018-03-29T21:47
+1059032.ttl	Mécaniques célestes. Ensemble intercontemporain $date:2016-11-15T20:30
+0976426.ttl	Domaine privé. Hélène Grimaud $date:2011-11-06T16:30
+0933221.ttl	4e biennale quatuors à cordes. Quatuor Prazàk $date:2018-03-29T21:47
+0967729.ttl	Orchestre de Paris. Paavo Järvi, Leif Ove Andsnes $date:2011-05-25T20:00
+0991620.ttl	Jazz à la Villette. Baptiste Trotignon & Bojan Z $date:2012-09-07T20:00
+1054710.ttl	Week-end Fantastique. Alice aux pays des merveilles. Orchestre national d+Île-de-France $date:2016-05-28T11:00
+1056843.ttl	Orchestre de Paris / Daniel Harding $date:2016-09-16T20:30
+0781887.ttl	MPB Musique populaire brésilienne. Bahia, l'art de la fête : Riachao $date:2018-03-29T21:48
+0744275.ttl	Le Cambodge, renaissance de la tradition khmère. Preah Sothun (création), danse classique $date:2018-03-29T21:47
+1021565.ttl	Jazz à la Villette. Joshua Redman and the Bad Plus $date:2014-09-09T20:00
+0960343.ttl	Budapest Festival Orchestra $date:2011-03-05T20:00
+1012123.ttl	William Christie, Les Arts Florissants. Airs sérieux et à boire $date:2013-12-20T20:00
+0778005.ttl	MPB Musique populaire brésilienne. Bahia, l'art de la fête : Dida Banda Feminina $date:2018-03-29T21:48
+0984698.ttl	Take a bow ! 2011 $date:2018-03-29T21:48
+0993793.ttl	Festival Days Off. The Velvet Underground Revisited $date:2011-07-07T20:00
+1071745.ttl	Jazz à la Villette : Omer Avital Quintet $date:2018-03-29T21:47
+0961830.ttl	Les Indes baroques. The Indian Queen $date:2011-03-29T20:00
+1067132.ttl	Ouverture de l'année de la Colombie en France. Orchestre Démos - Philharmonie de Paris et Orchestre jovenes de Colombia $date:2017-06-23T20:00
+1021073.ttl	Jazz à la Villette. Enzo Carniel Sextet $date:2014-09-14T19:00
+1045998.ttl	Hommage à Henri Dutilleux $date:2018-03-29T21:48
+0241275.ttl	Amérique. London Symphony Orchestra $date:2018-03-29T21:48
+0942550.ttl	Ivan Fischer, Julia Fischer $date:2018-03-29T21:48
+1063596.ttl	Week-end EIC 40. Hommage à Pierre Boulez. Ensemble intercontemporain $date:2017-03-18T20:30
+0240481.ttl	Claudio Abbado, XXIe anniversaire du Chamber Orchestra of Europe : symphonie n° 9 \"la grande\" $date:2018-03-29T21:50
+1014331.ttl	Présences 2014 \"Paris / Berlin\" $date:2014-02-25T20:00
+0934775.ttl	Orchestre Divertimento $date:2018-03-29T21:50
+0949207.ttl	Week-end de musique de chambre française. Eric Le Sage, Quatuor Ebène (20 h) $date:2018-03-29T21:48
+1073191.ttl	Week-end Fantastique. Sorciers et sorcières, concert participatif en famille $date:2017-11-11T16:30
+1018647.ttl	L'Inde, 24 heures du Raga : le jour. Inde du Sud : Danse mohiniattam du Kerala $date:2008-09-28T09:00
+1032040.ttl	Week-end Pierre Boulez. A Pierre (le grand soir) $date:2015-03-21T20:30
+0956009.ttl	Michel Portal Sextet $date:2011-01-09T16:00
+1039615.ttl	Jazz à la Villette. Supersonic plays Sun Ra $date:2018-03-29T21:50
+0951666.ttl	Orquesta Aragon $date:2018-03-29T21:48
+1072761.ttl	Week-end Nuit blanche. Nuit minimaliste. Bruce Brubaker $date:2017-10-07T22:00
+0995254.ttl	Orchestre Philharmonique de Radio France, Shi-Yeon Sung, Truls Mørk $date:2012-11-30T20:00
+1036421.ttl	Week-end Nuit du raga, grands maîtres de l'Inde. Amjad Ali Khan $date:2015-01-31T19:30
+1015548.ttl	Johann Sebastian Bach. Les Tempéraments. Concert du forum : les tempéraments chez Bach $date:2014-03-15T18:30
+0948491.ttl	Jazz à la Villette. Push up ! $date:2018-03-29T21:47
+1056882.ttl	Présentation musicale des orchestres Démos d'Île-de-France. Dispositif d'Education Musicale et Orchestrale à vocation Sociale $date:2016-06-25T20:30
+1042772.ttl	Week-end Au temps de Louis XIV. Portraits de la cour $date:2018-03-29T21:48
+1030324.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung, Renaud Capuçon $date:2015-01-26T20:30
+0982715.ttl	Concert éducatif en famille. Le Carnaval des animaux $date:2018-03-29T21:50
+0902017.ttl	Concert éducatif. Chantez ! $date:2018-03-29T21:47
+0993240.ttl	Orchestre de Paris, Paavo Järvi, Menahem Pressler $date:2012-10-17T20:00
+0951661.ttl	L'art total. Ensemble intercontemporain, Bruno Mantovani $date:2010-11-27T20:00
+1062702.ttl	Chamber Orchestra of Europe, Yannick Nézet-Séguin $date:2017-02-07T20:30
+0987023.ttl	Nora Gubisch, Ensemble intercontemporain $date:2012-04-25T20:00
+1011460.ttl	Dominique A, y revenir $date:2018-03-29T21:47
+1054103.ttl	Festival Days Off. Soirée Hexagone. Isaac Delusion $date:2016-07-08T23:00
+1018245.ttl	Intervalle Paul Agnew, madrigaux (livre VII) $date:2014-05-28T20:00
+1075095.ttl	Orchestre de Paris : Daniel Harding, Magdalena Kozena, Andrew Staples, John Relyea $date:2017-12-22T20:30
+1046894.ttl	Week-end Orgues. Grandes Orgues : Olivier Latry, Philippe Lefebvre, Bernard Foccroulle, Wayne Marshall $date:2018-03-29T21:47
+0952342.ttl	Concert en famille. Edvard Grieg, concerto pour piano, Peer Gynt (extraits) $date:2010-11-07T11:00
+1067533.ttl	La diva aux pieds nus : Hommage à Cesaria Evora $date:2017-06-11T19:00
+1065624.ttl	El Fuego latino $date:2016-12-13T20:30
+1010184.ttl	Orchestre de Paris, Paavo Järvi, Yefim Bronfman $date:2013-10-23T20:00
+1062228.ttl	Les Dissonances, David Grimal $date:2017-01-30T20:30
+0240431.ttl	Missa solemnis op. 123 $date:2018-03-29T21:48
+0241458.ttl	Résidence de l'Orchestre des Jeunes de l'Union européenne : Roméo et Juliette de Berlioz $date:2018-03-29T21:48
+0240382.ttl	Musiques berbères de l'Atlas. Musiques du Haut-Atlas, chants de l'Ahwach $date:2018-03-29T21:48
+1043813.ttl	Concert de Noël avec bis participatif. Orchestre de chambre de Paris, Accentus $date:2015-12-22T20:30
+1018234.ttl	Domaine privé Henri Dutilleux $date:2018-03-29T21:50
+1069793.ttl	Staatskapelle Berlin, Daniel Barenboim. Bruckner $date:2018-03-29T21:50
+0995446.ttl	Orchestre Philharmonique de Radio France, Eliahu Inbal, Marc Coppey $date:2012-12-14T20:00
+1067091.ttl	Week-end Mille et une nuits. L'Enlèvement au sérail, Orchestre de chambre de Paris $date:2017-05-20T11:00
+1056261.ttl	Jazz à la Villette : \"Tribute to Fela\" feat. Seun Kuti & Egypt 80, Talib Kweli, Ibeyi, Tony Allen, Cheick Tidiane Seck $date:2016-09-08T20:00
+0241139.ttl	Cité-Jazz. London jazz composers orchestra $date:2018-03-29T21:47
+0951538.ttl	Orchestre Philharmonique de Radio France. François Xavier Roth. Nathalie Stutzmann $date:2018-03-29T21:48
+1009941.ttl	Orchestre des jeunes DEMOS Ile-de-France (dispositif d'éducation musicale et orchestrale à vocation sociale) $date:2013-06-23T20:30
+1019089.ttl	Festival Villette Sonique 2014. Red Bull Music Academy présente Chassol \"Big Sun\" $date:2014-06-02T20:00
+0925901.ttl	Le baroque revisité. Les Arts Florissants fêtent leurs 30 ans. Claudio Monteverdi, Madrigaux (Livre VI) $date:2018-03-29T21:48
+0889220.ttl	Italian jazz masters : Stefano di Battista Quartet $date:2018-03-29T21:48
+0997829.ttl	Orchestre de Paris, Herbert Blomstedt, Lars Vogt $date:2013-01-16T20:00
+1022195.ttl	Orchestre Philharmonique de Radio France, Mikko Franck, Anu Komsi, Andrew Staples $date:2018-03-29T21:50
+1041246.ttl	Orchestres des jeunes DEMOS (dispositif d'éducation musicale et orchestrale à vocation sociale) $date:2015-06-28T16:30
+1023315.ttl	Les Dissonances, David Grimal $date:2014-10-21T20:00
+0973202.ttl	L'Inde, 24 heures autour du Raga : la nuit. Chant carnatique : Sudha Ragunathan, Inde du Sud $date:2018-03-29T21:48
+0240379.ttl	L'Andalousie, musiques traditionnelles, musiques gitanes. Sevillanas corraleras, Sevillanas rocieras $date:2018-03-29T21:47
+1070004.ttl	Un concert à emporter, festival Days Off. Juliette Armanet $date:2017-07-05T20:30
+0240678.ttl	Concert pour les jeunes : Siegfried Idyll, concerto de chambre $date:2018-03-29T21:51
+0961909.ttl	Menahem Pressler $date:2011-03-23T20:00
+1030378.ttl	Week-end Nuit du raga, grands maîtres de l'Inde. Kushal Das $date:2015-01-31T18:00
+0240653.ttl	Carte blanche à l'orchestre de Birmingham. La boîte à joujoux, ballet pour enfants, argument d'André Hellé, version sous-titrée (orchestration André Caplet) $date:2018-03-29T21:50
+1029164.ttl	Gala d'ouverture 1 $date:2018-03-29T21:50
+0999727.ttl	Good morning England ! Concert en famille $date:2012-11-24T11:00
+0919695.ttl	Jazz à la Villette. Carl Craig presents Tribe $date:2018-03-29T21:50
+0954618.ttl	Journée Satie. Orchestre Lamoureux $date:2018-03-29T21:51
+0983961.ttl	Orchestre Philharmonique de Radio France, Orchestre Unhasu, Myung-Whun Chung $date:2012-03-14T20:30
+0989253.ttl	Orchestre de Paris, Kristjan Järvi, Xavier de Maistre $date:2018-03-29T21:50
+1012680.ttl	6e biennale quatuors à cordes. Orchestre Philharmonique de Radio France, Quatuor Arditti $date:2014-01-21T20:30
+0974485.ttl	Ensemble intercontemporain, Lucerne Festival Academy, Pierre Boulez, Barbara Hannigan $date:2018-03-29T21:50
+1030395.ttl	Ensemble intercontemporain, Orchestre du Conservatoire de Paris, Matthias Pintscher $date:2018-03-29T21:50
+0958142.ttl	Réel / virtuel. Double Points : Outis $date:2011-01-28T20:00
+0967163.ttl	Janine Jansen, Itamar Golan $date:2011-05-12T20:00
+1021105.ttl	Jazz à la Villette. Stephane Belmondo \"Blowin' The Blues Away\" $date:2018-03-29T21:50
+1000253.ttl	Orchestre de Chambre de Paris, Roberto Alagna. Les Pêcheurs de perles (version de concert) $date:2013-02-17T16:00
+1049486.ttl	Orchestre de Paris, Daniel Harding $date:2016-05-19T20:30
+1069796.ttl	Staatskapelle Berlin, Daniel Barenboim. Bruckner $date:2017-09-10T16:45
+1061041.ttl	Staatskapelle Berlin, Daniel Barenboim. Bruckner $date:2018-03-29T21:51
+1014839.ttl	Johann Sebastian Bach. Les Tempéraments $date:2014-03-12T19:00
+0896362.ttl	Via Zanzibar, la route orientale de l'esclavage. De la mer Rouge à l'Inde : Iran $date:2018-03-29T21:50
+1017935.ttl	John Coltrane, a love supreme revisited $date:2014-03-30T20:00
+0241217.ttl	Flamenco à la cité. Moraïto chico $date:2018-03-29T21:50
+0978085.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung, Symphonie n°9 de Beethoven $date:2018-03-29T21:50
+0942481.ttl	Orchestre de Paris. Pierre Boulez, un certain parcours $date:2018-03-29T21:51
+1029404.ttl	Ensemble intercontemporain, Tito Ceccherini $date:2018-03-29T21:50
+0967956.ttl	5e biennale d'art vocal. Il ritorno d'Ulisse in patria $date:2018-03-29T21:50
+0977016.ttl	Domaine privé Hélène Grimaud : Kammerorchester des Bayerischen Rundfunks, Hélène Grimaud, Radoslaw Szulc $date:2011-11-05T20:00
+1008355.ttl	Jazz à la Villette. Eric Legnini & invités $date:2013-09-13T20:00
+0768880.ttl	Le Merveilleux en Afrique. Rites du peuple peul du désert au monde citadin. Baaba Maal (Sénégal) $date:2018-03-29T21:50
+0978480.ttl	Zita Swoon, Anne Teresa de Keersmaeker : dancing with the Sound Hobbyist $date:2011-12-06T20:00
+0896213.ttl	Concert éducatif. Wolfgang Amadeus Mozart $date:2018-03-29T21:50
+1005539.ttl	Revus et corrigés. Ensemble intercontemporain, SWR Vokalensemble Stuttgart, Georges Benjamin $date:2013-01-29T20:00
+1007919.ttl	Jazz à la Villette. The Lightnin 3 $date:2013-09-06T20:00
+1061043.ttl	Chant du cygne. Thomas E. Bauer, Jos van Immerseel $date:2018-03-29T21:51
+0241162.ttl	Musiques des Caraïbes. Nuits caraïbes. Akiyo-Carno $date:2018-03-29T21:51
+1049479.ttl	Lucio Silla, Mozart $date:2016-04-23T20:30
+1053155.ttl	Week-end Amateurs. Molada, la naissance. Jasser Haj Youssef, Simone Kermes $date:2016-06-12T16:00
+1014020.ttl	Orchestre du Théâtre Mariinsky, Valery Gergiev, Vadim Repin $date:2014-02-18T20:00
+1069197.ttl	Festival Days Off. Michael Kiwanuka $date:2018-03-29T21:50
+1021064.ttl	Jazz à la Villette. Kneebody $date:2018-03-29T21:50
+0241149.ttl	La direction d'orchestre. Poèmes pour Mi $date:2018-03-29T21:50
+1036733.ttl	Festival Days Off. Andrew Bird $date:2015-07-02T21:50
+1007921.ttl	Jazz à la Villette. Jamie Cullum $date:2013-09-12T20:00
+1000295.ttl	Orchestre Philharmonique de Radio France, Daniel Harding. La Chute de Fukuyama (opéra vidéo) $date:2013-03-29T20:00
+1061651.ttl	Orchestre de Paris, Daniel Harding $date:2016-09-28T20:30
+0776270.ttl	Jazz à la Villette. Le monde de Kota $date:2018-03-29T21:50
+0789059.ttl	Le modèle classique. Proserpine $date:2018-03-29T21:50
+0977954.ttl	Giovanni Mirabassi $date:2018-03-29T21:51
+0958341.ttl	Orchestre de Paris, Choeur de l'Orchestre de Paris, Paavo Järvi, Matthias Goerne, Eric Picard $date:2011-02-10T20:00
+1036281.ttl	Nouveaux mondes. De la Parra / Galliano $date:2015-06-13T19:00
+0241201.ttl	Week-end Purcell. Ode pour l'anniversaire de la reine Mary \"Come ye sons of Art\", Z 323 $date:2018-03-29T21:51
+0241159.ttl	Musiques des Caraïbes. Nuits Caraïbes : hommage à Eugène Mona $date:2018-03-29T21:50
+0991626.ttl	Jazz à la Villette. Kenny Barron & Dave Holland $date:2012-09-08T20:00
+0925032.ttl	We Want Miles. Birth of the Cool Suite $date:2018-03-29T21:50
+1051154.ttl	Festival Villette Sonique 2016. Kamasi Washington $date:2016-06-01T20:30
+0998819.ttl	Claire Diterzi. Le salon des refusées (création) $date:2018-03-29T21:51
+1059697.ttl	Orchestre de Paris. Le Paradis et la Péri $date:2016-12-22T20:30
+0942334.ttl	Le temps du récit I. Concert éducatif. L'épopée du Ramayana : Wayang Kulit de Java, Indonésie $date:2018-03-29T21:50
+1014019.ttl	Orchestre du Théâtre Mariinsky, Valery Gergiev $date:2014-02-17T20:00
+1016018.ttl	Johann Sebastian Bach. Les Tempéraments. Hyun-Young Choi (concert sans public) $date:2014-03-17T18:30
+0883633.ttl	La narration du voyage : Poètes, saltimbanques et musiciens tsiganes de l'Inde $date:2018-03-29T21:51
+1010650.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung, Nicolas Baldeyrou, Christophe Henry $date:2013-11-08T20:00
+1010647.ttl	Menahem Pressler, Wu Han, Christoph Prégardien, Quatuor Ebène, Benjamin Berlioz. Concert anniversaire 90 ans de Menahem Pressler $date:2013-11-07T20:00
+1066662.ttl	Voyage avec Marcel Khalifé, Orchestre national d'Île-de-France $date:2018-03-29T21:50
+1071864.ttl	Jazz à la Villette : Mulatu Astatke and friends $date:2017-09-13T20:00
+0992707.ttl	Orchestre Philharmonique de Radio France - Ion Marin - Jian Wang $date:2012-09-28T20:00
+1070561.ttl	La petite renarde rusée $date:2018-03-29T21:51
+0993592.ttl	Domaine privé Marc Minkowski. Gala Mozart pour les 30 ans des Musiciens du Louvre Grenoble $date:2012-10-23T20:00
+0991545.ttl	Jazz à la Villette. Bill Frisell joue John Lennon $date:2012-08-31T21:00
+0240508.ttl	Barthématiques, carte blanche à Claude Barthélemy $date:2018-03-29T21:50
+1010257.ttl	Europunk. Buzzcocks $date:2013-10-24T20:00
+0974508.ttl	Jazz à la Villette. The Jeff Ballard Trio feat. Lionel Loueke & Miguel Zenón $date:2011-09-04T16:30
+1043810.ttl	Merveilles de l'enfance. Orchestre national d'Île-de-France, Enrique Mazzola $date:2018-03-29T21:50
+0241010.ttl	Carte blanche à Lounis Aït Menguellet $date:2018-03-29T21:50
+1046000.ttl	Hommage à Pierre Boulez. Ensemble intercontemporain, Orchestre de Paris, Conservatoire de Paris, Ircam $date:2018-03-29T21:50
+0988177.ttl	Paul Agnew, les Arts Florissants. Madrigaux (livre III) de Claudio Monteverdi $date:2012-05-26T20:00
+0921332.ttl	Jazz à la Villette. Jean-Louis $date:2018-03-29T21:51
+0961895.ttl	Leçon de musique. Interpréter Mozart et Chopin. $date:2011-03-20T16:30
+0240333.ttl	Musiques berbères de l'Atlas. Musiques de l'Anti-Atlas : Rrways $date:2018-03-29T21:50
+0947700.ttl	Une île, un monde. La Réunion et Mayotte : Maloya $date:2018-03-29T21:50
+0241165.ttl	Musiques des Caraïbes. Nuits caraïbes. Boukman Eksperyans $date:2018-03-29T21:50
+1047126.ttl	Chamber Orchestra of Europe, Yannick Nézet-Séguin $date:2018-03-29T21:51
+0925975.ttl	Le baroque revisité. Les Arts Florissants fêtent leurs 30 ans. Au temps de Port-Royal, musiques pour voix et choeur de femmes $date:2018-03-29T21:51
+1073641.ttl	Sabine Devieilhe $date:2017-11-14T20:30
+0901350.ttl	La grande nouba. La tradition andalouse marocaine (Rabat). Mohamed Bajeddoub et l'ensemble Chabab Al Andalouss $date:2018-03-29T21:50
+1035788.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung, Daniil Trifonov $date:2015-06-19T20:30
+1072574.ttl	Bach en sept paroles : III : L'appel $date:2017-12-11T20:30
+0999481.ttl	Orchestre Philharmonique de Radio France, Jukka-Pekka Saraste $date:2013-02-22T20:00
+1072577.ttl	Orchestre de Paris, Harding : Anniversaire des 50 ans : Berio, Stravinski, Widmann, Debussy $date:2017-11-02T20:30
+1016964.ttl	Orchestre de Paris, Paavo Järvi, Nicholas Angelich $date:2014-04-23T20:00
+0983800.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung $date:2012-03-16T20:00
+0983794.ttl	Orchestre de Paris, Paavo Järvi, Katia et Marielle Labèque $date:2018-03-29T21:50
+0893964.ttl	Vladimir Ashkenazy $date:2018-03-29T21:51
+1014782.ttl	Khatia Buniatishvili $date:2014-03-04T20:00
+0241229.ttl	Flamenco à la cité. Enrique Morente $date:2018-03-29T21:51
+0241000.ttl	La voix du dragon. Chine, musique classique sur instruments traditionnels. Le continent des solidaires $date:2018-03-29T21:51
+1029402.ttl	Week-end Portes ouvertes. Ouvrez ! $date:2015-01-17T18:30
+1032035.ttl	Week-end Let's Dance. Music for 18 musicians $date:2015-03-14T20:30
+1012118.ttl	La nature du son. Les Dissonances, David Grimal $date:2013-12-19T20:00
+0977014.ttl	Kammerorchester des Bayerischen Rundfunks - Hélène Grimaud - Sandrine Piau - Radoslaw Szulc $date:2011-11-03T20:00
+1047252.ttl	Orchestre de Paris, Jaap van Zweden $date:2016-03-09T20:30
+1027574.ttl	Orchestre de Paris, Louis Langrée $date:2014-12-10T20:00
+1010121.ttl	Europunk. Holograms $date:2018-03-29T21:51
+1039570.ttl	Jazz à la Villette. Archie Shepp, Melvin Van Peebles, The Heliocentrics $date:2018-03-29T21:51
+0989283.ttl	La représentation de l'âme et du corps. René Jacobs $date:2012-06-22T20:00
+0999096.ttl	Orchestre Philharmonique de Radio France. Markus Stenz, Lisa Batiashvili $date:2018-03-29T21:50
+0935434.ttl	Le modèle orchestral. Berliner Barock Solisten $date:2018-03-29T21:51
+1010119.ttl	Europunk. Frustration $date:2013-10-24T20:00
+1071733.ttl	Jazz à la Villette : Don Bryant & The Bo-Keys $date:2017-09-05T20:00
+1008341.ttl	Jazz à la Villette. Gregory Porter \"Liquid Spirit\" $date:2013-09-13T20:00
+0241439.ttl	L'âge classique. Joseph Haydn $date:2018-03-29T21:51
+0991630.ttl	Jazz à la Villette. Hypnotic Brass Ensemble $date:2012-09-09T19:00
+1042894.ttl	Orchestre de Paris. Esa-Pekka Salonen $date:2015-10-21T20:30
+0994198.ttl	Orchestre de Paris, Paavo Järvi, Andreas Haefliger $date:2012-11-08T20:00
+0967748.ttl	West-Eastern Divan Orchestra, Daniel Barenboim $date:2018-03-29T21:50
+0240445.ttl	Musiques et danses en Asie centrale. Joute des bardes d'Asie centrale $date:2018-03-29T21:50
+1072764.ttl	Week-end Nuit blanche. Nuit minimaliste. James McVinnie 23h30 $date:2017-10-07T23:30
+0993838.ttl	Intégrale Schumann $date:2012-11-02T20:00
+0935146.ttl	Journée Satie. Alexandre Tharaud, Eric Le Sage, piano à quatre mains $date:2018-03-29T21:50
+0241954.ttl	Jazz. Swamp Sally $date:2018-03-29T21:50
+1033088.ttl	Les Dissonances. David Grimal $date:2015-04-01T20:30
+0240860.ttl	Musiques des confréries du Maroc $date:2018-03-29T21:50
+1011607.ttl	Antonio Meneses, Maria Joao Pires $date:2018-03-29T21:51
+0993419.ttl	Alexandre Tharaud. Le Boeuf sur le toit $date:2012-10-14T17:00
+0935344.ttl	Anniversaire Christoph Eschenbach $date:2018-03-29T21:50
+1072563.ttl	Orchestre Métropolitain de Montréal : Yannick Nézet-Séguin, Marie-Nicole Lemieux, Jean-Guihen Queyras : Berlioz, Saint-Saëns, Elgar $date:2017-12-03T16:30
+0240644.ttl	Carte blanche à l'orchestre de Birmingham $date:2018-03-29T21:51
+0962416.ttl	Les Indes baroques. Jean-Philippe Rameau $date:2018-03-29T21:44
+0903777.ttl	Formes brèves, formes longues. L'épopée du Ramayana III. Théâtre kathakali (Inde du Sud) : Lavanasura Vadham (la mort du démon Lavanasura) $date:2018-03-29T21:45
+1069214.ttl	Festival Days Off. \"Planetarium\" Sufjan Stevens, Nico Muhly, Bryce Dessner et James McAlister $date:2017-07-10T21:30
+0933315.ttl	Tchaïkovski, intégrale des symphonies. Symphonies n°3 et n°6 $date:2018-03-29T21:44
+1007914.ttl	Jazz à la Villette. Shai Maestro $date:2013-09-05T20:00
+0950677.ttl	Sénégal, mythes et réalités. Musiques wolofs $date:2018-03-29T21:45
+0925014.ttl	Jazz à la Villette. De La Soul, 20 Years High and Rising $date:2018-03-29T21:45
+0241381.ttl	Naga-Uta. Chant et musique kabuki $date:2018-03-29T21:45
+0954606.ttl	Journée Satie. Alexandre Tharaud $date:2018-03-29T21:45
+1001586.ttl	Le Jardin des Voix : concert des Lauréats du 6ème Jardin des Voix $date:2018-03-29T21:44
+1076268.ttl	Biennale quatuors à cordes. Quatuor Danel : Mozart, Neuwirth, Haydn, Beethoven $date:2018-03-29T21:44
+1033095.ttl	Madrigaux guerriers. Paul Agnew, Les Arts Florissants $date:2015-04-20T20:30
+1057075.ttl	Week-end Bryce Dessner Counter-Points. Grand soir. Bryce Dessner, Matthias Pintscher, Ensemble intercontemporain $date:2016-09-24T20:30
+1057857.ttl	Henri Dutilleux, paysages poétiques $date:2016-10-24T20:30
+0920432.ttl	Jazz à la Villette. Elysian Fields feat. Don Byron $date:2018-03-29T21:45
+1010103.ttl	Bach, concertos pour clavier, Orchestre de chambre de Lausanne $date:2013-10-21T20:00
+0932221.ttl	4e biennale quatuors à cordes. Quatuor Arditti $date:2018-03-29T21:44
+1062157.ttl	Biennale d'art vocal. Paris en fête ! Les Siècles $date:2017-01-29T19:00
+1021050.ttl	Jazz à la Villette. James Carter Organ Trio joue \"Giant Steps\" $date:2014-09-06T17:30
+0996747.ttl	Florent Marchet. Noël's Songs (création) $date:2018-03-29T21:45
+0983206.ttl	Bob Dylan revisited. Moriarty : Before Dylan $date:2012-03-08T20:00
+0776055.ttl	La vie, la mort. Himalaya, sonneries de trompes (royaume du Bhoutan) $date:2018-03-29T21:45
+0991561.ttl	Jazz à la Villette. Misja Fitzgerald Michel & Olivier Koundouno \" A Portrait of Nick Drake\" $date:2018-03-29T21:44
+0950688.ttl	Concert éducatif. Tambours sabar du Sénégal $date:2018-03-29T21:45
+0241226.ttl	Flamenco à la cité. Soirée Canales - La Tani $date:2018-03-29T21:45
+0240474.ttl	Claudio Abbado, XXIe anniversaire du Chamber orchestra of Europe. Lieder de Franz Schubert orchestrés par Johannes Brahms, Max Reger, Arnold Schoenberg et Anton Webern $date:2018-03-29T21:45
+0981548.ttl	The Tiger Lillies : Low Life Lullabies $date:2012-02-09T20:00
+0958852.ttl	Ethiopie. Addis Abeba aujourd'hui $date:2011-02-05T20:00
+0951541.ttl	Orchestre Philharmonique de Radio France. Myung-Whun Chung. Sergio Tiempo $date:2010-10-15T20:00
+0241168.ttl	The Chamber Orchestra of Europe $date:2018-03-29T21:45
+1041823.ttl	Week-end Turbulences numériques. Grand soir $date:2015-10-10T20:30
+1015533.ttl	Johann Sebastian Bach. Les Tempéraments. Loris Barrucand $date:2014-03-10T17:30
+0927834.ttl	Concert éducatif. Les Siècles - Joseph Haydn $date:2018-03-29T21:44
+1004943.ttl	Orchestre des jeunes DEMOS, dispositif d'éducation musicale et orchestrale à vocation sociale $date:2018-03-29T21:45
+0981598.ttl	Orchestre Philharmonique de Radio France, Vasily Petrenko, Dimitri Voropaev, Sergei Leiferkus $date:2012-02-10T20:00
+0822141.ttl	Venise. Venezia Stravagantissima $date:2018-03-29T21:45
+1013595.ttl	Orchestre de Paris, Paavo Järvi, Menahem Pressler. Concert anniversaire 90 ans de Menahem Pressler $date:2014-01-29T20:00
+0241194.ttl	The Chamber orchestra of Europe. Hommage à Gilles Deleuze $date:2018-03-29T21:45
+1056435.ttl	Jazz à la Villette : Erik Truffaz Quartet feat. Rokia Traoré $date:2018-03-29T21:44
+1056441.ttl	Jazz à la Villette : GoGo Penguin $date:2016-09-07T20:00
+1072540.ttl	Nicholas Angelich $date:2017-10-06T20:30
+1029524.ttl	Concert éducatif scolaire. Le quintette à vent de Haydn à Cage $date:2014-12-07T11:00
+0241156.ttl	Musiques d'Egypte. Semsemiyya, musiques populaires de Port-Saïd $date:2018-03-29T21:45
+0997908.ttl	Contes et féeries. Ballet des fées des forêts de Saint-Germain (création) $date:2013-01-15T20:00
+0967949.ttl	Orchestre de Paris, Esa-Pekka Salonen, David Fray $date:2018-03-29T21:44
+0241393.ttl	La Hongrie, musiques traditionnelles, musiques tsiganes. Musique tsigane. Antal Szalai gipsy orchestra $date:2018-03-29T21:44
+0957530.ttl	Orchestre de Paris, Paavo Järvi, Janine Jansen, Antoine Tamestit $date:2011-01-13T20:00
+0936345.ttl	L'orchestre laboratoire. Ensemble intercontemporain, Pierre Boulez, BBC singers $date:2018-03-29T21:45
+1035806.ttl	Répons de Pierre Boulez, Ensemble intercontemporain, Matthias Pintscher $date:2015-06-11T20:30
+0241422.ttl	L'âge classique. Concert pour les enfants $date:2018-03-29T21:44
+0925003.ttl	Jazz à la Villette. The Herbaliser $date:2018-03-29T21:45
+0991990.ttl	Algérie - France : Symphonie pour 2012 : Orchestre Symphonique Divertimento, Zahia Ziouani $date:2012-09-11T20:00
+0240840.ttl	Le mandingue, l'empire de la parole. Chants de femmes : la Mauritanie $date:2018-03-29T21:45
+0992709.ttl	Orchestre de Paris, Tomas Netopil, Anja Harteros $date:2018-03-29T21:45
+1075612.ttl	Bach en sept paroles : IV : châtiments $date:2018-01-30T20:30
+0920430.ttl	Jazz à la Villette. Mario Canonge et Alain Jean-Marie $date:2018-03-29T21:44
+1019685.ttl	Finale du concours international de chefs d'orchestre Evgenij Svetlanov $date:2014-06-28T14:00
+1065605.ttl	Jamaican Revue. Jah9 $date:2017-04-21T20:30
+1056237.ttl	Jazz à la Villette : Ernest Ranglin & friends feat. Cheikh Lô, Tony Allen, Courtney Pine, Ira Coleman & Alex Wilson $date:2018-03-29T21:45
+0925942.ttl	Le baroque revisité. Les Arts Florissants fêtent leurs 30 ans. Gluck, Mozart, Haydn $date:2018-03-29T21:45
+1066233.ttl	Jamaican Revue. Brigadier Jerry $date:2017-04-21T20:30
+1018712.ttl	Domaine privé Henri Dutilleux $date:2014-05-27T20:00
+1011154.ttl	Orchestre de Paris, Bertrand de Billy $date:2013-11-28T20:00
+1021068.ttl	Jazz à la Villette. Archie Shepp \"Swinging The Blues\" $date:2014-09-14T19:00
+0973521.ttl	L'Inde, 24 heures autour du Raga : la nuit. Danse mohiniattam du Kerala $date:2018-03-29T21:45
+1057930.ttl	Maurice Ravel. Les Dissonances, David Grimal $date:2016-10-03T20:30
+0240930.ttl	Aspects de l'opéra baroque. Les plaisirs de Versailles, la descente d'Orphée aux enfers $date:2018-03-29T21:44
+0905214.ttl	Julien Lourau & Bojan Z $date:2018-03-29T21:45
+0980044.ttl	Orchestre Philharmonique de Radio France, Alexander Vedernikov, Mikhaïl Rudy $date:2012-01-06T20:00
+0240460.ttl	Pierre Boulez, Ensemble intercontemporain $date:2018-03-29T21:45
+1021046.ttl	Jazz à la Villette. Avishai Cohen Trio avec Kurt Rosenwinkel $date:2018-03-29T21:44
+0987968.ttl	Orchestre National du Capitole de Toulouse, Tugan Sokhiev, Jean-Yves Thibaudet $date:2018-03-29T21:45
+1039547.ttl	Jazz à la Villette. Magic Malik $date:2015-09-05T21:00
+0241142.ttl	Cité-Jazz. Denis Colin trio $date:2018-03-29T21:45
+0241434.ttl	L'âge classique. Joseph Haydn : les symphonies parisiennes $date:2018-03-29T21:44
+1039624.ttl	Jazz à la Villette. Autour de Nina, hommage à Nina Simone $date:2015-09-06T20:00
+1023309.ttl	Ensemble intercontemporain, Matthias Pintscher $date:2014-10-17T20:00
+1028835.ttl	Orchestres des jeunes DEMOS Ile-de-France (dispositif d'éducation musicale et orchestrale à vocation sociale) $date:2018-03-29T21:45
+0241223.ttl	Flamenco à la cité. Carmen Linares $date:2018-03-29T21:45
+0241145.ttl	La direction d'orchestre. Le chant du rossignol $date:2018-03-29T21:44
+1040321.ttl	Jazz à la Villette. Orioxy $date:2015-09-10T20:00
+1066242.ttl	Jamaican Revue. Lee \"Scratch\" Perry and the Homegrownband $date:2017-04-21T20:30
+1009521.ttl	Orchestre Symphonique d'Etat de São Paulo, Marin Alsop, Nelson Freire $date:2013-10-07T20:00
+0241967.ttl	Musiques berbères de l'Atlas. Musiques du Moyen-Atlas : Chikhat de Kemisset $date:2018-03-29T21:44
+0241190.ttl	Week-end Purcell. The Indian queen, Z.630 $date:2018-03-29T21:44
+1007911.ttl	Jazz à la Villette. Tigran \"Shadow Theater\" $date:2013-09-05T20:00
+0961126.ttl	Liszt / Nono $date:2011-03-05T20:00
+1057932.ttl	Cycle Ludwig van. Fantaisie. Insula Orchestra, Accentus $date:2016-10-15T17:00
+1012675.ttl	Intervalle. Paul Agnew, madrigaux livre VI $date:2014-01-16T20:00
+1040876.ttl	Les Dissonances : David Grimal $date:2015-10-06T20:30
+1069994.ttl	Un concert à emporter, festival Days Off. Kate Tempest $date:2017-07-04T20:30
+0991564.ttl	Jazz à la Villette. Archie Shepp Attica Blues Big Band $date:2012-09-09T19:00
+0975146.ttl	Jazz à la Villette. Steven Bernstein & The Millennial Territory Orchestra play Sly & The Family Stone $date:2011-09-11T17:00
+0947333.ttl	Maurizio Pollini $date:2018-03-29T21:44
+1030359.ttl	Tindersticks $date:2015-02-10T20:30
+0888859.ttl	Via Zanzibar, la route orientale de l'esclavage. De la mer Rouge à l'Inde : l'Egypte $date:2018-03-29T21:45
+1008362.ttl	Orchestre de Paris, Andris Poga $date:2013-09-25T20:00
+1017725.ttl	Domaine privé Henri Dutilleux $date:2014-05-25T16:30
+0883616.ttl	Extase et transe : nuit indienne. Musique instrumentale carnatique $date:2018-03-29T21:44
+0924580.ttl	Brahms, musique de chambre II $date:2018-03-29T21:45
+1072554.ttl	Orchestre Métropolitain de Montréal : Yannick Nézet-Séguin, Stéphane Tétreault, Alexandre Tharaud : Elgar, Ravel, Debussy $date:2017-12-02T20:30
+0240666.ttl	Les Arts Florissants, concert du XXe anniversaire $date:2018-03-29T21:45
+1047115.ttl	Chamber Orchestra of Europe, Rias Kammerchor, Yannick Nézet-Séguin $date:2016-02-20T20:30
+0967718.ttl	5e biennale d'art vocal. Orchestre National de Lille, BBC Symphony Chorus $date:2018-03-29T21:45
+1018982.ttl	L'Inde, 24 heures du Rava : le jour. Inde du Nord : Danse kathak de Jaïpur $date:2008-09-28T16:00
+0911758.ttl	Radio-Sinfonieorchester Stuttgart des SWR. Johannes Brahms $date:2018-03-29T21:45
+1030372.ttl	The Divine Comedy $date:2015-02-11T20:30
+1072568.ttl	Orchestre de Paris : Daniel Harding, Magdalena Kozena, Andrew Staples, John Relyea $date:2017-12-21T20:30
+1028062.ttl	Orchestre national d'Ile-de-France, Enrique Mazzola, Jeff Mills $date:2014-12-06T20:00
+0974510.ttl	Jazz à la Villette. Mulatu Astatke $date:2018-03-29T21:44
+0750536.ttl	The Samaroo jets (Trinidad) $date:2018-03-29T21:45
+1042334.ttl	Concert dansé. Peter Von Poehl, Héla Fattoumi, Eric Lamoureux $date:2015-10-28T20:30
+0241153.ttl	Musiques d'Egypte. Hussein El Masry $date:2018-03-29T21:44
+0974273.ttl	Passions, le désordre amoureux. Ensemble Orchestral de Paris $date:2011-09-20T20:00
+1070492.ttl	Genesis. Ensemble intercontemporain $date:2017-03-30T20:30
+1067429.ttl	Démos $date:2017-06-24T20:30
+1003227.ttl	6e biennale d'art vocal. Paul Agnew, les Arts Florissants : madrigaux livre V $date:2018-03-29T21:44
+1071857.ttl	Jazz à la Villette : Hanna Paulsberg Concept $date:2018-03-29T21:44
+1060483.ttl	Week-end Maintenant. Rone $date:2017-01-14T20:30
+1011998.ttl	Orchestre de Paris, Kristjan Järvi, Yamandu Costa, Alessandro Kramer $date:2018-03-29T21:44
+0975147.ttl	Jazz à la Villette. Aldo Romano \"Tribute to Don Cherry\" $date:2011-09-04T18:00
+0994352.ttl	Russian National Orchestra, Mikhail Pletnev, Sergej Krylov $date:2012-11-10T20:00
+1018604.ttl	L'Inde, 24 heures du Raga : le jour. Inde du Nord et du Sud : Ensemble rythmique $date:2018-03-29T21:44
+1041239.ttl	Orchestres des jeunes DEMOS (dispositif d'éducation musicale et orchestrale à vocation sociale) $date:2015-06-27T20:30
+1042324.ttl	Week-end Jacques Higelin. Higelin symphonique $date:2015-10-24T20:30
+1018560.ttl	L'Inde, 24 heures du Raga : le jour. Inde du Sud : Musique rituelle des temples $date:2008-09-28T07:30
+1005569.ttl	Des pieds et des mains. Solistes de l'Ensemble intercontemporain $date:2012-02-11T20:00
+0963902.ttl	Orchestre Philharmonique de Radio France. Nelson Freire $date:2011-04-08T20:00
+0964312.ttl	Beethoven visionnaire. Symphonies n°2 et 6 $date:2011-04-15T20:00
+1072755.ttl	Week-end Nuit blanche. Nuit minimaliste. Bruce Brubaker $date:2018-03-29T21:44
+0964313.ttl	Beethoven visionnaire. Symphonies n°8 et 5 $date:2011-04-16T16:30
+0241970.ttl	L'Andalousie, musiques traditionnelles, musiques gitanes. Flamenco soy $date:2018-03-29T21:44
+1017724.ttl	Orchestre de Paris, Daniel Harding, Christianne Stotijn $date:2014-05-07T20:00
+0241208.ttl	Cité-chanson. Chansons de l'Océan indien. Salala (Madagascar) $date:2018-03-29T21:45
+0976461.ttl	Steve Reich, pulsations. Notes + $date:2011-10-16T16:30
+0980052.ttl	5e biennale quatuors à cordes : Quatuor Ysaÿe $date:2012-01-21T11:00
+0240659.ttl	Nikolaus Harnoncourt, Chamber orchestra of Europe : concert anniversaire $date:2018-03-29T21:45
+1072550.ttl	Bach en sept paroles : II : De passage $date:2017-11-21T20:30
+1003224.ttl	Orchestre de Paris, Yutaka Sado, Boris Berezovsky $date:2013-06-05T20:00
+1072751.ttl	Week-end Nuit blanche. Nuit minimaliste. Lubomyr Melnyk $date:2018-03-29T21:45
+0977235.ttl	Masculin / Féminin. Jeanne la Pucelle $date:2011-11-16T20:00
+1072541.ttl	Grand soir : Ensemble intercontemporain : Duncan Ward $date:2017-09-23T20:30
+1015535.ttl	Johann Sebastian Bach. Les Tempéraments. Louis Noël Bestion de Camboulas (concert sans public) $date:2014-03-17T10:30
+1071729.ttl	Jazz à la Villette : Gregory Porter $date:2017-09-05T20:00
+1074291.ttl	Jeanne Cherhal et Bachar Mar-Khalifé. ARBA - Autour de Barbara $date:2017-11-24T20:30
+1014017.ttl	Orchestre du Théâtre Mariinsky, Valery Gergiev, Alena Baeva $date:2018-03-29T21:44
+1001594.ttl	Orchestre Philharmonique de Radio France, Mikko Franck, Leila Josefowicz $date:2018-03-29T21:45
+0964315.ttl	Beethoven visionnaire. Symphonie n°9 \"Hymne à la joie\" $date:2018-03-29T21:45
+0960360.ttl	London Symphony Orchestra $date:2011-03-28T20:00
+1065610.ttl	Sonya Yoncheva $date:2017-04-18T20:30
+0886031.ttl	Via Zanzibar, la route orientale de l'esclavage. De la mer Rouge à l'Inde : Inde, rituel soufi $date:2018-03-29T21:45
+1076860.ttl	Week-end Debussy 100. Debussy / Boulez. Les Siècles - François-Xavier Roth $date:2018-03-29T21:44
+1039620.ttl	Jazz à la Villette. The Bad Plus joue \"Science Fiction\" d'Ornette Coleman $date:2015-09-12T16:30
+0991603.ttl	Jazz à la Villette. Colin Stetson solo $date:2012-08-31T20:00
+1015042.ttl	Johann Sebastian Bach. Les Tempéraments. Forum : les tempéraments chez Bach $date:2014-03-15T16:00
+0964311.ttl	Beethoven visionnaire. Symphonies n°4 et 7 $date:2011-04-14T20:00
+1012689.ttl	6e biennale quatuors à cordes. 30 ans des Ysaÿe, concert d+adieu $date:2018-03-29T21:45
+0241253.ttl	Musiques de Cuba. La rumba $date:2018-03-29T21:45
+1010107.ttl	Bach, concertos pour clavier, Orchestre de chambre de Lausanne $date:2013-10-22T20:00
+1050318.ttl	Cycle Figures féminines. Iliade l'amour de Betsy Jolas $date:2016-03-12T20:30
+0914133.ttl	Radio-Sinfonieorchester Stuttgart des SWR $date:2018-03-29T21:45
+1021056.ttl	Jazz à la Villette. Omar Sosa \"Kind of Blue\" $date:2014-09-06T17:30
+0987922.ttl	Jazz à la Villette. Fred Wesley and the New JB's $date:2011-09-10T20:00
+0966894.ttl	Orchestre de Paris. Paavo Järvi, Gautier Capuçon, Thierry Escaich $date:2011-05-18T20:00
+1037583.ttl	Festival Days Off. Matthew E. White $date:2015-07-02T20:30
+1014834.ttl	Johann Sebastian Bach. Les Tempéraments $date:2014-03-11T19:00
+1049476.ttl	Le Sacre du printemps. Orchestre national d+Île-de-France, Enrique Mazzola $date:2016-04-08T20:30
+0241183.ttl	La direction d'orchestre. Le concert des chefs stagiaires $date:2018-03-29T21:45
+0987470.ttl	Emilie Simon, \"a night with Franky\" $date:2012-04-29T20:00
+1005530.ttl	Futurismes. Ensemble intercontemporain, Choeur de Radio France, Conservatoire de Paris, Susanna Mälkki $date:2012-11-20T20:00
+0903773.ttl	Répéter / Varier 2. Erik Truffaz, Murcof, Talvin Singh $date:2018-03-29T21:44
+1031330.ttl	Insula Orchestra, symphonies d'un monde nouveau $date:2015-03-23T20:30
+1040333.ttl	Jazz à la Villette. Sons of Kemet $date:2015-09-08T20:00
+0940463.ttl	L'orchestre laboratoire. Les Siècles, Barbara Bonney $date:2018-03-29T21:45
+0991560.ttl	Jazz à la Villette. Marc Copland $date:2012-09-07T20:00
+0980051.ttl	Orchestre de Paris, Andris Nelsons, Sergey Khachatryan $date:2012-01-18T20:00
+1019084.ttl	Festival Villette Sonique 2014. Red Bull Music Academy présente Nils Frahm $date:2014-06-02T20:00
+1039553.ttl	Jazz à la Villette. Steve Coleman and The Council of Balance $date:2018-03-29T21:45
+1072545.ttl	La Danse : Les Dissonances, David Grimal : Beethoven, Stravinski $date:2017-10-26T20:30
+0241973.ttl	L'Andalousie, musiques traditionnelles, musiques gitanes. Saetas, chants de la Semaine Sainte, chant flamenco $date:2018-03-29T21:44
+1069996.ttl	Un concert à emporter, festival Days Off. Lisa Hannigan $date:2017-07-06T20:30
+1015040.ttl	Johann Sebastian Bach. Les Tempéraments, In memoriam Gustav Leonhardt $date:2014-03-21T21:00
+0964314.ttl	Beethoven visionnaire. Symphonies n°1 et 3 \"Eroica\" $date:2011-04-16T20:00
+1010258.ttl	Europunk. Cheveu $date:2013-10-26T20:00
+0954229.ttl	Orchestre de Paris, Dmitri Slobodeniouk, Gil Shaham $date:2018-03-29T21:45
+0980046.ttl	Méditerranée 2. Grèce - Turquie : la Porte d'Or (création) $date:2012-01-08T16:00
+1007917.ttl	Jazz à la Villette. Neil Young Never Sleeps $date:2013-09-06T20:00
+0240847.ttl	Le mandingue, l'empire de la parole. Chants de femmes : le Mali $date:2018-03-29T21:44
+0241247.ttl	Georg Friederich Haendel : Giulio Cesare, opéra en trois actes (version concert) $date:2018-03-29T21:45
+1008361.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung, David Kadouch $date:2013-09-13T20:00
+0892484.ttl	Concert éducatif. La famille Bach $date:2018-03-29T21:44
+1015849.ttl	Johann Sebastian Bach. Les Tempéraments. Clément Geoffroy $date:2014-03-10T17:30
+0804625.ttl	New York. Steve Reich $date:2018-03-29T21:45
+1010110.ttl	Europunk. Public Image Limited $date:2018-03-29T21:44
+0980906.ttl	Rover $date:2012-01-15T20:00
+0975583.ttl	Les larmes. Madrigaux (livre I) de Claudio Monteverdi $date:2011-10-09T16:30
+0945285.ttl	Festival Days Off. Alela Diane duo $date:2018-03-29T21:45
+0961889.ttl	Concert éducatif. Le piano selon Lang Lang $date:2011-03-30T15:00
+1004172.ttl	Schönberg / Stravinski. Stravinski en mode hip-hop $date:2013-04-06T20:00
+1039431.ttl	Jazz à la Villette. Atomic Bomb : Who is William Onyeabor ? $date:2015-09-11T20:00
+0972007.ttl	Passions, le désordre amoureux. Duos amoureux $date:2011-09-17T20:00
+0779158.ttl	Les opéras de Richard Wagner, concert jeune public $date:2018-03-29T21:45
+0769164.ttl	Le premier bal de l'an 2000 $date:2018-03-29T21:44
+0956005.ttl	Orchestre Philharmonique de Radio France $date:2011-01-07T20:00
+1071854.ttl	Jazz à la Villette : Dianne Reeves $date:2018-03-29T21:44
+0770964.ttl	La foi militante. Benjamin Britten : War requiem $date:2018-03-29T21:44
+1058633.ttl	Ibn Battuta de Damas en Chine. Hespèrion XXI, Jordi Savall $date:2016-11-04T20:30
+0993414.ttl	Alexandre Tharaud. Au temps du Boeuf sur le toit $date:2018-03-29T21:45
+0949109.ttl	Jazz à la Villette. Robert Aaron $date:2018-03-29T21:44
+1029397.ttl	Week-end Portes ouvertes. Concert d'ouverture du Choeur de l'Orchestre de Paris $date:2015-01-17T14:30
+1062230.ttl	Rothko Chapel. Ensemble intercontemporain $date:2017-02-24T20:30
+0992278.ttl	Orchestre de Paris, Paavo Järvi, Mireille Delunsch $date:2012-09-13T20:00
+0919845.ttl	Chucho Valdés solo, quartet et big band $date:2018-03-29T21:44
+1018439.ttl	L'Inde, 24 heures autour du Raga : la nuit. Inde du Nord : Chant dhrupad $date:2008-09-27T02:15
+1040873.ttl	Vêpres solennelles : Accentus, Insula Orchestra, Laurence Equilbey $date:2018-03-29T21:45
+1015034.ttl	Johann Sebastian Bach. Les Tempéraments $date:2014-03-19T21:00
+1072769.ttl	Week-end Nuit blanche. Nuit minimaliste. James McVinnie 4h $date:2018-03-29T21:44
+1046555.ttl	Biennale de quatuors à cordes. Quatuor Modigliani $date:2016-01-24T11:00
+0897979.ttl	Mandékalou, l'épopée mandingue par les griots du Mali et de la Guinée $date:2018-03-29T21:45
+1072745.ttl	Week-end Nuit blanche. Nuit minimaliste $date:2017-10-07T22:00
+1056252.ttl	Jazz à la Villette : Europa Berlin $date:2016-09-02T20:00
+0241109.ttl	Musiques d'Egypte. Derviches tourneurs du Caire $date:2018-03-29T21:47
+0992350.ttl	Jeff Mills, Orchestre national d'Île-de-France. Light From The Outside World $date:2012-09-23T20:00
+1056445.ttl	Staatskapelle Berlin, Daniel Barenboim : Mozart et Bruckner $date:2018-03-29T21:47
+1066237.ttl	Jamaican Revue. Johnny Osbourne & the Homegrown Band $date:2017-04-21T20:30
+0987827.ttl	Orchestre de Paris, Paavo Järvi $date:2018-03-29T21:46
+0765088.ttl	Georges Aperghis +. Le petit chaperon rouge $date:2018-03-29T21:47
+0967509.ttl	5e biennale d'art vocal. Le jardin de Monsieur Lully $date:2011-06-07T20:30
+1029519.ttl	Concert éducatif scolaire. L'Héroïque $date:2014-11-20T11:00
+1058866.ttl	Requiem de Mozart, René Jacobs $date:2016-11-25T20:30
+0942368.ttl	Martyrs et héros. Don Giovanni $date:2018-03-29T21:47
+1011731.ttl	Orchestre du Théâtre Mariinsky, Valery Gergiev, Gautier Capuçon $date:2018-03-29T21:47
+1076345.ttl	Bach en sept paroles : V : des profondeurs. Pygmalion - Raphaël Pichon $date:2018-02-06T20:30
+1004845.ttl	Orchestre de Paris, Andrey Boreyko, Khatia Buniatishvili $date:2013-06-12T20:00
+1029290.ttl	Gustavo Dudamel 2 $date:2015-01-25T16:30
+0924584.ttl	Brahms, musique de chambre III $date:2018-03-29T21:47
+0943455.ttl	Le continent indien, de la tradition à Bollywood. Bollywood Flashback (Inde du Nord). Ek anokha safaar (Un voyage insolite, création) $date:2018-03-29T21:46
+1056452.ttl	Jazz à la Villette : Laura Mvula $date:2016-09-10T20:00
+1032045.ttl	Un jardin à l'italienne, L'Accademia d'Amore. Solistes du Jardin des voix, Orchestre des Arts Florissants, William Christie $date:2018-03-29T21:47
+0804296.ttl	Destins kurdes. Nuit kurde. Ensemble Garyan (Kurdistan irakien) $date:2018-03-29T21:46
+0240414.ttl	Musiques des trois religions chinoises. Musiques des rituels taoistes $date:2018-03-29T21:46
+0993842.ttl	Intégrale Schumann $date:2012-11-04T16:30
+0924579.ttl	Brahms, musique de chambre I $date:2018-03-29T21:46
+1004739.ttl	Orchestre Philharmonique de Radio France, Vasily Petrenko, Julia Fischer $date:2018-03-29T21:46
+1033415.ttl	Madrigaux amoureux. Paul Agnew, Les Arts Florissants $date:2015-05-18T20:30
+1016854.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung $date:2014-04-11T20:00
+0952834.ttl	Journée Satie. Je ne vous ferai pas une conférence, Erik Satie correspondances $date:2018-03-29T21:46
+1067117.ttl	Week-end Mille et une nuits. Aladdin. Orchestre national du Capitole de Toulouse, Tugan Sokhiev $date:2017-05-20T20:30
+0996108.ttl	Orchestre de Paris, Mikko Franck $date:2012-12-19T20:00
+1070538.ttl	Les noces de Figaro. Orchestre, Solistes et choristes du Conservatoire de Paris $date:2018-03-29T21:47
+0949836.ttl	Lénine, Staline et la musique. Gennady Rozhdestvensky, Deutsche Radio Philharmonie Saarbrücken-Kaiserslautern $date:2018-03-29T21:47
+1018445.ttl	L'Inde, 24 heures autour du raga : la nuit. Inde du Nord : Danse kathak de Jaipur $date:2018-03-29T21:47
+1062911.ttl	Week-end African Queens. Les Amazones d'Afrique $date:2017-03-12T18:00
+1032066.ttl	Week-end Bach. Passion selon saint Jean. Akademie für alte Musik Berlin, Rias Kammerchor, René Jacobs $date:2015-04-04T20:30
+0973770.ttl	Babel, la diversité des langues - La Tour de Babel, Giovanna Marini $date:2018-03-29T21:47
+0919012.ttl	Jazz à la Villette. Ron Carter Foursight Quartet $date:2018-03-29T21:46
+0993843.ttl	Afrique 1. Musiques touarègues $date:2012-11-02T20:00
+1057597.ttl	Martha and Friends $date:2018-03-29T21:47
+0931414.ttl	We want more Miles. Electric Miles. Kind of Porgy and Bess $date:2018-03-29T21:46
+0976415.ttl	Orchestre Philharmonique de Radio France, Eliahu Inbal, Isabelle Faust, Steve Davislim $date:2018-03-29T21:46
+0933821.ttl	Orientalismes. Orchestre Philharmonique de Radio France $date:2018-03-29T21:46
+0978428.ttl	Orchestre Philharmonique de Radio France - Alan Gilbert - Barry Douglas $date:2011-12-09T20:00
+1039452.ttl	Jazz à la Villette. Malted Milk et Toni Green $date:2018-03-29T21:46
+0948698.ttl	Jazz à la Villette. Chucho Valdés et Archie Shepp. \"Afro-Cuban Project\" $date:2018-03-29T21:46
+0240832.ttl	Le mandingue, l'empire de la parole. Guinée et Mali d'aujourd'hui $date:2018-03-29T21:46
+1043878.ttl	Week-end A Oum Kalthoum. Ibrahim Maalouf $date:2015-12-13T16:30
+1056886.ttl	Présentation musicale des orchestres Démos d'Île-de-France. Dispositif d'Education Musicale et Orchestrale à vocation Sociale $date:2018-03-29T21:47
+1019813.ttl	Concert éducatif. Gavroche, le chantre des pavés $date:2018-03-29T21:46
+1011725.ttl	Orchestre du Théâtre Mariinsky, Valery Gergiev, Veronika Djoeva, Mikhail Petrenko $date:2013-12-02T20:00
+0977247.ttl	Orchestre de Paris - Paavo Järvi - Dang Thai Son $date:2011-11-09T20:00
+1071760.ttl	Jazz à la Villette : Curtis Harding $date:2017-09-09T20:00
+0241118.ttl	Musique et cinéma. La chute de la maison Usher (1928) $date:2018-03-29T21:46
+1035082.ttl	Le voyage de Monsieur Monteverdi. Les Arts Florissants $date:2018-03-29T21:47
+1069702.ttl	Jazz à la Villette : Archie Shepp \"Art songs & spirituals\" $date:2017-09-12T20:00
+0896295.ttl	Orchestre national de Russie $date:2018-03-29T21:47
+0241269.ttl	Karlheinz Stockhausen $date:2018-03-29T21:46
+0240439.ttl	Musiques et danses en Asie centrale. Fête en Ouzbekistan $date:2018-03-29T21:47
+1072133.ttl	Revisiting Grappelli $date:2017-09-29T20:30
+0240411.ttl	Musiques des trois religions chinoises. Musiques des réunions confucéennes $date:2018-03-29T21:47
+1043881.ttl	Magnificat. Thomas Hengelbrock $date:2018-03-29T21:46
+0980782.ttl	L'esprit Debussy. Le Martyre de saint Sébastien $date:2012-01-31T20:00
+0959379.ttl	Le paradis. The Fairy Queen $date:2011-02-15T20:00
+0927511.ttl	Les routes d'Orient. Asie centrale. Musiques des cours royales. Ouzbékistan $date:2018-03-29T21:46
+0809563.ttl	Destins kurdes. Nuit kurde. Tania Arab (Kurdistan irakien) $date:2018-03-29T21:47
+1029285.ttl	Les Arts Florissants, William Christie $date:2015-01-16T20:30
+1045013.ttl	Pierre Henry, maintenant et demain $date:2016-01-09T20:30
+0241090.ttl	Eddy Louiss, Richard Galliano $date:2018-03-29T21:46
+0888651.ttl	Via Zanzibar, la route orientale de l'esclavage. L'afrique islamisée, Zanzibar $date:2018-03-29T21:46
+0955970.ttl	Lénine, Staline et la musique. Quatuor Borodine $date:2018-03-29T21:46
+0982757.ttl	Chamber Orchestra of Europe, Bernard Haitink, Ludwig van Beethoven $date:2012-03-03T20:00
+1018848.ttl	Mozart enfant. Les Dissonances, David Grimal $date:2014-03-01T16:30
+0942607.ttl	Planète Terre. DJ Spooky, Terra Nova - Sinfonia Antarctica $date:2018-03-29T21:46
+1018928.ttl	L'Inde, 24 heures du Raga : le jour. Inde du Nord : Chant khyal et thumri $date:2008-09-28T14:30
+1039446.ttl	Jazz à la Villette. Gabriel Garzón-Montano $date:2015-09-03T20:00
+0241126.ttl	Herbert Blomstedt : Chamber orchestra of Europe $date:2018-03-29T21:46
+1004463.ttl	Wayne Shorter Quartet $date:2012-11-03T20:00
+0773788.ttl	Nuit soufie. Sheikh Ahmad Al-Tûni (Haute-Egypte) $date:2018-03-29T21:46
+1046900.ttl	Le voyage d'Ibn Battuta. Hespèrion XXI, Jordi Savall $date:2016-02-11T20:30
+1061549.ttl	Week-end Joyeuses fêtes. Oratorio de Noël $date:2016-12-17T20:30
+0240957.ttl	Pâques d'Orient , Pâques d'Occident. La passion d'Uppsala selon saint Matthieu, passion luthérienne anonyme de 1667 d'après le manuscrit d'Uppsala $date:2018-03-29T21:46
+1056295.ttl	Jazz à la Villette : Vaudou Game $date:2018-03-29T21:47
+1005988.ttl	Festival Days Off. James Blake $date:2013-07-04T21:00
+1015033.ttl	Johann Sebastian Bach. Les Tempéraments $date:2018-03-29T21:46
+1056253.ttl	Jazz à la Villette : Archie Shepp All Star \"Tribute to John Coltrane\" feat. J. Moran, A. Akinmusire, B. Hart & R. Davis $date:2016-09-03T20:00
+1074785.ttl	Week-end Contes et récits. Haydn Les Saisons, Orchestre de chambre de Paris, Accentus, Douglas Boyd $date:2018-03-29T21:47
+0241286.ttl	Musique et espace $date:2018-03-29T21:46
+0995381.ttl	Orchestre Philharmonique du Luxembourg, Emmanuel Krivine, Nelson Freire $date:2012-12-08T20:00
+1065461.ttl	Week-end Jamaica. Monty Alexander. Harlem Kingston express $date:2017-04-23T18:00
+1063945.ttl	Concert participatif en famille. Jeux de guerre, jeux de vilain $date:2016-04-13T14:30
+0955975.ttl	Chamber Orchestra of Europe. Bernard Haitink $date:2011-01-18T20:00
+1029282.ttl	Gala d'ouverture 2 $date:2015-01-15T20:30
+0954661.ttl	Le temps du récit I. L'épopée du Ramayana : l'enlèvement de Sita : théâtre d'ombres wayang kulit (Indonésie) $date:2018-03-29T21:46
+0240982.ttl	Pâques d'Orient , Pâques d'Occident. Le Grand et Saint Samedi orthodoxe : extraits des Vêpres et Matines du Samedi : Offices de l'épitaphios, odes des myrophores et les hymnes à Joseph d'Arimathie $date:2018-03-29T21:47
+1015030.ttl	Johann Sebastian Bach. Les Tempéraments $date:2014-03-16T16:30
+1031623.ttl	Orchestre de Paris, Yuri Temirkanov, Leonidas Kavakos $date:2015-02-25T20:30
+1015347.ttl	Orchestre Philharmonique de Radio France, Esa-Pekka Salonen $date:2014-03-14T20:00
+0955973.ttl	Lénine, Staline et la musique. Quatuor Borodine $date:2018-03-29T21:46
+0980795.ttl	AaRON $date:2018-03-29T21:47
+0994692.ttl	Paul Agnew, les Arts Florissants : madrigaux livre IV $date:2012-11-27T20:00
+1036425.ttl	Week-end Nuit du raga, grands maîtres de l'Inde. Hariprasad Chaurasia $date:2015-01-31T22:30
+0815831.ttl	Jeune public. Cuivres et fantaisies $date:2018-03-29T21:46
+1028627.ttl	Guerre et Paix III. La Chambre Philharmonique, Emmanuel Krivine, Steven Isserlis $date:2014-12-16T20:00
+1057603.ttl	Cycle Ludwig van. Sonates. Gautier Capuçon, Frank Braley $date:2016-10-18T20:30
+0979092.ttl	La folie. Madrigaux (livre II) de Claudio Monteverdi $date:2011-12-16T20:00
+1015031.ttl	Johann Sebastian Bach. Les Tempéraments $date:2014-03-18T19:00
+0993840.ttl	Intégrale Schumann $date:2012-11-03T20:00
+0240638.ttl	Le Portugal, racines rurales, racines urbaines $date:2018-03-29T21:47
+0979095.ttl	Orchestre de Paris, Pierre Boulez, Bertrand Chamayou $date:2018-03-29T21:46
+0985774.ttl	Orchestre Philharmonique de Radio France, Gustavo Dudamel $date:2018-03-29T21:46
+1062335.ttl	Jansons, Symphonieorchester des Bayerischen Rundfunks $date:2017-01-31T20:30
+1031208.ttl	Week-end David Bowie. Philippe Decouflé. WieBo $date:2015-03-07T18:00
+1049601.ttl	Week-end Stockhausen. Gruppen. Ensemble intercontemporain, Orchestre du Conservatoire de Paris $date:2016-01-30T20:30
+1021379.ttl	Jazz à la Villette. Mulatu Astatke $date:2014-09-12T20:00
+1018887.ttl	L'Inde, 24 heures du Raga : le jour. Inde du Nord : Chants du Rajasthan $date:2008-09-28T13:15
+0985772.ttl	Orchestre Philharmonique de Radio France, Gustavo Dudamel $date:2012-04-13T20:00
+0971168.ttl	Festival Days Off. The Fleet Foxes $date:2011-07-04T21:15
+0240417.ttl	Paavo Berglund, Chamber orchestra of Europe $date:2018-03-29T21:46
+0942572.ttl	Orchestre de Paris. Pierre Boulez, un certain parcours $date:2018-03-29T21:46
+1014845.ttl	Johann Sebastian Bach. Les Tempéraments $date:2018-03-29T21:47
+0933825.ttl	Concert éducatif. Les Siècles - La France romantique $date:2018-03-29T21:46
+1056243.ttl	Jazz à la Villette : Orchestre National de Jazz : ONJ 30 ans ! $date:2018-03-29T21:47
+1061039.ttl	Staatskapelle Berlin, Daniel Barenboim. Bruckner $date:2017-01-06T21:30
+0989799.ttl	Festival Days Off : Wild Beasts $date:2018-03-29T21:47
+1060493.ttl	Biennale d'art vocal. Te Deum, 40 ans du choeur de l'Orchestre de Paris $date:2018-03-29T21:47
+1018488.ttl	L'Inde, 24 heures autour du Raga : la nuit. Inde du Nord : Chant du Rajasthan $date:2008-09-27T04:30
+1046044.ttl	An evening with Avishai Cohen, Avishai Cohen symphonique $date:2018-03-29T21:47
+1041702.ttl	Week-end Dialogues des cultures. Angélique Kidjo et Philip Glass $date:2015-10-03T20:30
+1018860.ttl	L'Inde, 24 heures du Raga : le jour. Inde du Sud : Chant carnatique $date:2008-09-28T11:45
+1016891.ttl	African Remix. Lagos (Nigéria), Yisa Mirinda $date:2014-04-17T20:00
+1021036.ttl	Jazz à la Villette. Charles Bradley $date:2018-03-29T21:46
+0765331.ttl	Moyen-Age I. L'ordre terrestre. Moyen-Age. Le remède de Fortune $date:2018-03-29T21:47
+0974415.ttl	Jazz à la Villette. Medeski, Martin & Wood $date:2018-03-29T21:47
+0980797.ttl	5e biennale quatuors à cordes : Prazàk Quartet, Vladimir Bukac $date:2012-01-21T20:30
+1029288.ttl	Week-end Nouvelles vagues. Gustavo Dudamel 1 $date:2015-01-24T20:30
+1067440.ttl	Démos $date:2017-06-25T14:30
+0989993.ttl	Festival Days Off : Other Lives $date:2012-07-06T20:00
+0889389.ttl	Bali années vingt $date:2018-03-29T21:47
+0925467.ttl	Répéter / Varier II. Aufgang $date:2018-03-29T21:47
+0779300.ttl	La vie, la mort. Himalaya. Le cham, rituels et danses masquées (royaume du Bhoutan) $date:2018-03-29T21:46
+1072924.ttl	Sgt. Pepper Live $date:2017-10-22T20:30
+0999017.ttl	A toi de jouer. Concert de clôture $date:2012-06-06T20:00
+0241052.ttl	Aspects de l'opéra baroque. Henry Purcell, King Arthur $date:2018-03-29T21:46
+1024947.ttl	Wiener Symphoniker, Philippe Jordan, Khatia Buniatishvili, Rainer Küblböck $date:2014-11-28T20:00
+0896298.ttl	Chamber orchestra of Europe, Hélène Grimaud $date:2018-03-29T21:47
+1039518.ttl	Jazz à la Villette. Lee Fields & the Expressions $date:2015-09-03T22:00
+0241240.ttl	Chamber orchestra of Europe $date:2018-03-29T21:47
+0948844.ttl	Jazz à la Villette. Tribute to Roy Ayers featuring Stefon Harris, Pete Rock & Robert Glasper's Experiment $date:2018-03-29T21:46
+0907954.ttl	4e biennale d'art vocal. L'incoronazione di Poppea de Claudio Monteverdi $date:2018-03-29T21:46
+0885820.ttl	Rome 1700. Il Giardino Armonico $date:2018-03-29T21:47
+0997438.ttl	Orchestre du Théâtre Mariinsky, Valery Gergiev, Denis Matsuev $date:2018-03-29T21:47
+1019812.ttl	Visions du monde. Univers parallèles : rencontre $date:2014-06-18T20:00
+0955976.ttl	Chamber Orchestra of Europe. Bernard Haitink $date:2018-03-29T21:47
+1056241.ttl	Jazz à la Villette : Sonny Troupé Quartet $date:2016-08-31T20:00
+1015029.ttl	Johann Sebastian Bach. Les Tempéraments $date:2018-03-29T21:47
+1067459.ttl	Agnes Obel $date:2017-05-14T20:30
+1015035.ttl	Johann Sebastian Bach. Les Tempéraments $date:2014-03-20T19:00
+0241078.ttl	Chamber orchestra of Europe $date:2018-03-29T21:46
+1002176.ttl	Domaine privé Kaija Saariaho. Orchestre Philharmonique de Radio France, Santtu-Matias Rouvali, Anu Komsi $date:2013-04-19T20:00
+1067689.ttl	Démos 2017 $date:2017-06-25T18:30
+1017741.ttl	MDR Sinfonieorchester Leipzig, MDR Rundfunkchor Leipzig, Kristjan Järvi, Steve Reich $date:2014-05-05T20:00
+0942599.ttl	La querelle des Bouffons $date:2018-03-29T21:46
+1022328.ttl	Guerre et Paix I. Bataille et victoire $date:2014-10-11T20:00
+0241281.ttl	Amérique. Hommage à Mr Ellington. Inédits de Duke Ellington et Billy Strayhorn $date:2018-03-29T21:47
+1017227.ttl	African Remix. Lagos (Nigéria). Femi Kuti & Positive Force $date:2014-04-17T20:00
+0885017.ttl	Pélerinages médiévaux. De Prague à Compostelle 1465, l'incroyable voyage de Léon de Rosmital à travers l'Europe $date:2018-03-29T21:46
+1032059.ttl	Week-end Bach. Messe en si, English Baroque Soloists, Monteverdi Choir, Sir John Eliot Gardiner $date:2015-04-03T20:30
+0982741.ttl	Chamber Orchestra of Europe, Bernard Haitink, Ludwig van Beethoven $date:2012-03-02T20:00
+0955769.ttl	Nat King Cole en espagnol. David Murray. Omara Portuondo $date:2010-12-21T20:00
+1018525.ttl	L'Inde, 24 heures autour du Raga : la nuit. Inde du Nord : Flûte satara du Rajasthan $date:2008-09-27T06:00
+0941724.ttl	Carla Bley \"The lost chords find Paolo Fresu\" $date:2018-03-29T21:47
+0896924.ttl	Le temps de la danse. L'épopée du Ramayana II. Le théâtre masqué Khon (Thaïlande) : l'enlèvement de Sita et le combat royal $date:2018-03-29T21:47
+1015032.ttl	Johann Sebastian Bach. Les Tempéraments $date:2018-03-29T21:46
+1040235.ttl	Jazz à la Villette. John Greaves : \"Verlaine Gisant\" $date:2015-09-12T20:00
+0818091.ttl	Le Japon, racines et ruptures. Shomyo du Temple Daigo : chant des moines bouddhistes $date:2018-03-29T21:46
+0999207.ttl	Orchestre de Paris, Yuri Temirkanov, Alisa Weilerstein $date:2013-02-13T20:00
+1015027.ttl	Johann Sebastian Bach. Les Tempéraments $date:2018-03-29T21:46
+0895954.ttl	Ensemble Modern Orchestra $date:2018-03-29T21:46
+1067466.ttl	Orchestre de Paris. Daniel Harding $date:2017-05-24T20:30
+1011723.ttl	Orchestre du Théâtre Mariinsky, Valery Gergiev, Daniil Trifonov, Timur Martynov $date:2013-12-01T16:00
+0977240.ttl	Masculin / Féminin. Castrats divas $date:2011-11-17T20:00
+1030927.ttl	Les Dissonances, David Grimal $date:2015-02-09T20:30
+0901306.ttl	La grande nouba. Le malouf tunisien. Dorsaf Hamdani et l'ensemble Atesh (Tunis) $date:2018-03-29T21:46
+1033420.ttl	Week-end Sketches of New York. New York Philharmonic, Alan Gilbert, Joyce DiDonato $date:2015-04-25T20:30
+1021141.ttl	Orchestre Philharmonique de Radio France, Myung-Whun Chung, Evgeny Kissin $date:2014-09-19T20:00
+1019811.ttl	Visions du monde. Univers parallèles $date:2014-06-18T20:00
+1014848.ttl	Johann Sebastian Bach. Les Tempéraments $date:2014-03-13T19:00
