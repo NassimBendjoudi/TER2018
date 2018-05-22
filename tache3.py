@@ -307,9 +307,9 @@ pp.close()
 #////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 EMTD=open('EMTD.txt','x+')
-EMT=open('EMT.txt','x+')
+EMT=open('EMD.txt','x+')
 EMTrD=open('EMTrD.txt','x+')
-EMTr=open('EMTr.txt','x+')
+EMTr=open('EMT.txt','x+')
 
 #/////////////// on collecte les termes à mesurer //////////////////////////
 
@@ -345,27 +345,25 @@ for ligne in read_mots1:
 				#On définie les seuils minimums Jaro et Levenstein
 				#Seuil 1 : same people (même peuple)
 				
-				if levenshteinN(titre1,titre2) >= 0.9 and jaro(titre1,titre2) > 0.9:  #<<<<<<< ici vous mettez le seuil de similarité Jaro min
-					if levenshteinN(date1,date2) ==1.0 and jaro(date1,date2) == 1.0:
+				if levenshteinN(date1,date2) ==1.0 and jaro(date1,date2) == 1.0:#dates exactes
+					if levenshteinN(titre1,titre2) >= 0.9 and jaro(titre1,titre2) > 0.9:  #titres exactes
+				
 						#ecriture des alignements répondants aux conditions
 						EMTD.write(titrePrime1+':'+date1+'\n'+titrePrime2+':'+date2+'\n'+'JaroW:'+str(jaro(titre1,titre2))+' Levenstein: '+str(levenshteinN(titre1,titre2))+' > '+'\n\n')
 						if titre1 not in s:
 							s.append(titre1)
-					else:
-						EMT.write(titrePrime1+':'+date1+'\n'+titrePrime2+':'+date2+'\n'+'JaroW:'+str(jaro(titre1,titre2))+' Levenstein: '+str(levenshteinN(titre1,titre2))+' > '+'\n\n')
-						if titre1 not in s:
-							s.append(titre1)
-				elif levenshteinN(titre1,titre2) >= 0.5 and jaro(titre1,titre2) > 0.7:  #<<<<<<< ici vous mettez le seuil de similarité Jaro min
-					if levenshteinN(date1,date2) ==1.0 and jaro(date1,date2) == 1.0:
-						#ecriture des alignements répondants aux conditions
+					elif levenshteinN(titre1,titre2) >= 0.5 and jaro(titre1,titre2) > 0.7: #titres légèrement différents
 						EMTrD.write(titrePrime1+':'+date1+'\n'+titrePrime2+':'+date2+'\n'+'JaroW:'+str(jaro(titre1,titre2))+' Levenstein: '+str(levenshteinN(titre1,titre2))+' > '+'\n\n')
 						if titre1 not in s:
 							s.append(titre1)
-					else:
-						EMTr.write(titrePrime1+':'+date1+'\n'+titrePrime2+':'+date2+'\n'+'JaroW:'+str(jaro(titre1,titre2))+' Levenstein: '+str(levenshteinN(titre1,titre2))+' > '+'\n\n')
+					else: #titres complétement différents
+						EMD.write(titrePrime1+':'+date1+'\n'+titrePrime2+':'+date2+'\n'+'JaroW:'+str(jaro(titre1,titre2))+' Levenstein: '+str(levenshteinN(titre1,titre2))+' > '+'\n\n')
+						
+				elif levenshteinN(titre1,titre2) >= 0.9 and jaro(titre1,titre2) > 0.9:  #titres exactes
+						#ecriture des alignements répondants aux conditions
+						EMT.write(titrePrime1+':'+date1+'\n'+titrePrime2+':'+date2+'\n'+'JaroW:'+str(jaro(titre1,titre2))+' Levenstein: '+str(levenshteinN(titre1,titre2))+' > '+'\n\n')
 						if titre1 not in s:
 							s.append(titre1)
-
 
 
 
