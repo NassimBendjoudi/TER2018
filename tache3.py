@@ -120,7 +120,7 @@ def levenshteinN(mot1,mot2):
 			ligne_i[k] = min(ligne_i[k-1] + 1, ligne_prec[k] + 1, ligne_prec[k-1] + cout)	
 	result = 1-(ligne_i[len(mot1)]/(max(len(mot1),len(mot2))))
 	return(round(result,3))
-"""
+
 #//////////////////////////////////////////////////////////////////////////
 #Fonction qui récupère un bloc de texte qui commence par begin\d et se termine par end\d
 #//////////////////////////////////////////////////////////////////////////
@@ -297,7 +297,7 @@ def parcours(repertoire) :
 pp = open('pp.txt','x+')
 parcours(repertoire)
 pp.close()
-"""
+
 
 #////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -346,7 +346,7 @@ for ligne in read_mots1:
 				#Seuil 1 : same people (même peuple)
 				
 				if levenshteinN(date1,date2) ==1.0 and jaro(date1,date2) == 1.0:#dates exactes
-					if levenshteinN(titre1,titre2) >= 0.9 and jaro(titre1,titre2) > 0.9:  #titres exactes
+					if levenshteinN(titre1,titre2) >= 0.95 and jaro(titre1,titre2) > 0.95:  #titres exactes
 				
 						#ecriture des alignements répondants aux conditions
 						EMTD.write(titrePrime1+':'+date1+'\n'+titrePrime2+':'+date2+'\n'+'JaroW:'+str(jaro(titre1,titre2))+' Levenstein: '+str(levenshteinN(titre1,titre2))+' > '+'\n\n')
@@ -359,7 +359,7 @@ for ligne in read_mots1:
 					else: #titres complétement différents
 						EMD.write(titrePrime1+':'+date1+'\n'+titrePrime2+':'+date2+'\n'+'JaroW:'+str(jaro(titre1,titre2))+' Levenstein: '+str(levenshteinN(titre1,titre2))+' > '+'\n\n')
 						
-				elif levenshteinN(titre1,titre2) >= 0.9 and jaro(titre1,titre2) > 0.9:  #titres exactes
+				elif levenshteinN(titre1,titre2) >= 0.95 and jaro(titre1,titre2) > 0.95:  #titres exactes
 						#ecriture des alignements répondants aux conditions
 						EMT.write(titrePrime1+':'+date1+'\n'+titrePrime2+':'+date2+'\n'+'JaroW:'+str(jaro(titre1,titre2))+' Levenstein: '+str(levenshteinN(titre1,titre2))+' > '+'\n\n')
 						if titre1 not in s:
