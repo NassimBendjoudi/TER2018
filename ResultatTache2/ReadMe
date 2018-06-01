@@ -1,0 +1,5 @@
+TACHE 2 :
+
+Dans cette étape, nous allons exploiter les fichiers ici présents, les étapes sont comme-suit:
+  - Lancer "tache2_prepaFichiers.py"                pour préparer les fichiers d'alignement
+  - Lancer "tache2_Alignement_BNF_RAMEAU_jaro.py"   pour effectuer l'alignement entre BNF/RAMEAU
