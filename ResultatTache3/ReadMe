@@ -1,0 +1,9 @@
+Tache 03:
+
+Nous allons exploiter les fichiers ici présents et lancer "tache3_Philharmonie.py" depuis le terminal, cela nous génerera les fichiers : 
+  - EMTD  :  Evenements avec même DATE et même TITRE.
+  - EMTrD :  Evenements avec même DATE et titre légèrement différent.
+  - EMD   :  Evenements avec même DATE et titre complétement différent.
+  - EMT   :  Evenements avec même TITRE et date différente.
+  
+Une version CSV de ces résultats se trouve dans le dossier CSV.
