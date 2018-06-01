@@ -231,7 +231,7 @@ for ligne in read_mots1:
 					if not resT2:
 						
 
-						if levenshteinN(ethnie,mot2) >= 0.85 and jaro(ethnie, mot2) > 0.8 :  #<<<<<<< ici vous mettez le seuil de similarité Jaro min
+						if levenshteinN(ethnie,mot2) >= 0.8 and jaro(ethnie, mot2) > 0.84 :  #<<<<<<< ici vous mettez le seuil de similarité Jaro min
 							if iD1 not in m:
 								
 								for cle,valeur in BNF.items():
@@ -270,7 +270,7 @@ for ligne in read_mots1:
 
 						#On définie les seuils minimums Jaro et Levenstein
 						#Seuil 1 : same people (même peuple) same region (même région)
-						if levenshteinN(ethnie,ethnieRM) >= 0.85 and jaro(ethnie, ethnieRM) > 0.81 : #on vérifie l'ethnie
+						if levenshteinN(ethnie,ethnieRM) >= 0.7 and jaro(ethnie, ethnieRM) > 0.7 : #on vérifie l'ethnie
 							if levenshteinN(region,regionRM) > 0.7 and jaro(region, regionRM) > 0.7 : #on vérifie la région 	<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 								
 								for cle,valeur in BNF.items():
@@ -309,7 +309,7 @@ for ligne in read_mots1:
 						
 						#On définie les seuils minimums Jaro et Levenstein
 						#Seuil 1 : same people (même peuple)
-						if levenshteinN(mot1,mot2) >= 0.8 and jaro(mot1, mot2) > 0.8 : #and iD1 not in m
+						if levenshteinN(mot1,mot2) >= 0.8 and jaro(mot1, mot2) > 0.84 : #and iD1 not in m
 							
 							for cle,valeur in BNF.items():
 								if cle==iD1:
@@ -369,7 +369,3 @@ os.remove('newRAMEAU_utf-8.txt')
 
 
 
-"""
-if not resT
-						
-"""
