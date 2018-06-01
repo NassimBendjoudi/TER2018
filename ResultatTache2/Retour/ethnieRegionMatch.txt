@@ -1,0 +1,128 @@
+38471794	$aTraditions$mOcéanie$mAustralie$eNyongaar
+12045606	$aNyungar$gpeuple d'Australie
+JaroW:0.895 Levenstein: 0.75
+
+43691917	$aTraditions$mOcéanie$mNouvelle-Calédonie$eKanak
+11969392	$aKanak$gpeuple de Nouvelle-Calédonie
+JaroW:1.0 Levenstein: 1.0
+
+42394386	$aTraditions$mAmérique centrale$mSuriname$eSaramaka
+11973598	$aSaramaka$gpeuple du Suriname
+JaroW:1.0 Levenstein: 1.0
+
+39065571	$aTraditions$mOcéanie$mNouvelle-Zélande$eMaoris
+11954230	$aMaoris$gpeuple de Nouvelle-Zélande
+JaroW:1.0 Levenstein: 1.0
+
+40969515	$aTraditions$mOcéanie$mNouvelle-Zélande$eMaoris
+11954230	$aMaoris$gpeuple de Nouvelle-Zélande
+JaroW:1.0 Levenstein: 1.0
+
+38471790	$aTraditions$mOcéanie$mAustralie$eNyongaar
+12045606	$aNyungar$gpeuple d'Australie
+JaroW:0.895 Levenstein: 0.75
+
+38551119	$aTraditions$mAfrique$mCameroun$eBalis
+12384481	$aBali$gpeuple du Cameroun
+JaroW:0.96 Levenstein: 0.8
+
+38432551	$aTraditions$mAsie$mÎles Philippines$eT'boli
+13517278	$aT'boli$gpeuple des Philippines
+JaroW:1.0 Levenstein: 1.0
+
+38553965	$aTraditions$mAfrique$mMadagascar$eAntandroy
+12480058	$aAntandroy$gpeuple de Madagascar
+JaroW:1.0 Levenstein: 1.0
+
+38559068	$aTraditions$mOcéanie$mPapouasie Nouvelle-Guinée$eHuli
+12104084	$aHuli$gpeuple de Papouasie-Nouvelle-Guinée
+JaroW:1.0 Levenstein: 1.0
+
+38398136-003	$aTraditions$mAfrique$mBurkina Faso$eGan
+16257711	$aGan$gpeuple du Burkina Faso
+JaroW:1.0 Levenstein: 1.0
+
+38556748	$aTraditions$mOcéanie$mPapouasie Nouvelle Guinée$eHuli
+12104084	$aHuli$gpeuple de Papouasie-Nouvelle-Guinée
+JaroW:1.0 Levenstein: 1.0
+
+38527947	$aTraditions$mAfrique$mMadagascar$eBetsimisaraka
+11951982	$aBetsimisaraka$gpeuple de Madagascar
+JaroW:1.0 Levenstein: 1.0
+
+41072828	$aTraditions$mAfrique$mMadagascar$eAntanosy
+13185665	$aAntanosy$gpeuple de Madagascar
+JaroW:1.0 Levenstein: 1.0
+
+38587257	$aTraditions$mOcéanie$mNouvelle Calédonie$eKanak
+11969392	$aKanak$gpeuple de Nouvelle-Calédonie
+JaroW:1.0 Levenstein: 1.0
+
+39995898	$aTraditions$mAsie$mRussie$mSibérie$eBouriates
+11982642	$aBouriates$gpeuple de Sibérie
+JaroW:1.0 Levenstein: 1.0
+
+41072745	$aTraditions$mAsie$mNépal$eNewar
+11948667	$aNewar$gpeuple du Népal
+JaroW:1.0 Levenstein: 1.0
+
+38427568	$aTraditions$mAfrique$ePeuls
+11935469	$aPeuls$gpeuple d'Afrique
+JaroW:1.0 Levenstein: 1.0
+
+42641133	$aTraditions$mAsie$mIndonésie$eToba Batak
+11975089	$aToba Batak$gpeuple d'Indonésie
+JaroW:1.0 Levenstein: 1.0
+
+41177410	$aTraditions$mAfrique$mMadagascar$eAntanosy
+13185665	$aAntanosy$gpeuple de Madagascar
+JaroW:1.0 Levenstein: 1.0
+
+38563102-001	$aTraditions$mOcéanie$mNouvelle-Zélande$eMaoris
+11954230	$aMaoris$gpeuple de Nouvelle-Zélande
+JaroW:1.0 Levenstein: 1.0
+
+38563102-010	$aTraditions$mOcéanie$mNouvelle-Zélande$eMaoris
+11954230	$aMaoris$gpeuple de Nouvelle-Zélande
+JaroW:1.0 Levenstein: 1.0
+
+38471830	$aTraditions$mOcéanie$mAustralie$eNyongaar
+12045606	$aNyungar$gpeuple d'Australie
+JaroW:0.895 Levenstein: 0.75
+
+39237320	$aTraditions$mAsie$mChine$eQiangs
+12460130	$aQiang$gpeuple de Chine
+JaroW:0.967 Levenstein: 0.833
+
+38540019	$aTraditions$mAfrique$mBurkina Faso$eGan
+16257711	$aGan$gpeuple du Burkina Faso
+JaroW:1.0 Levenstein: 1.0
+
+38439282-001	$aTraditions$mRépublique Centrafricaine$eDendi
+13775467	$aDendi$gpeuple de la République centrafricaine
+JaroW:1.0 Levenstein: 1.0
+
+38942118	$aTraditions$mAsie$mPhilippines$eT'boli
+13517278	$aT'boli$gpeuple des Philippines
+JaroW:1.0 Levenstein: 1.0
+
+39038877	$aTraditions$mAsie$mSibérie$eÉvenk
+11982829	$aÉvenks$gpeuple de Sibérie
+JaroW:0.967 Levenstein: 0.833
+
+39003211	$aTraditions$mAfrique$mMadagascar$eBara
+11977716	$aBara$gpeuple de Madagascar
+JaroW:1.0 Levenstein: 1.0
+
+38479258	$aTraditions$mOcéanie$mAustralie$eNyoongar
+12045606	$aNyungar$gpeuple d'Australie
+JaroW:0.895 Levenstein: 0.75
+
+42696025	$aTraditions$mOcéanie$mNouvelle-Zélande$eMaoris
+11954230	$aMaoris$gpeuple de Nouvelle-Zélande
+JaroW:1.0 Levenstein: 1.0
+
+42667369	$aTraditions$mAsie$mIran$eBakhtiari
+11949209	$aBakhtiyari$gpeuple d'Iran
+JaroW:0.98 Levenstein: 0.9
+
