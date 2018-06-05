@@ -88,7 +88,7 @@
 11940862~bororo\indiens
 11940864~ge\indiens
 11940965~britanniques
-11940990~kabyles\
+11940990~kabyles\ berbere
 11941008~redons
 11941128~turkmenes
 11941135~cherokee\indiens
@@ -292,7 +292,7 @@
 11960143~illyriens
 11960145~ilongot\ philippines
 11960156~kalmouks
-11960157~kel ahaggar\
+11960157~kel ahaggar\ berbere
 11960387~gallois
 11960806~anglais
 11960894~balinais
@@ -440,7 +440,7 @@
 11974155~japonais
 11974172~juang\ inde
 11974216~ndjuka\ guyane suriname
-11974503~ait ayash\
+11974503~ait ayash\ berbere
 11974512~baka\ cameroun gabon
 11974515~baloutches\ asie
 11974516~baltes
@@ -563,7 +563,7 @@
 11983029~indo-aryens
 11983050~mauri\ afrique
 11983207~sueves
-11983351~sanhadja\
+11983351~sanhadja\ berbere
 11983352~lettons
 11983353~lituaniens
 11983389~canadiens
@@ -619,7 +619,7 @@
 11996697~antaimoro\ madagascar
 11996920~zaghawa\ afrique
 11998055~kpelle\ afrique
-11998301~mozabites\
+11998301~mozabites\ berbere
 11998329~kurnai\ australie
 11998452~omaha\indiens
 11998455~shoshone\indiens
@@ -661,7 +661,7 @@
 12009737~peligniens
 12009863~slaves est
 12009864~slaves ouest
-12009956~iqar'iyen\
+12009956~iqar'iyen\ berbere
 12010576~juifs espagnols
 12010675~sahraouis
 12010840~kadar\ inde
@@ -697,7 +697,7 @@
 12034751~dauniens
 12035334~kebar\ indonesie
 12036793~mozambicains
-12037204~ait mizane\
+12037204~ait mizane\ berbere
 12037240~kanyok\ afrique
 12037537~bamileke\ afrique
 12038005~nuer\ afrique
@@ -788,7 +788,7 @@
 12091992~lele\   congo
 12091995~kete\ afrique
 12093965~sio\ papouasie-nouvelle-guinee
-12098362~kel ferwan\
+12098362~kel ferwan\ berbere
 12098479~ouldeme\ afrique
 12098885~nubiens
 12098939~qashqai\ turc
@@ -854,7 +854,7 @@
 12153909~taiwanais
 12154087~cañari\indiens
 12154134~taino\indiens
-12154630~kel ewey\
+12154630~kel ewey\ berbere
 12155632~tadjiks
 12156179~tatars crimee
 12156276~arma\ afrique
@@ -985,7 +985,7 @@
 12224448~salish cote\indiens
 12224703~sharanahua\indiens
 12225349~runga\ afrique
-12225943~beni yala\
+12225943~beni yala\ berbere
 12228051~pare\ afrique
 12228366~wewewa\ indonesie
 12228380~munsee\indiens
@@ -1064,7 +1064,7 @@
 12260321~yao\ malawi mozambique tanzanie
 12260328~makiritare\indiens
 12260339~yuma\indiens
-12260352~zenetes\
+12260352~zenetes\ berbere
 12260542~builsa\ afrique
 12260614~bwaidoka\ papouasie-nouvelle-guinee
 12260714~chopi\ afrique
@@ -1101,7 +1101,7 @@
 12269876~yerukala\ inde
 12270400~kantu'\ asie sud-est
 12270757~amuesha\indiens
-12271230~seksawa\
+12271230~seksawa\ berbere
 12271234~gnau\ papouasie-nouvelle-guinee
 12271240~maring\ papouasie-nouvelle-guinee
 12271351~kariyarra\ australie
@@ -1139,7 +1139,7 @@
 12301611~sedang\ asie sud-est
 12301888~gurkha\ asie sud
 12301913~coritani
-12301920~beni zeroual\
+12301920~beni zeroual\ berbere
 12301935~narraganset\indiens
 12302029~nyakyusa\ afrique
 12303124~cabiyari\indiens
@@ -1249,7 +1249,7 @@
 12368853~warli\ inde
 12368857~rabha\ inde
 12368861~diegueño\indiens
-12370152~ait atta\
+12370152~ait atta\ berbere
 12370175~alyawarra\ australie
 12370980~sebei\ afrique
 12371205~hidatsa\indiens
@@ -1257,7 +1257,7 @@
 12372093~calusa\indiens
 12372103~seneca\indiens
 12372664~chilula\indiens
-12372688~chleuh\
+12372688~chleuh\ berbere
 12372758~cocopa\indiens
 12373193~philippins
 12373630~gahuku-gama\ papouasie-nouvelle-guinee
@@ -1407,7 +1407,7 @@
 12427137~yeyi\ afrique
 12427180~swazi\ afrique
 12429092~chamorro\ micronesie
-12430388~beni m'tir\
+12430388~beni m'tir\ berbere
 12430751~mordves
 12436096~sisala\ afrique
 12437226~erythreens
@@ -1573,13 +1573,13 @@
 12531436~comoriens
 12531730~daur\ chine
 12533515~peruviens
-12533997~ait hadiddou\
+12533997~ait hadiddou\ berbere
 12534063~amerasiens
 12534104~yuit\inuits
 12535416~yupik\inuits
 12538689~neo-caledoniens
 12540504~guarayu\indiens
-12542949~ait souab\
+12542949~ait souab\ berbere
 12550605~arvernes
 12552442~sabras
 12552710~tangouts
@@ -1589,7 +1589,7 @@
 12562762~acolhuas
 12564003~cak\ bangladesh
 12565039~mukkuvan\caste inde
-12565597~iflissen\
+12565597~iflissen\ berbere
 12565952~mauritaniens
 12569001~shilluk\ afrique
 12570355~kuni\ papouasie-nouvelle-guinee
@@ -1685,11 +1685,11 @@
 13193509~gola\ liberia sierra leone
 13194645~rathawa\ inde
 13194897~miccosukee\indiens
-13195290~rifains\
+13195290~rifains\ berbere
 13196943~namasudra\caste inde
 13318303~basques
 13318318~francais
-13318388~touaregs\
+13318388~touaregs\ berbere
 13318401~alsaciens
 13318404~bourguignons
 13318482~bretons
@@ -1705,7 +1705,7 @@
 13318833~iroquois\indiens
 13318909~corses
 13318968~flamands
-13319012~ioullemmeden\
+13319012~ioullemmeden\ berbere
 13319265~ashluslay\indiens
 13319311~savoyards
 13319350~asiatiques
@@ -1724,7 +1724,7 @@
 13320654~thai yong\ asie sud-est
 13320892~kukatja\ australie
 13320995~bouyei\ chine
-13324824~beni ouriaghel\
+13324824~beni ouriaghel\ berbere
 13325321~uruewawau\indiens
 13325394~bisa\ burkina faso ghana
 13328865~modoc\indiens
@@ -1753,7 +1753,7 @@
 13505289~adnyamathanha\ australie
 13505344~puelche\indiens
 13505395~huwaytat\ arabe
-13505396~ait ouaouzguite\
+13505396~ait ouaouzguite\ berbere
 13505397~khalaj\ turc
 13505399~arusha\ afrique
 13505400~yukuna\indiens
@@ -1762,10 +1762,10 @@
 13505486~pame\indiens
 13505625~lule\indiens
 13505748~pedah\ afrique
-13505751~ait merghad\
+13505751~ait merghad\ berbere
 13505772~jakun\ malaisie
 13505775~orang seletar\ malaisie
-13505992~ghoujdama\
+13505992~ghoujdama\ berbere
 13506009~bezanozano\ madagascar
 13506055~guato\indiens
 13506254~big-nambas\ vanuatu
@@ -1803,15 +1803,15 @@
 13513971~konkomba\ afrique
 13514557~bisa\ zambie
 13514558~gogo\ afrique
-13514682~zemmour\
+13514682~zemmour\ berbere
 13514744~yuko-yukpa\indiens
 13514810~muzo\indiens
 13516300~dinga\ afrique
 13516351~nuba\ afrique
 13516360~rejang\ indonesie
-13516374~kel ajjer\
+13516374~kel ajjer\ berbere
 13516382~mataco\indiens
-13516402~kel denneg\
+13516402~kel denneg\ berbere
 13516480~coorg\ inde
 13516486~soudanaises
 13516502~telougous\ inde
@@ -1861,7 +1861,7 @@
 13544722~nukak\indiens
 13545209~nenets
 13545273~omagua\indiens
-13547074~kel adagh\
+13547074~kel adagh\ berbere
 13547244~kgalagadi\ afrique
 13547433~lu\ asie
 13547460~svanes
@@ -1874,7 +1874,7 @@
 13555549~taita\ afrique
 13555623~marovo\ iles salomon
 13556441~anakalang\ indonesie
-13556831~ouled khawa\
+13556831~ouled khawa\ berbere
 13559794~allemands danube
 13560154~inuits caribou
 13560798~makah\indiens
@@ -1926,7 +1926,7 @@
 13574805~nalik\ papouasie-nouvelle-guinee
 13575814~mekranoti\indiens
 13576571~lactorates
-13577779~beni iznacen\
+13577779~beni iznacen\ berbere
 13577849~nyanga\ afrique
 13591978~moldaves
 13591990~qataris
@@ -1972,7 +1972,7 @@
 13623545~culture cocle
 13623718~musulmans indiens\de inde
 13736788~boulou\ afrique
-13739100~chaouia\
+13739100~chaouia\ berbere
 13740011~hwesa\ afrique
 13740052~zafimaniry\ madagascar
 13744678~amahuaca\indiens
@@ -2010,8 +2010,8 @@
 14409100~baggara\ arabe
 14409203~hamer\ afrique
 14410343~venda\ afrique
-14412128~guedmioua\
-14412136~goundafa\
+14412128~guedmioua\ berbere
+14412136~goundafa\ berbere
 14413243~irula\ inde
 14413297~ougandais
 14413440~piro\indiens perou
@@ -2051,7 +2051,7 @@
 14469136~gejia\ chine
 14469241~thai noirs\ asie sud-est
 14472645~abkhazes
-14477352~ait khebbach\
+14477352~ait khebbach\ berbere
 14477371~kalbelia\ inde
 14478560~sogdiens
 14479527~karakalpak\ turc
@@ -2135,7 +2135,7 @@
 14614115~koma\ nigeria cameroun
 14614366~apa tani\ inde
 14614442~bassa\ liberia sierra leone
-14615047~kroumirs\
+14615047~kroumirs\ berbere
 14615060~ndowe\ afrique
 14616173~inuvialuit\inuits
 14621457~valenciens
@@ -2179,7 +2179,7 @@
 15073688~txicao\indiens
 15074675~juifs argentins
 15077950~mahorais
-15079770~ait ouassif\
+15079770~ait ouassif\ berbere
 15079976~birom\ afrique
 15082195~megleno-roumains
 15083878~han\ chine
@@ -2213,13 +2213,13 @@
 15530053~mandailing\ indonesie
 15530272~culture sican
 15531402~istro-roumains
-15537204~beni abbes\
+15537204~beni abbes\ berbere
 15537485~mamvu\ afrique
 15538349~tchadiens
 15540851~teda\ afrique
 15543625~puruha\indiens
 15544068~balante\ afrique
-15545873~kel kummer\
+15545873~kel kummer\ berbere
 15546918~libyens antiques
 15548411~hilaliens
 15549018~zimbabweens
@@ -2265,7 +2265,7 @@
 15783996~nigeriens
 15800639~mandari\ afrique
 15802963~indo-parthes
-15818010~chaamba\
+15818010~chaamba\ berbere
 15829955~ahom\ inde
 15831195~ruanruan
 15879559~negidal\ siberie
@@ -2297,7 +2297,7 @@
 16080200~gabonais
 16080682~kenyans
 16081825~liberiens
-16093712~ait ayad\
+16093712~ait ayad\ berbere
 16103246~tembe\indiens
 16108854~canela\indiens
 16136324~vestins
@@ -2352,7 +2352,7 @@
 16273180~singapouriens
 16273287~matengo\ afrique
 16274020~sotiates
-16277022~ait ba'amran\
+16277022~ait ba'amran\ berbere
 16277787~abrincates
 16500971~hert\ arabe
 16502751~minahasa\ indonesie
@@ -2461,7 +2461,7 @@
 16927598~gascons
 16932387~waura\indiens
 16932580~kaba\ afrique
-16932698~dawsahak\
+16932698~dawsahak\ berbere
 16934663~juifs latino-americains
 16934866~juifs sud-africains
 16937942~hungana\ afrique
@@ -2510,4 +2510,4 @@
 17051694~mensa\ afrique
 17052113~boiken\ papouasie-nouvelle-guinee
 17052415~kayan\ papouasie-nouvelle-guinee
-17052443~jbala\
+17052443~jbala\ berbere
