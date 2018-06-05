@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 from __future__ import division
-
+from nltk import stem
+from nltk.stem import RegexpStemmer
 import re, sys, os, math
 
 
@@ -16,11 +17,17 @@ sans_accent = ['e', 'e', 'e', 'e', 'a','a','E', 'u', 'u', 'u','u', 'c', 'c','o',
 
 #liste stop words 
 stopwords = open('french', 'r').read().split()
-stopWordFr=re.compile('d\'|l\'|democratique|republique|peuples|peuple|\\ berberes|\\ berbere|!|origine|civilisation|\(|\)|_|,') 
+stopWordFr=re.compile('d\'|l\'|democratique|republique|peuples|peuple|!|origine|civilisation|\(|\)|_|,') 
 
 
 #http://digitalhistoryhacks.blogspot.fr/2006/08/easy-pieces-in-python-removing-stop.html
 #https://seahorse.deepsense.ai/operations/tokenize.html
+
+
+
+
+
+
 
 #//////////////// on parcour le fichier BNF , on récupère dans toutes les lignes que la partie après le dernier $ 
 #/////////////// on écrit ces lignes là dans le nouveau fichier > BNF
@@ -57,7 +64,7 @@ if res1b:
 
 		#Supprimer les stop-words manuellement et sans appel à ntlk
 		sentence=re.sub(stopWordFr,'',sentence)
-		
+	
 		#Ecriture du nouveau fichier à alligner RAMEAU
 		nFichierBNF.write(sentence+'\n')
 		#print(sentence+'\n')
@@ -92,6 +99,7 @@ if res1:
 
 		#Supprimer les stop-words manuellement et sans appel à ntlk
 		sentence=re.sub(stopWordFr,'',sentence)
+		
 		
 		#Ecriture du nouveau fichier à alligner RAMEAU
 		nFichierBNF.write(sentence+'\n')
@@ -136,6 +144,8 @@ if res2:
 		
 		#Supprimer les stop-words spécifiques 
 		sentence=re.sub(stopWordFr,'',sentence)
+
+		
 		#Ecriture du nouveau fichier à alligner RAMEAU
 		nFichierRM.write(sentence+'\n')
 		#print(sentence)
@@ -143,8 +153,7 @@ if res2:
 
 file1.close()
 file2.close()
-"""
+
 nFichierBNF.close()
 nFichierRM.close()
-"""
 
