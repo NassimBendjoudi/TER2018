@@ -118,89 +118,60 @@
 38433024	$aTraditions$eFlamenco$lEspagne
 40230721	$aTraditions$emusulmans
 41347680	$aTraditions$eMusulmans
-38427666	$aTraditions$mAmérique du Nord$eBrésil
 43760455	$aTraditions$mAsie$mChine$mSichuan$eNuosu (Yi)
-43795806	$aTraditions$mAsie$mChine$mSichuan$eQiang
-42695285	$aTraditions$mAfrique$mAfrique du Sud$eZoulous
 39003197	$aTraditions$mAfrique$mOuganda$eBaganda
 38418469	$aTraditions$mAfrique$mCentrafrique$ePygmées Aka
 40032801	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
 42746546	$aTraditions$mAsie$mJapon$eRyukyuan
 43800579	$aTraditions$mAfrique$mTanzanie$eBushmen$iHadzas
 43800586	$aTraditions$mAfrique$mTanzanie$eBushmen$iHadzas
-41073209	$aTraditions$mAfrique$mTanzanie$eGogo
 39077400	$aTraditions$mAsie$eInde
 42664693	$aTraditions$mEurope$mEspagne$eGitans
-39132000	$aTraditions$mAmérique latine$mBolivie$eQuechua
 38625368	$aTraditions$mAmérique du Sud$mBrésil$eBahia
 38479646	$aTraditions$mEurope$mPortugal$eMinho
 38511511	$aTraditions$mAfrique$mBurkina Faso$mDédougou$eBwaba
-42429299	$aTraditions$mAmérique$mBolivie$eAymara
 43838434	$aTraditions$mAsie$eSufi
 42630994	$aTraditions$mAfrique$mCameroun$eKirdi
 42698159	$aTraditions$mAsie$mInde du Nord$eDhrupad
 42616984	$aTraditions$mAfrique$mKenya$eSwahilie
 42429266	$aTraditions$mAfrique$mSénégal$eGriots
-41335636	$aTraditions$mAsie$eBouriates
+40134861	$aTraditions$mAsie$mRussie$eSartes
 38526633	$aTraditions$mAfrique du Nord$mÉgypte$eSufi
 42592194	$aTraditions$mAsie$eSoufis
-41073220	$aTraditions$mAfrique$mNiger$eTouaregs
-39065763	$aTraditions$mAmérique centrale$mCaraïbes$mTrinité-et-Tobago$eIndiens
-43799542	$aTraditions$mAsie$mCambodge$eJarai
-40097933	$aTraditions$mAfrique$mGhana$eLobi
 40097927	$aTraditions$mAmérique du Nord$eIndiens Lummi
 43760440	$aTraditions$mAsie$mChine$mSichuan$eMosuo
-43793537	$aTraditions$mAmérique du Nord$eIndiens
 43560413	$aTraditions$mAfrique$mZanzibar$eSwahilie
 39221358	$aTraditions$mAsie$eInde
 41059634	$aTraditions$mAsie$mInde du Nord$eBauls
 43801458	$aTraditions$mAsie$mChine$eYunnan
 43799754	$aTraditions$mAsie$mLaos$eTa Oi
-41150610	$aTraditions$mAfrique$mGuinée$ePeuls
-43799742	$aTraditions$mAsie$mLaos$eAkha
 41285929	$aTraditions$mAsie$mTurquie$eSyriaques
 43762282	$aTraditions$mAsie$mChine$mXinjiang$eOuïghours
 38432240	$aTraditions$mEurope$mEspagne$eGitans
-40944318	$aTraditions$mAfrique du Nord$eTouaregs
-43629724	$aTraditions$mOcéanie$mNouvelle-Guinée$mPapouasie$eDani
 38451724	$aTraditions$mAsie$mLiban$eMaronites
 38522084	$aTraditions$mAsie$mBengale$eBauls
-38379026	$aTraditions$mAfrique du Nord$eTouaregs
 39277478	$aTraditions$mAfrique$mMali$eBonso
 43800591	$aTraditions$mAfrique$mTanzanie$eBushmen$iHadzas
 43799583	$aTraditions$mAsie$mCambodge$eTampoon
 38516889	$aTraditions$mAsie$mTaiwan$eTsou
 41072896	$aTraditions$mAsie$mViet Nam$eJoraï
-43800432	$aTraditions$mAsie$mVietnam$eHmong
 39976956	$aTraditions$mAsie$eAfghanistan
 39003209	$aTraditions$mAsie$mTurquie$eNomades
-38964935	$aTraditions$mAmérique du Nord$eHopis
 43802219	$aTraditions$mAsie$mCambodge$eBrao$iKrung
 42763114	$aTraditions$mAsie$mIran$eZagros
 39237855	$aTraditions$mAfrique$mGabon$eAtege
 38483919	$aTraditions$mOcéanie$mÎles Trobriand$eKiriwina
-38456842	$aTraditions$mAmérique du Nord$mÉtats-Unis$eNavajo
 41124971	$aTraditions$mAsie$mXinjiang$eUyghurs
 38483925	$aTraditions$mAfrique$mSénégal$eMalinké
 43795756	$aTraditions$mAsie$mChine$mYunan$eDai Lue
-43795742	$aTraditions$mAsie$mChine$mYunan$eLisu
 41013850	$aTraditions$mOcéanie$mAustralie$eAborigènes
-43762321	$aTraditions$mAsie$mChine$mXinjiang$eKirghizes
 42587982	$aTraditions$mEurope$eJuifs Hassidiques
 39041577	$aTraditions$mEurope$eRussie
-42427710	$aTraditions$mAsie$mChine$eOuïgour
 42638059	$aTraditions$mAmérique du Sud$mGuyane$eNoirs marrons
-41386992	$aTraditions$mAsie$mOuzbékistan$eKarakalpaks
-41072840	$aTraditions$mAfrique$mMali$mBaninko$eBambara
 42633468	$aTraditions$mEurope$mEspagne$mAndalousie$eGitans
-38445778	$aTraditions$mAmérique Centrale$mCuba$eYoruba
 38939010	$aTraditions$mFrance$mRhône-Alpes$egitans
-43795637	$aTraditions$mAsie$mChine$mGuizhou$eDong
 38432241	$aTraditions$mEurope$mEspagne$eGitans
 40033923	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
-42567718	$aTraditions$mAfrique$mZimbabwe$eNdebélé
-43801463	$aTraditions$mAsie$mCambodge$eBrao
-39175985	$aTraditions$mAsie$mCambodge$eKhmers
 38562102	$aTraditions$mAfrique$mGuinée$eMalinké
 38373532	$aTraditions$mAsie$mPakistan$eSoufis
 39077374	$aTraditions$mAsie$eInde
@@ -209,68 +180,40 @@
 38559619	$aTraditions$mEurope$mEspagne$eJuifs sépharades
 39074127	$aTraditions$mAmérique Centrale$mCaraïbes$eSaint-Christophe-et-Nevis
 38440348	$aTraditions$mEspagne$eFlamenco
-40941926	$aTraditions$mAsie centrale$mRussie$eadjikes
-41378282	$aTraditions$mAfrique$mCôte d'Ivoire$eBaoulé
 42685696	$aTraditions$mAfrique$mMaroc$eGnawa
+40134867	$aTraditions$mAsie$mRussie$eSartes
 40030383	$aTraditions$mAfrique$mTogo$eKabiyé
 43551555	$aTraditions$mAsie$mInde$eHindustan
-38530731	$aTraditions$mAmérique du sud$mAndes$eQueschuwa
 38440349	$aTraditions$mEspagne$eFlamenco
 38560099	$aTraditions$mEurope$mEurope centrale$eJuifs Ashkénazes
 38596069	$aTraditions$mAsie$mChine$mTibet$eBouddhistes
-38574985	$aTraditions$mAfrique$mNigeria$eYoruba
 43795815	$aTraditions$mAsie$mChine$mSichuan$eYi$iNuosu
 39183974	$aTraditions$mAsie$mIran$eKurdes yarsan
 41198913	$aTraditions$mAfrique du Nord$mMaroc$eGnawa
 43760446	$aTraditions$mAsie$mChine$mYunan$eMosuo
-38475872	$aTraditions$mAmérique du Nord$eIndiens
 43799746	$aTraditions$mAsie$mLaos$eBit
-38396965	$aTraditions$mAmérique du Nord$eIndiens
-43799778	$aTraditions$mAsie$mLaos$eLao
-39010844	$aTraditions$mAsie$eCambodge
-38374921	$aTraditions$mAfrique$mMali$eBambara
+42155228	$aTraditions$mAsie$mIsraël$esépharades
 38508657	$aTraditions$mAfrique$mNiger$ePeuls Wodaabe
-38578159	$aTraditions$mAfrique$mBurkina Faso$eMossi
 42696212	$aTraditions$mAsie$mTurquie$eSoufis
-42727181	$aTraditions$mAsie$mJapon$eAïnous
-43760685	$aTraditions$mAsie$mChine$mYunan$eYao
 38522280	$aTraditions$mEurope$mBalkans$eMusulmans
-40224953	$aTraditions$mAfrique$mAfrique du Sud$eNguni
 39102139	$aTraditions$mAfrique$mNamibie$eJu'hoansi
-43800420	$aTraditions$mAsie$mVietnam$eHmong
-38479496	$aTraditions$mAfrique$mZaïre$mHaut-Uele$eMangbetu
 42666042	$aTraditions$mAsie$mIran$eChiites
 43795750	$aTraditions$mAsie$mChine$mYunan$eDai Lue
 38563627	$aTraditions$mAmérique$mAmérique du Sud$mÉquateur$eShuars
-40169237	$aTraditions$mAfrique$mGuinée$ePeuls
 38464809	$aTraditions$mAmérique centrale$mTrinité$eTrini-Indiens
 38508736	$aTraditions$mAsie$mBangladesh$eMurung
-38558883	$aTraditions$mAfrique$mGuinée$mBagataï$eBagas
 42641173	$aTraditions$mAsie$mCorée$eChamans
 43534133	$aTraditions$mEurope$mEspagne$eGitans
-41060852	$aTraditions$mAsie$mJapon$eAïnous
-43800435	$aTraditions$mAsie$mVietnam$eYao
-42543284	$aTraditions$mAfrique$mMali$eTouaregs
-38432657	$aTraditions$mAmérique du Nord$eIndiens
+40134858	$aTraditions$mAsie$mRussie$eSartes
 38382522	$aTraditions$mAsie$mChine$mTien Tsin$eBouddistes
 43800596	$aTraditions$mAfrique$mTanzanie$eBushmen$iHadzas
 41073231	$aTraditions$mAmérique centrale$mMexique$eLa Huasteca
-41072885	$aTraditions$mAfrique$mBurkina Faso$mKénédougou$mOuolonkoto$eSénoufo
-43799547	$aTraditions$mAsie$mCambodge$eKhmer
 43800541	$aTraditions$mAsie$mVietnam$eDao Chang
-41333646	$aTraditions$mAmérique$mBolivie$eQuechua
 38405825	$aTraditions$mOcéanie$mPolynésie$eMaohi
-40121460	$aTraditions$mAmérique du Nord$eNavajos
-43760492	$aTraditions$mAsie$mChine$mGuizhou$eShui
-42696039	$aTraditions$mAfrique du Nord$mAlgérie$eKabyles
 40245837	$aTraditions$mAfrique$mÉthiopie$eMaale
-40217870	$aTraditions$mAfrique$mZaïre$mHaut-Uele$eMangbetu
-39284792	$aTraditions$mAsie$ePakistan
 40004888	$aTraditions$mAmérique du Sud$mBrésil$mAmazonie$eTuyuka
 40245887	$aTraditions$mAsie$mChine$mXinjiang$eDolan
-43800526	$aTraditions$mAsie$mVietnam$eThai
 39958567	$aTraditions$mAmérique du Nord$mÉtats-Unis$eAfro-américains
-42695999	$aTraditions$mAmérique du Nord$eHopis
 43543900	$aTraditions$mAfrique$mMaroc$eGnawa
 42638038	$aTraditions$mAmérique du Sud$mGuyane$eCréoles
 38436456	$aTraditions$mAfrique$mGuinée$eMalinké
@@ -278,73 +221,45 @@
 42354513	$aTraditions$mAsie$mChine$mTibet$eBouddhistes
 43762396	$aTraditions$mAsie$mChine$mYunan$eNisu
 43762382	$aTraditions$mAsie$mChine$mSichuan$eNuosu
-38564890	$aTraditions$mAfrique$mGuinée$eSoussous
 43795722	$aTraditions$mAsie$mChine$mGuizhou$eMiao
-43762355	$aTraditions$mAsie$mChine$mYunan$eWa
-43760556	$aTraditions$mAsie$mChine$mGuizhou$eShui
 43795911	$aTraditions$mAsie$mCambodge$ePhnong
-38559522	$aTraditions$mAmérique du Nord$eCheyennes
 38559523	$aTraditions$mAmérique du Nord$eLakota
 39947042	$aTraditions$mAmérique du Nord$mÉtats-Unis$eAfro-américains
 41016020	$aTraditions$mAsie$eIndonésie$mJava$mSurakarta
 38547523	$aTraditions$mFrance$eGascogne
 41219195	$aTraditions$mAfrique du Nord$mMaroc$eAïssaoua
-42429007	$aTraditions$mAsie$mJapon$eAïnous
 42236368	$aTraditions$mEurope$mEspagne$eJuifs sépharades
-38617409	$aTraditions$mAfrique$mOuganda$eGanda
 38530768	$aTraditions$mAsie$mSakha, république de$eIakoutes
 38931174	$aTraditions$mFrance$eBretagne
-38438297	$aTraditions$mAfrique$mSoudan$eIngenassa$eBerta
 42196012	$aTraditions$mEurope$eMacédoine
 38518379	$aTraditions$mFrance$eNormandie$j1946
-40217859	$aTraditions$mAfrique$mZaïre$eTshokwe
 41481949	$aTraditions$mAfrique du Nord$mAlgérie$earabo-andalous
 39088111	$aTraditions$mEurope$mEspagne$eArabo-Andalou
 40097777	$aTraditions$mAsie$mTurquie$mAnatolie$eSoufis
-41059643	$aTraditions$mAfrique$mCongo$eShi
-43799737	$aTraditions$mAsie$mLaos$eAkha
-41488945	$aTraditions$mAfrique$mMali$eTouareg
 38536079	$aTraditions$mFrance$mSaintes Maries de la mer$eGitans
 43795899	$aTraditions$mAsie$mCambodge$ePhnong
 40245890	$aTraditions$mIndonésie$mJava$eSolo
 38389605	$aTraditions$mAfrique$mMali$eKhassonkés
 40033996	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
-43800531	$aTraditions$mAsie$mVietnam$eHmong
-39004471	$aTraditions$mAfrique$mTanzanie$eHadzas
-43799537	$aTraditions$mAsie$mCambodge$eJarai
-42666184	$aTraditions$mAsie$mIran$eOuïgours
-43800519	$aTraditions$mAsie$mVietnam$eLu
 42464059	$aTraditions$mAsie$mIrak$eSoufis
-41073282	$aTraditions$mAfrique$mSénégal$ePeuls
+40065050	$aTraditions$mAsie$mRussie$mCaucase$eTcherkesses
 38931162	$aTraditions$mFrance$eBretagne
 43748187	$aTraditions$mAsie$mTurquie$eSoufi
 39074974	$aTraditions$mEurope$eGrande-Bretagne
 38559092	$aTraditions$mAsie$mViêtnam$eMinorités du Nord
 38530781	$aTraditions$mAsie$mNépal$eGaïnés
-41272508	$aTraditions$mEurope$eCroatie
-38386495-002	$aTraditions$mAsie$eBengali
 40945663	$aTraditions$mAsie$mInde$eBenares
 40033821	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
 43799696	$aTraditions$mAsie$mLaos$eNyaheun
 38389017-002	$aTraditions$mAfrique$mRépublique centrafricaine$ePygmées Aka
-38389017-003	$aTraditions$mAfrique$mRépublique centrafricaine$eNgbaka
-38389017-004	$aTraditions$mAfrique$mRépublique centrafricaine$eBanda
-38389017-006	$aTraditions$mAfrique$mCôte d'Ivoire$eBaoulé
 38389017-007	$aTraditions$mAfrique$mCôte d'Ivoire$eFodonon
 38389017-008	$aTraditions$mAfrique$mCameroun$ePygmées Baka
-38389017-012	$aTraditions$mAmérique du sud$mBrésil$eBororo
 38389017-014	$aTraditions$mAmérique du nord$mÉtats-Unis$eChippewa
 38389017-019	$aTraditions$mOcéanie$mAustralie$eClan de Caledon Bay
 43799682	$aTraditions$mAsie$mLaos$mXekong$eArak
 38382142	$aTraditions$mAfrique$mNamibie$eJu'hoansi
-39038773	$aTraditions$mAfrique$mÉthiopie$eKonso
-38559521	$aTraditions$mAmérique du Nord$eSioux
-38401986-001	$aTraditions$mAsie centrale$mTurkestan$eKirghizes
-38401986-002	$aTraditions$mAsie centrale$mTurkestan$eKirghizes
 39065461	$aTraditions$mAmérique Centrale$mCaraïbes$eCréoles
 43795907	$aTraditions$mAsie$mCambodge$ePhnong
-43762343	$aTraditions$mAsie$mChine$mYunan$eAkha
-38563680	$aTraditions$mAsie$mSibérie$mKamtchatka$eKoriaks
 43799668	$aTraditions$mAsie$mLaos$eNyaheun
 38610601	$aTraditions$mAsie$mPakistan$eQawal
 42462005	$aTraditions$mAsie$mChine$mTibet$eBouddhistes
@@ -352,119 +267,70 @@
 38553958	$aTraditions$mAfrique$mCameroun$eMbum
 43762380	$aTraditions$mAsie$mChine$mYunan$eBouddhistes
 40033439	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
-38448607-001	$aTraditions$mAmérique$mCanada$eQuébec
-38448607-002	$aTraditions$mAmérique$mCanada$eQuébec
 43799481	$aTraditions$mAsie$mCambodge$eBrao$iKrung
-40224880	$aTraditions$mAfrique$mCongo$eKanyok
 38559911	$aTraditions$mAfrique du Nord$mMaroc$eImazighn
-43578176	$aTraditions$mAfrique$mZambie$eTonga
 42420020	$aTraditions$mAsie$mTurquie$eSoufis
-42222281	$aTraditions$mAfrique$mNiger$ePeuls
 39993827	$aTraditions$mAsie$mInde du Nord$eBaûls
-42317574	$aTraditions$mAfrique du Nord$mAlgérie$eTouaregs
-41072823	$aTraditions$mAsie$mViêt Nam$eHmong
 38560014	$aTraditions$mAmérique du Sud$mGuyane$eKalina
 42334839	$aTraditions$mAsie$mChine$mTibet$eBouddhistes
 38558945	$aTraditions$mAmérique du Sud$mGuyane$eKalina
-40217872	$aTraditions$mAfrique$mRwanda$eTwa
-41059640	$aTraditions$mAfrique$mGhana$eLobi
 38529612	$aTraditions$mAsie$mThaïlande$eBoudhistes
-38483823	$aTraditions$mAfrique$mMali$eTouaregs
 43799724	$aTraditions$mAsie$mLaos$eYao$iLantene
-43795687	$aTraditions$mAsie$mChine$mGuizhou$eDong
 39010830	$aTraditions$mAsie$mIran$eKurdes yarsan
 39010824	$aTraditions$mAsie$mSyrie$eSoufi
-38558996	$aTraditions$mAfrique$mMali$eBambara
-39053504	$aTraditions$mAmérique du Nord$mÉtats-Unis$eNavajo
 43799526	$aTraditions$mAsie$mCambodge$eBrao$iKavet
-41128240	$aTraditions$mAsie$mTaïwan$eHakka
-38972704	$aTraditions$mAfrique$mBurkina Faso$eBissa
-41073278	$aTraditions$mAsie$mInde du Sud$mKerala$ePulluvan
-43800440	$aTraditions$mAsie$mVietnam$eYao
-40224853	$aTraditions$mAfrique$mZambie$eTonga
+40065733	$aTraditions$mAsie$mRussie$mCaucase$eTcherkesses
 41072748	$aTraditions$mAsie$mIran$mAzerbaïdjan$eAshiq
 43760593	$aTraditions$mAsie$mChine$eBouddhistes
-43762390	$aTraditions$mAsie$mChine$mYunan$eHani
+40064015	$aTraditions$mAsie$mRussie$mCaucase$eTcherkesses
 43762409	$aTraditions$mAsie$mChine$mYunan$eJingpaw
-38559518	$aTraditions$mAmérique du Nord$mEtats-Unis$eIndiens
 38563690	$aTraditions$mAsie$mSibérie$mSakhaline$eNivkh
-38553753	$aTraditions$mAfrique$mCentrafrique$eBanda
 43760544	$aTraditions$mAsie$mChine$mGuizhou$eMiao
 38536860	$aTraditions$mAsie$mSibérie$mSakhaline$eNivkh
 43760551	$aTraditions$mAsie$mChine$mYunan$eYi Laluo
 38398136-001	$aTraditions$mAfrique$mBurkina Faso$eSiamou
-38398136-002	$aTraditions$mAfrique$mBurkina Faso$eBirifor
 38398136-004	$aTraditions$mAfrique$mBurkina Faso$eDagara
-38398136-005	$aTraditions$mAfrique$mBurkina Faso$eDian
 38398136-006	$aTraditions$mAfrique$mBurkina Faso$eSiamou
-38398136-007	$aTraditions$mAfrique$mBurkina Faso$eLobi
-43762391	$aTraditions$mAsie$mChine$mYunan$eHani
 43762385	$aTraditions$mAsie$mChine$mYunan$eNisu
-41072749	$aTraditions$mAsie$mInde$mBastar$eGond
+40134838	$aTraditions$mAsie$mRussie$eSartes
 38389239	$aTraditions$mEurope$mRussie$eOrthodoxes
 42420031	$aTraditions$mAsie$mPakistan$eSoufis
 39958400	$aTraditions$mAmérique du Nord$mÉtats-Unis$eAfro-américains
-39074964	$aTraditions$mAmérique Centrale$mCaraïbes$mGrenade$eYorubas
 38972711	$aTraditions$mAfrique$mAlgérie$eSoufis
 38478879	$aTraditions$mEurope$mEspagne$mAndalousie$eSoufis
 38478851	$aTraditions$mAfrique$mZaïre$eBoyela
-42196014	$aTraditions$mEurope$eCroatie
 43795876	$aTraditions$mAsie$mCambodge$ePhnong
-41439391	$aTraditions$mAsie$mOuzbékistan$eKarakalpaks
 43795692	$aTraditions$mAsie$mChine$mGuizhou$eMiao
-40217863	$aTraditions$mAfrique$mZaïre$eTshokwe
 40217849	$aTraditions$mAfrique$mOuganda$mAnkole$eIru
 38608897	$aTraditions$mOcéanie$mÎles Salomon$mÎle Malaita$eFataleka
 40064604	$aTraditions$mAfrique$mÉthiopie$eMaale
-38378836	$aTraditions$mAsie$mChine$mGuangdong$eHakkas
-38563526	$aTraditions$mAfrique$mCameroun$ePeuls
-39004488	$aTraditions$mAsie$eOuïgours
 40224887	$aTraditions$mAfrique$mMalawi$eMang'anja
 38559094	$aTraditions$mAsie$mViêtnam$eÊdê
-43578165	$aTraditions$mAfrique$mZambie$eTonga
 38617419	$aTraditions$mAfrique$mAngola$eBena Luluwa
 42420027	$aTraditions$mAsie$mIran$eSoufis
 38395612	$aTraditions$mAsie$mChine$mTibet$eBouddhistes
-38483940	$aTraditions$mAfrique$mCôte d'Ivoire$eBaoulé
-43760584	$aTraditions$mAsie$mChine$mYunan$eBai
 43762393	$aTraditions$mAsie$mChine$mYunan$eNisu
-38456827	$aTraditions$mAmérique du Nord$mÉtats-Unis$eIndiens
 43799653	$aTraditions$mAsie$mLaos$eBrao$iKanying
 39191281	$aTraditions$mAfrique$mCôte d'Ivoire$eAgni n'denean
-43762378	$aTraditions$mAsie$mChine$mYunan$eWa
 42284079	$aTraditions$mEurope$eTzigane
 38519895	$aTraditions$mAsie$mTurquie$mKomya$eDerviches tourneurs
 39930542	$aTraditions$mEurope$mRoyaume-Uni$eGrande-Bretagne
-38509477	$aTraditions$mAfrique du Nord$eTouaregs
-39168194	$aTraditions$mAfrique$eTouareg
 43795726	$aTraditions$mAsie$mChine$mGuizhou$eMiao
 39021999	$aTraditions$mAfrique$mCongo$ePygmées Ituri
-38617418	$aTraditions$mAfrique$mShaba$eTshokwe
 43535064	$aTraditions$mAsie$mJapon$eBiwa
-38972699	$aTraditions$mAfrique$mDahomey$eFon
 41059493	$aTraditions$mAsie$mInde$mBengale$eBauls
 40925219	$aTraditions$mAsie$mInde du Nord$eSufi
 43799530	$aTraditions$mAsie$mCambodge$eBrao$iKrung
 41219782	$aTraditions$mFrance$mÎle de la Réunion$eMaloyas
-41059478	$aTraditions$mAsie$mIndonésie$mSumatra$eBatak
 41072825	$aTraditions$mAfrique$mBurkina Faso$eSiamou
 42427615	$aTraditions$mAsie$mSibérie$eTouvains
 38608896	$aTraditions$mAfrique$mRépublique Centrafricaine$ePygmées Aka
 40245868	$aTraditions$mMoyen Orient$eAbbassides
-38476466	$aTraditions$mAfrique$mCentrafrique$eBanda
-44241138	$aTraditions$mAfrique$mCentrafrique$eBantu
-43799717	$aTraditions$mAsie$mLaos$eKhmu
+42155262	$aTraditions$mAsie$mIsraël$esépharades
 38479770	$aTraditions$mAfrique$mZaire$eLuba-Shankadi
 43795850	$aTraditions$mAsie$mCambodge$eTampoon
 39004453	$aTraditions$mAfrique$mGuinée$eMalinké
-40148679	$aTraditions$mEurope$eNorvège
-40021156	$aTraditions$mAmérique du Nord$eIndiens
-39103499	$aTraditions$mAfrique du Nord$mAlgérie$eKabyles
-38562813	$aTraditions$mAfrique$mAfrique centrale$eKongo
-38562813-001	$aTraditions$mAfrique$mAfrique centrale$eYombe
-38562813-002	$aTraditions$mAfrique$mAfrique centrale$eYombe
-38562813-003	$aTraditions$mAfrique$mAfrique centrale$eYombe
-38562813-004	$aTraditions$mAfrique$mAfrique centrale$eYombe
+40065714	$aTraditions$mAsie$mRussie$mCaucase$eTcherkesses
 38562813-005	$aTraditions$mAfrique$mAfrique centrale$eYombe-Sundi
 38562813-006	$aTraditions$mAfrique$mAfrique centrale$eBamboma
 38562813-007	$aTraditions$mAfrique$mAfrique centrale$eBamboma
@@ -472,82 +338,43 @@
 38562813-009	$aTraditions$mAfrique$mAfrique centrale$eNdibu za Tadi
 38562813-010	$aTraditions$mAfrique$mAfrique centrale$eBamboma
 38562813-011	$aTraditions$mAfrique$mAfrique centrale$eAsolongo
-38562813-012	$aTraditions$mAfrique$mAfrique centrale$eYombe
-38562813-013	$aTraditions$mAfrique$mAfrique centrale$eYombe
-38562813-014	$aTraditions$mAfrique$mAfrique centrale$eYombe
 38562813-015	$aTraditions$mAfrique$mAfrique centrale$eBamboma
 38562813-016	$aTraditions$mAfrique$mAfrique centrale$eBamboma
 38562813-017	$aTraditions$mAfrique$mAfrique centrale$eBesi-Ngombe
-38562813-018	$aTraditions$mAfrique$mAfrique centrale$eYombe
 38562813-019	$aTraditions$mAfrique$mAfrique centrale$eManianga
 38562813-020	$aTraditions$mAfrique$mAfrique centrale$eNtandu
 38562813-021	$aTraditions$mAfrique$mAfrique centrale$eNtandu
 38562813-022	$aTraditions$mAfrique$mAfrique centrale$eWoyo
 38562813-023	$aTraditions$mAfrique$mAfrique centrale$eWoyo
-38562813-024	$aTraditions$mAfrique$mAfrique centrale$eYombe
-38562813-025	$aTraditions$mAfrique$mAfrique centrale$eYombe
 38562813-026	$aTraditions$mAfrique$mAfrique centrale$eNdibu
 38562813-027	$aTraditions$mAfrique$mAfrique centrale$eNdibu za Tadi
-38562185	$aTraditions$mAfrique$mGuinée$eSoussous
-43800473	$aTraditions$mAsie$mVietnam$eGiay
-38559098	$aTraditions$mOcéanie$mNouvelle-Guinée$eKanak
 40033426	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
 41072753	$aTraditions$mAfrique$mCentrafrique$ePygmées Aka
-43795703	$aTraditions$mAsie$mChine$mGuizhou$eDong
 40033142	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
-38559516	$aTraditions$mAmérique du Nord$mÉtats-Unis$eindiens
-42454218	$aTraditions$mAmérique du Sud$mBrésil$mAmazonie$eIndiens
 43762349	$aTraditions$mAsie$mChine$mYunan$eYi$iLaluo
-43760562	$aTraditions$mAsie$mChine$mYunan$eBai
 38559072	$aTraditions$mAsie$mThaïlande$ePeuples d'origine chinoise
 41072746	$aTraditions$mAmérique du Sud$mBrésil$eIndiens Kaiapó 
 42640941	$aTraditions$mAsie$mViet-Nam$eBana
 39958396	$aTraditions$mAmérique du Nord$mÉtats-Unis$eAfro-américains
-41303846	$aTraditions$mAsie$mNord-Vietnam$eHmong
-38429224-001	$aTraditions$mAmérique du Sud$mBolivie$eQuechuas
-38429224-002	$aTraditions$mAmérique du Sud$mBolivie$eAymaras
-42174698	$aTraditions$mAsie$eJapon
-39007013	$aTraditions$mAmérique centrale$mCuba$eYoruba
 39019205	$aTraditions$mAfrique$mÉthiopie$eAri
 42199260	$aTraditions$mEurope$mRussie$eOrthodoxes
-38562812	$aTraditions$mAfrique$mAfrique du Sud$eZoulous
 39029265	$aTraditions$mAsie$mInde$mBengale$eBâuls
 38589441	$aTraditions$mEurope$mEurope centrale$eJuifs ashkénazes
 38433863	$aTraditions$mEurope$eTzigane
-38539382	$aTraditions$mAfrique$mGuinée$eBagas
 43795845	$aTraditions$mAsie$mCambodge$eTampoon
 38529620	$aTraditions$mAsie$mNépal$eBoudhistes
-43638696	$aTraditions$mAfrique$mBurkina Faso$eGouin
 40117624	$aTraditions$mAsie$mTurquie$eJuifs séfarades
-41439361	$aTraditions$mAsie$mSibérie$eAltaïens
 40217850	$aTraditions$mAfrique$mCameroun$eBafa
-40217852	$aTraditions$mAfrique$mZaïre$eYaka
 40217885	$aTraditions$mAfrique$eZaïre
 38509519	$aTraditions$mAsie$mArabie Saoudite$eQasim
 43800504	$aTraditions$mAsie$mVietnam$eHani$iHani Hmong
-38562145	$aTraditions$mAfrique$mAfrique du Sud$mTransvaal$mKwaNdébélé$eNdébélé
-38560034	$aTraditions$mAsie$mIndonésie$mBornéo$eDayaks
 38465762	$aTraditions$mAsie$mInde$mBengale$eBauls
 38464332	$aTraditions$mAsie$mSyrie$mDamas$eSoufis
-38373398-001	$aTraditions$mAfrique$mCameroun$mMonts Mandara$mDibon$eOuldémé
 38373398-002	$aTraditions$mAfrique$mCameroun$mMonts Mandara$mZob$eMofou
 38373398-003	$aTraditions$mAfrique$mCameroun$mMonts Mandara$mZob$eMofou
-38373398-004	$aTraditions$mAfrique$mCameroun$mMonts Mandara$mDibon$eOuldémé
-38373398-005	$aTraditions$mAfrique$mCameroun$mMonts Mandara$mDibon$eOuldémé
-38373398-006	$aTraditions$mAfrique$mCameroun$mMonts Mandara$mDibon$eOuldémé
 38373398-007	$aTraditions$mAfrique$mCameroun$mMonts Mandara$mMouyengué$eMouyang
-38373398-008	$aTraditions$mAfrique$mCameroun$mGambour$eMoundang
-38373398-009	$aTraditions$mAfrique$mCameroun$mSaouringwa$eToupouri
-38373398-010	$aTraditions$mAfrique$mCameroun$mBololo Midjivin$eGuiziga
-38373398-011	$aTraditions$mAfrique$mCameroun$mBololo Midjivin$eGuiziga
-38373398-012	$aTraditions$mAfrique$mCameroun$mBololo Midjivin$eGuiziga
-38373398-013	$aTraditions$mAfrique$mCameroun$mGolompoui$eToupouri
 38373398-014	$aTraditions$mAfrique$mCameroun$mMonts Mandara$mNgwadama$eMofou-Goudour
 38373398-015	$aTraditions$mAfrique$mCameroun$mMonts Mandara$mTokombéré$eMouyang
-38373398-016	$aTraditions$mAfrique$mCameroun$mMonts Mandara$mDibon$eOuldémé
-38373398-017	$aTraditions$mAfrique$mCameroun$mMonts Mandara$mVendelar$eOuldémé
-38373398-018	$aTraditions$mAfrique$mCameroun$mMonts Mandara$mVendelar$eOuldémé
-38373398-019	$aTraditions$mAfrique$mCameroun$mMonts Mandara$mDibon$eOuldémé
 38594980	$aTraditions$mEurope$mEurope centrale$eJuifs ashkénazes
 42666760	$aTraditions$mAsie$mIran$eQashqâyi
 42228363	$aTraditions$mAfrique$mMayotte$eSoufis
@@ -555,43 +382,30 @@
 40019743	$aTraditions$mAmérique du Nord$mÉtats-Unis$eAfro-américains
 43762388	$aTraditions$mAsie$mChine$mYunan$eNisu
 43762410	$aTraditions$mAsie$mChine$mYunan$eJingpaw
-43762404	$aTraditions$mAsie$mChine$mYunan$eWa
 42539785	$aTraditions$mOcéanie$mAustralie$eAborigènes
 43799675	$aTraditions$mAsie$mLaos$eBrao$iLave
-41072751	$aTraditions$mAfrique$mRépublique centrafricaine$eGbaya
-41303845	$aTraditions$mAsie$mLaos$eBrao
-39103510	$aTraditions$mAfrique du Nord$eKabyles
-40224889	$aTraditions$mAfrique$mMalawi$eTonga
-38972696	$aTraditions$mAfrique$mTchad$eSara
-41052330	$aTraditions$mAsie$mInde$eSidis
-39022290	$aTraditions$mAmérique du Nord$mÉtats-Unis$eNavajo
+40065064	$aTraditions$mAsie$mRussie$mCaucase$eTcherkesses
 38931181	$aTraditions$mFrance$eBretagne
 40152623	$aTraditions$mAmérique du Sud$mChili$eMapuches
 38473075	$aTraditions$mAmérique du Nord$mÉtats-Unis$mDakota Sud$eLakota
 40055164	$aTraditions$mAfrique$mCongo$eM'Benga
-38556746	$aTraditions$mAfrique$mBénin$eBariba
 43769357	$aTraditions$mEurope$eFrance$mProvence
 43799701	$aTraditions$mAsie$mLaos$mAttapeu$eBrao$iHamong
-38483816	$aTraditions$mAfrique$mGabon$eFang
+42155255	$aTraditions$mAsie$mIsraël$esépharades
 40217857	$aTraditions$mAfrique$mAngola$eHumbi
-43612911	$aTraditions$mAfrique$mMali$eBambara
 38993915	$aTraditions$mAsie$mInde du Nord$eBaûls
 42484412	$aTraditions$mAsie$mCambodge$ePinpeat
 43655125	$aTraditions$mAsie$mTurquie$eKadiri
-43840131	$aTraditions$mAmérique du Sud$mBolivie$eQuechuas
-38473065	$aTraditions$mAfrique du Nord$eKabyles
-41128249	$aTraditions$mAfrique$mOuganda$eAcholi
+40065706	$aTraditions$mAsie$mRussie$mCaucase$eTcherkesses
 38371575	$aTraditions$mAfrique$mAlgérie$mBiskra$eGnawas
 41072782	$aTraditions$mAfrique$mMali$ePeuhls
 40033408	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
 40224872	$aTraditions$mAfrique$mCongo$ePygmées Mbuti
-41072769	$aTraditions$mAfrique$mMali$eDogon
 42640952	$aTraditions$mAsie$mViet-Nam$eHue
 43762399	$aTraditions$mAsie$mChine$mYunan$eNisu
 40092007	$aTraditions$mFrance$eMariniers
-41285826	$aTraditions$mAsie$mTurquie$eYörük
-38432373	$aTraditions$mAfrique$mCôte d'Ivoire$mPays Wè$eGuéré
 38438689-001	$aTraditions$mTurquie$mAnatolie$eBektashi
+40063997	$aTraditions$mAsie$mRussie$mCaucase$eTcherkesses
 42471934	$aTraditions$mAsie$mChine$mTaiwan$ePaiwan aborigenes
 43762401	$aTraditions$mAsie$mChine$mYunan$eBulang
 38507478	$aTraditions$mAfrique$mCongo$eM'Benga
@@ -610,26 +424,20 @@
 38399584-011	$aTraditions$mFrance$mCamargue$eGitans
 38399584-012	$aTraditions$mFrance$mCamargue$eGitans
 43799664	$aTraditions$mAsie$mLaos$eBrao$iKavet
-38456838	$aTraditions$mAmérique du Nord$mÉtats-Unis$eYurok
 39191275	$aTraditions$mAfrique$mCôte d'Ivoire$eKoulango
 38594984	$aTraditions$mEurope$mItalie$mBasilicata$mSan Constantino Albanese$earbëresh
 42640953	$aTraditions$mAsie$mViet-Nam$eHue
 42667334	$aTraditions$mAsie$mIran$eKermānshāhān
 38418766	$aTraditions$mEurope$mLaponie$mFinlande$mNorvège$mSuède$eSames
 38471707	$aTraditions$mOcéanie$mAustralie$eBardi
-38527227	$aTraditions$mAmérique centrale$eYoruba
 38572226	$aTraditions$mAsie$mPakistan$eSoufis
-38436316	$aTraditions$mAfrique$mPays Wè$eGuéré
 38617406	$aTraditions$mAfrique$mBotswana$mKalahari$e!Kung Bushmen
-38478858	$aTraditions$mAfrique$mZaïre$eEkonda
 39205094	$aTraditions$mAsie$mInde$mTibet$ebouddhistes
 42780356	$aTraditions$mAsie$eInde$mKerala
-38392957	$aTraditions$mAmérique du Nord$eIndiens
 43795843	$aTraditions$mAsie$mCambodge$eBrao$iKrung
 43883392	$aTraditions$mAfrique$mAfrique occidentale$mSénégal$eOuolof
 42777286	$aTraditions$mEurope$mEspagne$eFlamenco
 43799710	$aTraditions$mAsie$mLaos$eHani$iAkha
-40217842	$aTraditions$mAfrique$mTchad$mTibesti$eTeda
 38479775	$aTraditions$mAfrique$mZaïre$eKango
 38394840-001	$aTraditions$mAsie$mSibérie$mAmour, bassin$eNanaj
 38394840-002	$aTraditions$mAsie$mSibérie$mAmour, bassin$eNanaj
@@ -661,18 +469,11 @@
 38394840-030	$aTraditions$mAsie$mSibérie$mAmour, bassin$eUlc
 38394840-031	$aTraditions$mAsie$mSibérie$mAmour, bassin$eUlc
 41481944	$aTraditions$mAfrique du Nord$mAlgérie$earabo-andalous
-38476491	$aTraditions$mAsie$mRussie$eNenec
 43795855	$aTraditions$mAsie$mCambodge$ePhnong
 40957136	$aTraditions$mAsie$mPakistan$eSoufis
-38479563	$aTraditions$mAfrique$mZaïre$mIturi$eEfe
 38391482	$aTraditions$mAsie$mTurquie$eSoufis
-41072795	$aTraditions$mAfrique du Sud$eXhosa
-38555880	$aTraditions$mAsie$mCambodge$eKhmers
 38403436	$aTraditions$mAfrique$mMauritanie$eHaratines
-42114197	$aTraditions$mAmérique centrale$mAntilles$eIndiens
 38536894	$aTraditions$mAmérique du Sud$mGuyane$eKalina
-38559512	$aTraditions$mAmérique du Nord$mÉtats-Unis$eIndiens
-43762403	$aTraditions$mAsie$mChine$mYunan$eWa
 43762402	$aTraditions$mAsie$mChine$mYunan$eBulang
 39947099	$aTraditions$mFrance$eAuvergne
 38475953	$aTraditions$mAsie$mPakistan$eKafiri
@@ -682,7 +483,7 @@
 38633216	$aTraditions$mEurope$mGrèce$eArvanites
 39074985	$aTraditions$mEurope$eGrande-Bretagne
 43845665	$aTraditions$mFrance$eBretagne
-38479589	$aTraditions$mAfrique$mRwanda$eTwa
+40065076	$aTraditions$mAsie$mRussie$mCaucase$eTcherkesses
 39960036	$aTraditions$mAmérique du Nord$emineurs
 41037431	$aTraditions$mOcéanie$mAustralie$eAborigènes
 38452903-001	$aTraditions$mFrance$eManouche
@@ -703,19 +504,13 @@
 38452903-017	$aTraditions$mSlovaquie$eTzigane
 38452903-018	$aTraditions$mIrlande$eTzigane
 42669291	$aTraditions$mAsie$mSibérie$eKhanty et Mansi
-38578330	$aTraditions$mAfrique$mBénin$eYoruba
 38483828	$aTraditions$mAfrique$mBénin$eMahi
 43883408	$aTraditions$mAfrique$mAfrique occidentale$mSénégal$eOuolof
-42567707	$aTraditions$mBénin$eYoruba
 38563561	$aTraditions$mEurope$mEurope centrale$eJuifs ashkénazes
-41055210	$aTraditions$mAfrique$mBénin$eYoruba
 43760676	$aTraditions$mAsie$mChine$mYunan$eYi Nisu
 43799589	$aTraditions$mAsie$mCambodge$eTampoon
 42155191	$aTraditions$mAsie$mIsraël$mJerusalem$eJuifs sépharades
 41285328	$aTraditions$mEurope$mGrèce$mThrace$eGitans
-43795760	$aTraditions$mAsie$mChine$mYunan$eLahu
-38562521	$aTraditions$mAfrique$mMauritanie$eNemadi
-42641194	$aTraditions$mAfrique$mMali$eDogons
 39947766	$aTraditions$mAmérique du Nord$mÉtats-Unis$eAfro-américains
 42641143	$aTraditions$mAsie$mChine$eYaozu
 38559011-001	$aTraditions$mAsie$mSibérie$mAmour, bassin$eNanaj
@@ -748,114 +543,70 @@
 38559011-030	$aTraditions$mAsie$mSibérie$mAmour, bassin$eUlc
 38559011-031	$aTraditions$mAsie$mSibérie$mAmour, bassin$eUlc
 40091967	$aTraditions$mFrance$eMariniers
-38504470	$aTraditions$mAmérique du Sud$eAymaras
 43760703	$aTraditions$mAsie$mChine$mXinjiang$eOuïghours
 38388771	$aTraditions$mAsie$mTibet$eBouddiste
 38440352	$aTraditions$mEspagne$eFlamenco
-42633106	$aTraditions$mAfrique du Nord$eTouareg
 40033524	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
 38562124-001	$aTraditions$mAsie$mSakha, république de$mKolyma$eCukc
-38562124-002	$aTraditions$mAsie$mSakha, république de$mKolyma$eEven
 38562124-003	$aTraditions$mAsie$mCei$mSakha, république de$mKolyma$eJukaghir
 38563560-001	$aTraditions$mAsie$mSakha, république de$mKolyma$eCukc
-38563560-002	$aTraditions$mAsie$mSakha, république de$mKolyma$eEven
 38563560-003	$aTraditions$mAsie$mCei$mSakha, république de$mKolyma$eJukaghir
-38573773	$aTraditions$mAfrique$mCameroun$eOuldémé
 42687886	$aTraditions$mAsie$mTaïwan$eAborigènes
 43799749	$aTraditions$mAsie$mLaos$eTa Oi
 43799761	$aTraditions$mAsie$mLaos$eKatu$iPacoh
-42767970	$aTraditions$mAfrique$mZimbabwe$eShona
 43760463	$aTraditions$mAsie$mChine$mSichuan$eMiao
 43626378	$aTraditions$mAmérique du Nord$mÉtats-Unis$eShakers
-41052554	$aTraditions$mAsie$eIndiens
 38508499	$aTraditions$mAfrique$mCameroun$eBedzan
-38562873	$aTraditions$mAmérique$mGuyane$eWayanas
-41073217	$aTraditions$mAfrique$mNiger$eTouaregs
 43800598	$aTraditions$mAfrique$mTanzanie$eDatoga
-38402163	$aTraditions$mAsie$mRussie$eTchouktches
 38567102	$aTraditions$mAmérique centrale$mHonduras$eGarinagu
-43800413	$aTraditions$mAsie$mVietnam$eHmong
 42641155	$aTraditions$mAsie$mTaïwan$eAborigènes
-43760517	$aTraditions$mAsie$mChine$mGuizhou$eDong
-38610695	$aTraditions$mAfrique$mErythrée$eTigrinya
-38439282-002	$aTraditions$mRépublique Centrafricaine$eNzakara
 38439282-003	$aTraditions$mRépublique Centrafricaine$eBanda Linda
 38439282-004	$aTraditions$mRépublique Centrafricaine$eBanda Linda
 38439282-006	$aTraditions$mRépublique Centrafricaine$eBanda-Dakpa
 38439282-007	$aTraditions$mRépublique centrafricaine$eBanda-Linda
 38439282-008	$aTraditions$mRépublique centrafricaine$eBanda-Linda
 38439282-009	$aTraditions$mRépublique centrafricaine$eBanda-Linda
-38439282-010	$aTraditions$mRépublique centrafricaine$eGbaya
-38439282-011	$aTraditions$mRépublique centrafricaine$eNgbaka
 38439282-012	$aTraditions$mRépublique centrafricaine$eBanda-Linda
 38439282-013	$aTraditions$mRépublique centrafricaine$eAka (pygmées)
 38439282-014	$aTraditions$mRépublique centrafricaine$eAka (pygmées)
 38439282-015	$aTraditions$mRépublique Centrafricaine$eBanda-Linda
 42664459	$aTraditions$mEurope$mEspagne$eGitans
-38563629	$aTraditions$mAfrique$mCentrafrique$eBanda
 38401279	$aTraditions$mAsie$mChine$mTibet$eBouddhistes
 42421383	$aTraditions$mAsie$mSibérie$eAltaï
-38479473	$aTraditions$mAfrique$mGabon$eFang
 38440351	$aTraditions$mEspagne$eFlamenco
-42699846	$aTraditions$mAsie$mCambodge$eKhmers
 43760660	$aTraditions$mAsie$mChine$mYunan$eYi Nisu
 43748107	$aTraditions$mAsie$mInde$mRajasthan$eGitans
 40078903	$aTraditions$mEurope$mEspagne$eGitans
-38508498	$aTraditions$mAfrique$mMali$eDogons
-38479507	$aTraditions$mAfrique$mZaïre$eMongo
 38508659	$aTraditions$mAfrique$mMadagascar$eSakalava Menabe
 39019113	$aTraditions$mAfrique$mCentrafrique$ePygmées Aka
 38400598	$aTraditions$mEurope$mEspagne$mAndalousie$eGitans
 43795809	$aTraditions$mAsie$mChine$mSichuan$eYi$iNuosu
-43799558	$aTraditions$mAsie$mCambodge$eBrao
-38560085	$aTraditions$mAfrique$mAfrique centrale$eKongo
 38560085-001	$aTraditions$mAfrique$mAfrique centrale$eBamboma
-38560085-002	$aTraditions$mAfrique$mAfrique centrale$eYombe
 38560085-003	$aTraditions$mAfrique$mAfrique centrale$eBamboma
-38560085-004	$aTraditions$mAfrique$mAfrique centrale$eYombe
-38560085-005	$aTraditions$mAfrique$mAfrique centrale$eYombe
 38560085-006	$aTraditions$mAfrique$mAfrique centrale$eNdibu
-38560085-007	$aTraditions$mAfrique$mAfrique centrale$eYombe
-38560085-008	$aTraditions$mAfrique$mAfrique centrale$eYombe
 38560085-009	$aTraditions$mAfrique$mAfrique centrale$eNtandu
-38560085-010	$aTraditions$mAfrique$mAfrique centrale$eYombe
 38560085-011	$aTraditions$mAfrique$mAfrique centrale$eNdibu
-38560085-012	$aTraditions$mAfrique$mAfrique centrale$eYombe
-38560085-013	$aTraditions$mAfrique$mAfrique centrale$eYombe
 38560085-014	$aTraditions$mAfrique$mAfrique centrale$eBtandu
 38560085-015	$aTraditions$mAfrique$mAfrique centrale$eNdibu
-38560085-016	$aTraditions$mAfrique$mAfrique centrale$eYombe
-38560085-017	$aTraditions$mAfrique$mAfrique centrale$eYombe
 38560085-018	$aTraditions$mAfrique$mAfrique centrale$eNtandu
 38560085-019	$aTraditions$mAfrique$mAfrique centrale$eNtandu
-38560085-020	$aTraditions$mAfrique$mAfrique centrale$eYombe
 38560085-021	$aTraditions$mAfrique$mAfrique centrale$eManianga
-38560085-022	$aTraditions$mAfrique$mAfrique centrale$eYombe
 38560085-023	$aTraditions$mAfrique$mAfrique centrale$eNtandu
 38560085-024	$aTraditions$mAfrique$mAfrique centrale$eNtandu
 38560085-025	$aTraditions$mAfrique$mAfrique centrale$eManianga
-38560085-026	$aTraditions$mAfrique$mAfrique centrale$eYombe
 38560085-027	$aTraditions$mAfrique$mAfrique centrale$eNtandu
-38560085-028	$aTraditions$mAfrique$mAfrique centrale$eYombe
-38560085-029	$aTraditions$mAfrique$mAfrique centrale$eYombe
 38560085-030	$aTraditions$mAfrique$mAfrique centrale$eNdibu
 38560085-031	$aTraditions$mAfrique$mAfrique centrale$eNdidu
 39960043	$aTraditions$mAmérique du Nord$eMormons
-40149476	$aTraditions$mEurope$eNorvège
 38520270	$aTraditions$mAsie$mTurquie$eBektâsî
 43905591	$aTraditions$mAmérique du Nord$eAmérindiens
-43825899	$aTraditions$mAsie$mTurquie$eRoms
-42429268	$aTraditions$mAfrique$mTanzanie$eNgoni
 43795766	$aTraditions$mAsie$mChine$mYunan$eBulang
 38532462	$aTraditions$mAsie$mTurquie$eAlevi-Bektashi
 41228682	$aTraditions$mAfrique du Nord$mAlgérie$eSoufis
 40034891	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
 41285663	$aTraditions$mAsie$mTurquie$eSyriaques
-38387068	$aTraditions$mAfrique$mBurkina-Faso$ePeuls
 42641186	$aTraditions$mAsie$mJapon$eRyukyu
-40030413	$aTraditions$mAfrique$mGabon$eMyène
 40204068	$aTraditions$mAsie$mPakistan$eSoufis
-38405581	$aTraditions$mAsie$mChine$mLijiang$eNaxis
 38563604	$aTraditions$mAfrique$mMadagascar$eBetsileo$mLalangina
 42762978	$aTraditions$mAsie$mIran$eDastgah
 42640930	$aTraditions$mAsie$mInde$mBengal$eBaul
@@ -863,56 +614,40 @@
 40032774	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
 38573832	$aTraditions$mAmérique centrale$mHonduras$eGarinagu
 42314199	$aTraditions$mAfrique$mMali$ePeuhls
-39985637	$aTraditions$mFrance$eAveyron
 38608545	$aTraditions$mEurope$mEspagne$eFlamenco
 39003204	$aTraditions$mAmérique Centrale$mHonduras$eGarinagu
 41258833	$aTraditions$mFrance$eGitans
 43799571	$aTraditions$mAsie$mCambodge$eTampoon
-42196042	$aTraditions$mEurope$eHongrie
 40033907	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
 39065591	$aTraditions$mAmérique Centrale$mCaraïbes$mGrenade$eCréoles
 40125815	$aTraditions$mMoyen Orient$eAbbassides
 38475676	$aTraditions$mAsie$mInde$eSikhs
 43799765	$aTraditions$mAsie$mLaos$eKatu$iPacoh
-43629703	$aTraditions$mOcéanie$mNouvelle-Guinée$mPapouasie$eDani
+40064134	$aTraditions$mAsie$mRussie$mCaucase$eTcherkesses
 42633466	$aTraditions$mEurope$mEspagne$mAndalousie$eGitans
 38420688	$aTraditions$mFrance$mLoire$eMariniers
 42666842	$aTraditions$mAsie$mOubekistan$mTransoxiane$ePerses
-38562108	$aTraditions$mAfrique$mMali$eDogons
-38562861	$aTraditions$mAsie$mPakistan$eBaloutches
-42699841	$aTraditions$mAsie$mCambodge$eKhmer
 38560125	$aTraditions$mEurope$eJuifs Séfarades
 42666936	$aTraditions$mAsie$mIran$eSufis
 38508500	$aTraditions$mAfrique$mCameroun$eBamum
 38562901	$aTraditions$mEurope$mPologne$eTatras
-38404110	$aTraditions$mAmérique du Sud$mGuyane$eWayãpi
-42498847	$aTraditions$mAsie$mChine$mXinjiang$eOuïgours
 39088036	$aTraditions$mAsie$mInde$mBengal$eBaûls
-38559028	$aTraditions$mAsie$mRussie$eNenec
 38559014	$aTraditions$mEurope$eJuifs Séfarades
 40091962	$aTraditions$mFrance$eMariniers
 39103549	$aTraditions$mAfrique du Nord$mMaroc$eImazighen
 38564418	$aTraditions$mAsie$mChine$mTibet$eBoudhistes
 39003207	$aTraditions$mAmérique du Sud$mVenezuela$eDiablos
-43843511	$aTraditions$mAfrique$mMali$eTouaregs
 42640853	$aTraditions$mAsie$mInde$eDhrupad
-42699840	$aTraditions$mAsie$mCambodge$eKhmer
 38560087	$aTraditions$mEurope$mGrèce$eRébètes
 43799566	$aTraditions$mAsie$mCambodge$eBrao$iKrung
-38432070-001	$aTraditions$mURSS$eYakoutes
-38432070-005	$aTraditions$mAsie$mURSS$eBouriates
 38432070-006	$aTraditions$mAsie$mURSS$eToungouses-Nanai
 38432070-011	$aTraditions$mAsie$mURSS$eToungouses-Oultch
 38432070-014	$aTraditions$mAsie$mURSS$eToungouses-Oultch
 43624971	$aTraditions$mAsie$mThaïlande$ePeuples du Triangle d'or
 38563559	$aTraditions$mEurope$mEurope centrale$eJuifs ashkénazes
-40957140	$aTraditions$mAfrique$mSénégal$eWolofs
 42633467	$aTraditions$mEurope$mEspagne$mAndalousie$eGitans
 40033045	$aTraditions$mAsie centrale$mRussie$eTatars de Kazan
 38595026	$aTraditions$mOcéanie$mAustralie$mKimberley$eAborigènes
-43795837	$aTraditions$mAsie$mCambodge$eJarai
 42762827	$aTraditions$mAsie$eOsmani
-42428982	$aTraditions$mAsie$mChine$mYunnan$eNaxi
 43799758	$aTraditions$mAsie$mLaos$eTa Oi
-40166093	$aTraditions$mAfrique$mMali$ePeuls
 42155220	$aTraditions$mAsie$mIsraël$eAshkénazes de l'Est
