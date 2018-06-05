@@ -3,27 +3,27 @@ TACHE 2 :
 Dans cette étape, nous allons exploiter les fichiers ici présents, dans le terminal:
 
 
-  - Lancer "tache2_prepaFichiers.py"                pour préparer les fichiers d'alignement
-    cette opération consiste à l'application de plusieurs traitements aux chaines de caractère à aligner;
-      Tokénization
-      Lemmatization
-      Suppression de STOP-WORDS et autres mots inutiles (peuples....)
-      Structuration des informations dans les deux nouveaus fichiers : ID~STRING
-        newRameau_utf-8.txt
-        newBNF_utf-8.txt
+- Lancer "tache2_prepaFichiers.py"                pour préparer les fichiers d'alignement
+  cette opération consiste à l'application de plusieurs traitements aux chaines de caractère à aligner;
+    Tokénization
+    Lemmatization
+    Suppression de STOP-WORDS et autres mots inutiles (peuples....)
+    Structuration des informations dans les deux nouveaus fichiers : ID~STRING
+      newRameau_utf-8.txt
+      newBNF_utf-8.txt
         
         
         
-  - Lancer "tache2_Alignement_BNF_RAMEAU_jaro.py"   pour effectuer l'alignement entre BNF/RAMEAU
-    Ce programme va permettre l'alignement des termes des deux librairies (BNF/RAMEAU) en se basant sur deux 
-    de similarité principales : Levenshtein et Jaro-Winkler, le corps du code PYTHON est très bien commenté 
-    vous y trouverez le descriptif de toutes les étapes.
-    
-    Ce processus va donc nous génerer plusieurs fichiers dont:
-      - ethnieRegionMatch : Contenant des alignements parfaits (ethnieBNF == ethnieRAMEAU && regionBNF == regionRAMEAU
-      - ethnieMatch : Contenant des alignement correctes (ethnieBNF == ethnieRAMEAU)
-      - ethnieMatchErros : Contenant des alignements parfois souvent correctes (ethnieBNF ~~ ethnieRAMEAU)
-      - bnfNotMatch : Contenant la liste des termes BNF non alignés
+- Lancer "tache2_Alignement_BNF_RAMEAU_jaro.py"   pour effectuer l'alignement entre BNF/RAMEAU
+  Ce programme va permettre l'alignement des termes des deux librairies (BNF/RAMEAU) en se basant sur deux 
+  de similarité principales : Levenshtein et Jaro-Winkler, le corps du code PYTHON est très bien commenté 
+  vous y trouverez le descriptif de toutes les étapes.
+
+  Ce processus va donc nous génerer plusieurs fichiers dont:
+    - ethnieRegionMatch : Contenant des alignements parfaits (ethnieBNF == ethnieRAMEAU && regionBNF == regionRAMEAU
+    - ethnieMatch : Contenant des alignement correctes (ethnieBNF == ethnieRAMEAU)
+    - ethnieMatchErros : Contenant des alignements parfois souvent correctes (ethnieBNF ~~ ethnieRAMEAU)
+    - bnfNotMatch : Contenant la liste des termes BNF non alignés
 
 
 
