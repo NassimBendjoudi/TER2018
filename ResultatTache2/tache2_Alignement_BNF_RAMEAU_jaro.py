@@ -18,7 +18,7 @@ bnfNotMatch = open('bnfNotMatch.txt','x+') #Pour les BNF non alignés
 #iconv -f macintosh -t utf-8 BNF_traditions_field.txt > BNF_utf-8.txt ////// `A ne pas utiliser car le format initial du fichier est en UTF-8
 
 #Lemmatisation
-regexpStemmer = ('s$|es$|iens$|oise$|istes$|ains$|ie$|ais$|aise$|ois$|')
+regexpStemmer = ('s$|iens$|oise$|istes$|ains$|ie$|ais$|aise$|ois$|')
 
 #//////////////////////////////////////////////////////////////////////////
 #///////////////////    MESURE JARO    ////////////////////////////////////
@@ -241,14 +241,12 @@ for ligne in read_mots1:
 								
 							for cle,valeur in BNF.items():
 								if cle==iD1:
-									ethnieMatch.write(cle+'	'+valeur+'\n')#ecriture ligne BNF
+									ethnieMatch.write(cle+'	'+valeur+'\t'+'Score:'+str(score(ethnie,mot2))+'\n')#ecriture ligne BNF
 									#print(cle+'	'+valeur+'\n')
 							for cle,valeur in RAMEAU.items():
 								if cle==iD2:
-									ethnieMatch.write(cle+'	'+valeur+'\n')#ecriture ligne Rameau
+									ethnieMatch.write(cle+'	'+valeur+'\n\n')#ecriture ligne Rameau
 									#print(cle+'	'+valeur+'\n')
-							ethnieMatch.write('Score:'+str(score(ethnie,mot2))+'\n\n')#ecriture mesures
-							#print('\n')
 							
 							print("A1")
 							m.append(iD1)
@@ -272,36 +270,33 @@ for ligne in read_mots1:
 
 						#Cas de similarité entre ethnies mais sans appuis de l'information région //////////////////////////////////////////////
 						
+						
 
 						if levenshteinN(region,regionRM) > 0.6 and jaro(region, regionRM) > 0.6 : #on vérifie la région /////////////////////////	
 							if levenshteinN(ethnie,ethnieRM) >= 0.7 and jaro(ethnie, ethnieRM) >= 0.7 : #on vérifie l'ethnie			
 								for cle,valeur in BNF.items():
 									if cle==iD1:
-										ethnieRegionMatch.write(cle+'	'+valeur+'\n')#ecriture ligne BNF
+										ethnieRegionMatch.write(cle+'	'+valeur+'\t'+'Score:'+str(score(ethnie,ethnieRM))+'\n')#ecriture ligne BNF
 										#print(cle+'	'+valeur+'\n')
 								for cle,valeur in RAMEAU.items():
 									if cle==iD2:
-										ethnieRegionMatch.write(cle+'	'+valeur+'\n')#ecriture ligne Rameau
+										ethnieRegionMatch.write(cle+'	'+valeur+'\n\n')#ecriture ligne Rameau
 										#print(cle+'	'+valeur+'\n')
-								ethnieRegionMatch.write('Score:'+str(score(ethnie,ethnieRM))+'\n\n')#ecriture mesures
-								#print('\n')
-								#iD aligné > à rajouter à la liste S,M
+								
 								print("B")
 								m.append(iD1)
 
 						elif levenshteinN(ethnie,ethnieRM) >= 0.9 and jaro(ethnie, ethnieRM) >= 0.9 : #on vérifie l'ethnie
-							if iD1 not in m:
-								for cle,valeur in BNF.items():
-									if cle==iD1:
-										ethnieMatch.write(cle+'	'+valeur+'\n')#ecriture ligne BNF
-										#print(cle+'	'+valeur)
-								for cle,valeur in RAMEAU.items():
-									if cle==iD2:
-										ethnieMatchErrors.write(cle+'	'+valeur+'\n')#ecriture ligne Rameau
-										#print(cle+'	'+valeur+'\n')
-								ethnieMatch.write('Score:'+str(score(ethnie,ethnieRM))+'\n\n')#ecriture mesures
-								print("A2")
-								m.append(iD1)
+							for cle,valeur in BNF.items():
+								if cle==iD1:
+									ethnieMatchErrors.write(cle+'	'+valeur+'\t'+'Score:'+str(score(ethnie,ethnieRM))+'\n')#ecriture ligne BNF
+									#print(cle+'	'+valeur)
+							for cle,valeur in RAMEAU.items():
+								if cle==iD2:
+									ethnieMatchErrors.write(cle+'	'+valeur+'\n\n')#ecriture ligne Rameau
+									#print(cle+'	'+valeur+'\n')
+							print("A2")
+							m.append(iD1)
 
 
 						#On va detecter les similitudes region,ethniRM et ethni,regionRM
@@ -312,13 +307,13 @@ for ligne in read_mots1:
 							if levenshteinN(ethnie,regionRM) >= 0.6 and jaro(ethnie,regionRM) >= 0.6:
 								for cle,valeur in BNF.items():
 									if cle==iD1:
-										ethnieRegionMatch.write(cle+'	'+valeur+'\n')#ecriture ligne BNF
+										ethnieRegionMatch.write(cle+'	'+valeur+'\t'+'Score:'+str(score(region,ethnieRM))+'\n')#ecriture ligne BNF
 										#print(cle+'	'+valeur+'\n')
 								for cle,valeur in RAMEAU.items():
 									if cle==iD2:
-										ethnieRegionMatch.write(cle+'	'+valeur+'\n')#ecriture ligne Rameau
+										ethnieRegionMatch.write(cle+'	'+valeur+'\n\n')#ecriture ligne Rameau
 										#print(cle+'	'+valeur+'\n')
-								ethnieRegionMatch.write('Score:'+str(score(region,ethnieRM))+'\n\n')#ecriture mesures
+								
 								print("B2")
 								m.append(iD1)
 
@@ -354,17 +349,14 @@ for ligne in read_mots1:
 							
 							for cle,valeur in BNF.items():
 								if cle==iD1:
-									ethnieMatch.write(cle+'	'+valeur+'\n')#ecriture ligne BNF
+									ethnieMatch.write(cle+'	'+valeur+'\t'+'Score:'+str(score(mot1,mot2))+'\n')#ecriture ligne BNF
 									#print(cle+'	'+valeur+'\n')
 							for cle,valeur in RAMEAU.items():
 								if cle==iD2:
-									ethnieMatch.write(cle+'	'+valeur+'\n')#ecriture ligne Rameau
+									ethnieMatch.write(cle+'	'+valeur+'\n\n')#ecriture ligne Rameau
 									#print(cle+'	'+valeur+'\n')
-							ethnieMatch.write('Score:'+str(score(mot1,mot2))+'\n\n')#ecriture mesures
+							
 							print("A3")
-							#print('JaroW:'+str(jaro(mot1,mot2))+' Levenstein: '+str(levenshteinN(mot1,mot2))+'\n\n')#ecriture mesures
-							#print('\n')
-							#iD aligné > à rajouter à la liste S,M
 							m.append(iD1)
 
 
