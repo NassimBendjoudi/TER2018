@@ -4,12 +4,11 @@ from __future__ import division
 
 import re, sys, os, math
 
-
 #//////////////////// Création fichiers de retour ////////////////////////////
 ethnieMatch = open('ethnieMatch.txt','x+') #Pour les BNF alignés grace à leur éthnie
 ethnieRegionMatch = open('ethnieRegionMatch.txt','x+') #Pour les BNF alignés grace à l'ethnie et à la position géographique
-#regionMatch = open('regionMatch.txt','x+') #Pour les BNF alignés grace à leur position géographique seulement 
-#ambigueMatch = open('ambigueMatch.txt','x+') #Pour les BNF alignés avec ambiguité
+regionMatch = open('regionMatch.txt','x+') #Pour les BNF alignés grace à leur position géographique seulement 
+ethnieMatchErrors = open('ethnieMatchErrors.txt','x+') #Pour les BNF alignés avec ambiguité
 bnfNotMatch = open('bnfNotMatch.txt','x+') #Pour les BNF non alignés
 
 #//////////////////// Conversion vers UTF 8 //////////////////////////////////
@@ -18,7 +17,8 @@ bnfNotMatch = open('bnfNotMatch.txt','x+') #Pour les BNF non alignés
 #iconv -f macintosh -t utf-8 RAMEAU-Groupes_ethniques-2.txt > RAMEAU_utf-8.txt
 #iconv -f macintosh -t utf-8 BNF_traditions_field.txt > BNF_utf-8.txt ////// `A ne pas utiliser car le format initial du fichier est en UTF-8
 
-
+#Lemmatisation
+regexpStemmer = ('s$|es$|iens$|oise$|istes$|ains$|ie$|ais$|aise$|ois$|')
 
 #//////////////////////////////////////////////////////////////////////////
 #///////////////////    MESURE JARO    ////////////////////////////////////
@@ -124,6 +124,9 @@ def levenshteinN(mot1,mot2):
 	result = 1-(ligne_i[len(mot1)]/(max(len(mot1),len(mot2))))
 	return(round(result,3))
 
+def score(mot1,mot2):
+	score=(levenshteinN(mot1,mot2)+(jaro(mot1,mot2)))/2 #moyenne des mesures
+	return (round(score,3))
 #/////////////////////////////////////////////////////////////////////////////////
 #///////////////////////////////    TRAITEMENT    ////////////////////////////////
 #/////////////////////////////////////////////////////////////////////////////////
@@ -230,37 +233,28 @@ for ligne in read_mots1:
 					resT2 = re.search(r"(.*)\\(.*)",mot2)
 					if not resT2:
 						
+						#Lemmatization
+						ethnie=re.sub(regexpStemmer,'',ethnie)
+						mot2=re.sub(regexpStemmer,'',mot2)
 
-						if levenshteinN(ethnie,mot2) >= 0.8 and jaro(ethnie, mot2) > 0.84 :  #<<<<<<< ici vous mettez le seuil de similarité Jaro min
-							if iD1 not in m:
+						if levenshteinN(ethnie,mot2) >= 0.8 and jaro(ethnie, mot2) >= 0.84 :  #<<<<<<< ici vous mettez le seuil de similarité Jaro min
 								
-								for cle,valeur in BNF.items():
-									if cle==iD1:
-										ethnieMatch.write(cle+'	'+valeur+'\n')#ecriture ligne BNF
-										#print(cle+'	'+valeur+'\n')
-								for cle,valeur in RAMEAU.items():
-									if cle==iD2:
-										ethnieMatch.write(cle+'	'+valeur+'\n')#ecriture ligne Rameau
-										#print(cle+'	'+valeur+'\n')
-								ethnieMatch.write('JaroW:'+str(jaro(ethnie,mot2))+' Levenstein: '+str(levenshteinN(ethnie,mot2))+'\n\n')#ecriture mesures
-								#print('\n')
-								
-								m.append(iD1)
+							for cle,valeur in BNF.items():
+								if cle==iD1:
+									ethnieMatch.write(cle+'	'+valeur+'\n')#ecriture ligne BNF
+									#print(cle+'	'+valeur+'\n')
+							for cle,valeur in RAMEAU.items():
+								if cle==iD2:
+									ethnieMatch.write(cle+'	'+valeur+'\n')#ecriture ligne Rameau
+									#print(cle+'	'+valeur+'\n')
+							ethnieMatch.write('Score:'+str(score(ethnie,mot2))+'\n\n')#ecriture mesures
+							#print('\n')
+							
+							print("A1")
+							m.append(iD1)
+						
+					
 
-						"""
-						elif iD1 not in m: #PROBLEME AVEC CETTE CONDITION ///// CA NE FONCTIONNE PAS ////// POURQUOI?
-			
-							if levenshteinN(region,mot2) >= 0.7 and jaro(region, mot2) > 0.9 :  #Seuil 2 : same region (même région géographique)
-				   				#ecriture des alignements répondants aux conditions
-				
-								for cle,valeur in BNF.items():
-									if cle==iD1:
-										regionMatch.write(cle+'	'+valeur+'\n')#ecriture ligne BNF
-								for cle,valeur in RAMEAU.items():
-									if cle==iD2:
-										regionMatch.write(cle+'	'+valeur+'\n')#ecriture ligne Rameau
-								regionMatch.write('JaroW:'+str(jaro(ethnie,mot2))+' Levenstein: '+str(levenshteinN(ethnie,mot2))+'\n\n')#ecriture mesures
-						"""	
 					#//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 					#//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 					else: #On dispose ici d'information d'ethnie et de géographie des deux cotés ($mNouvelle-Zélande$eMaoris == $aMaoris$gpeuple de Nouvelle-Zélande)
@@ -270,9 +264,17 @@ for ligne in read_mots1:
 
 						#On définie les seuils minimums Jaro et Levenstein
 						#Seuil 1 : same people (même peuple) same region (même région)
-						if levenshteinN(ethnie,ethnieRM) >= 0.7 and jaro(ethnie, ethnieRM) > 0.7 : #on vérifie l'ethnie
-							if levenshteinN(region,regionRM) > 0.7 and jaro(region, regionRM) > 0.7 : #on vérifie la région 	<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-								
+
+						#Lemmatization
+						region=re.sub(regexpStemmer,'',region)
+						ethnieRM=re.sub(regexpStemmer,'',ethnieRM)
+						regionRM=re.sub(regexpStemmer,'',regionRM)
+
+						#Cas de similarité entre ethnies mais sans appuis de l'information région //////////////////////////////////////////////
+						
+
+						if levenshteinN(region,regionRM) > 0.6 and jaro(region, regionRM) > 0.6 : #on vérifie la région /////////////////////////	
+							if levenshteinN(ethnie,ethnieRM) >= 0.7 and jaro(ethnie, ethnieRM) >= 0.7 : #on vérifie l'ethnie			
 								for cle,valeur in BNF.items():
 									if cle==iD1:
 										ethnieRegionMatch.write(cle+'	'+valeur+'\n')#ecriture ligne BNF
@@ -281,13 +283,49 @@ for ligne in read_mots1:
 									if cle==iD2:
 										ethnieRegionMatch.write(cle+'	'+valeur+'\n')#ecriture ligne Rameau
 										#print(cle+'	'+valeur+'\n')
-								ethnieRegionMatch.write('JaroW:'+str(jaro(ethnie, ethnieRM))+' Levenstein: '+str(levenshteinN(ethnie,ethnieRM))+'\n\n')#ecriture mesures
+								ethnieRegionMatch.write('Score:'+str(score(ethnie,ethnieRM))+'\n\n')#ecriture mesures
 								#print('\n')
 								#iD aligné > à rajouter à la liste S,M
-								
+								print("B")
 								m.append(iD1)
+
+						elif levenshteinN(ethnie,ethnieRM) >= 0.9 and jaro(ethnie, ethnieRM) >= 0.9 : #on vérifie l'ethnie
+							if iD1 not in m:
+								for cle,valeur in BNF.items():
+									if cle==iD1:
+										ethnieMatch.write(cle+'	'+valeur+'\n')#ecriture ligne BNF
+										#print(cle+'	'+valeur)
+								for cle,valeur in RAMEAU.items():
+									if cle==iD2:
+										ethnieMatchErrors.write(cle+'	'+valeur+'\n')#ecriture ligne Rameau
+										#print(cle+'	'+valeur+'\n')
+								ethnieMatch.write('Score:'+str(score(ethnie,ethnieRM))+'\n\n')#ecriture mesures
+								print("A2")
+								m.append(iD1)
+
+
+						#On va detecter les similitudes region,ethniRM et ethni,regionRM
+						#38562811	143   $aTraditions$mAfrique du Nord$mAlgérie$mKabylie$eBerbères
+						#11940990	$aKabyles$gpeuple berbère
+						
+						elif levenshteinN(region,ethnieRM) >= 0.6 and jaro(region,ethnieRM) >= 0.6:
+							if levenshteinN(ethnie,regionRM) >= 0.6 and jaro(ethnie,regionRM) >= 0.6:
+								for cle,valeur in BNF.items():
+									if cle==iD1:
+										ethnieRegionMatch.write(cle+'	'+valeur+'\n')#ecriture ligne BNF
+										#print(cle+'	'+valeur+'\n')
+								for cle,valeur in RAMEAU.items():
+									if cle==iD2:
+										ethnieRegionMatch.write(cle+'	'+valeur+'\n')#ecriture ligne Rameau
+										#print(cle+'	'+valeur+'\n')
+								ethnieRegionMatch.write('Score:'+str(score(region,ethnieRM))+'\n\n')#ecriture mesures
+								print("B2")
+								m.append(iD1)
+
+
 		#//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		#//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		
 		else: #Dans un second lieu les $e qui ne disposent pas d'une information geographique ($eJuifs)
 			
 			#Tokenization BNF
@@ -307,43 +345,29 @@ for ligne in read_mots1:
 						#Tokenization RAMEAU
 						mot2S = mot2.split()
 						
+
+						mot1=re.sub(regexpStemmer,'',mot1)
+						mot2=re.sub(regexpStemmer,'',mot2)
 						#On définie les seuils minimums Jaro et Levenstein
 						#Seuil 1 : same people (même peuple)
-						if levenshteinN(mot1,mot2) >= 0.8 and jaro(mot1, mot2) > 0.84 : #and iD1 not in m
+						if levenshteinN(mot1,mot2) >= 0.8 and jaro(mot1, mot2) >= 0.84 : 
 							
 							for cle,valeur in BNF.items():
 								if cle==iD1:
 									ethnieMatch.write(cle+'	'+valeur+'\n')#ecriture ligne BNF
-									#print(cle+'	'+valeur+'\n')#ecriture ligne Rameau
+									#print(cle+'	'+valeur+'\n')
 							for cle,valeur in RAMEAU.items():
 								if cle==iD2:
 									ethnieMatch.write(cle+'	'+valeur+'\n')#ecriture ligne Rameau
-									#print(cle+'	'+valeur+'\n')#ecriture ligne Rameau
-							
-							ethnieMatch.write('JaroW:'+str(jaro(mot1,mot2))+' Levenstein: '+str(levenshteinN(mot1,mot2))+'\n\n')#ecriture mesures
+									#print(cle+'	'+valeur+'\n')
+							ethnieMatch.write('Score:'+str(score(mot1,mot2))+'\n\n')#ecriture mesures
+							print("A3")
 							#print('JaroW:'+str(jaro(mot1,mot2))+' Levenstein: '+str(levenshteinN(mot1,mot2))+'\n\n')#ecriture mesures
 							#print('\n')
 							#iD aligné > à rajouter à la liste S,M
 							m.append(iD1)
-						"""
-						else:
-							if iD1 not in m:
-								# Si au minimum on a un mot match et jaro avec condition
-								if levenshteinN(mot1S,mot2S) >= 0.3 and jaro(mot1S, mot2S) > 0.7:  #<<<<<<< ici vous mettez le seuil de similarité Jaro min
-									
-								
-									for cle,valeur in BNF.items():
-										if cle==iD1:
-											ambigueMatch.write(cle+'	'+valeur+'\n')#ecriture ligne BNF
-											#print(cle+'	'+valeur+'\n')#ecriture ligne Rameau
-									for cle,valeur in RAMEAU.items():
-										if cle==iD2:
-											ambigueMatch.write(cle+'	'+valeur+'\n')#ecriture ligne BNF
-											#print(cle+'	'+valeur+'\n')#ecriture ligne Rameau
-									ambigueMatch.write('JaroW:'+str(jaro(mot1,mot2))+' Levenstein: '+str(levenshteinN(mot1,mot2))+'\n\n')#ecriture mesures
-									#print('JaroW:'+str(jaro(mot1,mot2))+' Levenstein: '+str(levenshteinN(mot1,mot2))+'\n\n')#ecriture mesures
-									#print("ambigue")
-						"""	
+
+
 
 
 
@@ -354,18 +378,14 @@ for ligne in read_mots1:
 					bnfNotMatch.write(cle+'	'+valeur+'\n')#ecriture ligne BNF
 
 	
-
-"""										
+ethnieMatchErrors.close()
 bnfNotMatch.close()
-nFichierBNF.close()
-nFichierRM.close()
+file1.close()
+file2.close()
 ethnieMatch.close()
-regionMatch.close()
-ambigueMatch.close() 
+ethnieRegionMatch.close()
+"""
 os.remove('newBNF_utf-8.txt')
 os.remove('newRAMEAU_utf-8.txt')
 """
-
-
-
 
