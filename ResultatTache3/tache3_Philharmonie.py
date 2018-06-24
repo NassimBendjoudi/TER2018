@@ -95,7 +95,7 @@ def jaro(mot1, mot2): #s et t étant les chaines de caractère à aligner
     #print ('Transpositions :',transpositions) #Console
     result= ((matches / mot1_len) + (matches / mot2_len) + ((matches - transpositions/2) / matches)) / 3
 
-	
+
         
 #define SCALING_FACTOR 0.1
     SCALING_FACTOR = 0.1
@@ -120,7 +120,7 @@ def levenshteinN(mot1,mot2):
 			ligne_i[k] = min(ligne_i[k-1] + 1, ligne_prec[k] + 1, ligne_prec[k-1] + cout)	
 	result = 1-(ligne_i[len(mot1)]/(max(len(mot1),len(mot2))))
 	return(round(result,3))
-"""
+
 #//////////////////////////////////////////////////////////////////////////
 #Fonction qui récupère un bloc de texte qui commence par begin\d et se termine par end\d
 #//////////////////////////////////////////////////////////////////////////
@@ -129,11 +129,9 @@ def get_block_lines(f, begin, end):
 		yield line
 		if end in line: return
 
-
 #//////////////////////////////////////////////////////////////////////////
 #Traitement de texte //////////////////////////////////////////////////////
 #//////////////////////////////////////////////////////////////////////////
-
 
 #liste des caractères accentués a désaccentuer 
 accent = ['é', 'è', 'ê', 'ë', 'à','á','É', 'ù', 'û', 'ú', 'ü','ç','č', 'ô','ó','ö', 'î','í','Î', 'ï', 'â','ã','ā','ţ','(\'','\', \'','\', "','\')','")','\\','/','ø']
@@ -172,7 +170,7 @@ def parcours(repertoire) :
 				begin = 'M26'
 				end = '> .'
 				block1 = ''.join(get_block_lines(f, begin, end))
-				
+
 
 				#Récupérer le titre
 				reTitre=re.search(r'\s+ecrm:P102_has_title\s+"(.*)"',block1)
@@ -186,8 +184,7 @@ def parcours(repertoire) :
 					#Supprimer les accents
 					for i in range(len(accent)):
 						titre = titre.replace(accent[i], sans_accent[i])
-						
-						
+
 					titre = titre.split()
 					#print(titre)
 					filteredtext = [t for t in titre if t.lower() not in stopwords]
@@ -198,33 +195,11 @@ def parcours(repertoire) :
 
 					#Supprimer les stop-words manuellement et sans appel à ntlk
 					titre=re.sub(stopWordFr,'',titre)
-					
+
 				#On referme le fichier f pour pouvoir le relire à nouveau pour extraire les informations de date, car si on ne fait pas ça, le programme récupérera que les dates situées après le titre, sachant que parfois les dates se trouvent bien avant...
 				f.close()
 
-				#Récupérer la date
-				#On relis le fichier à nouveau
-				f=open(repertoire+"/"+fichier, 'r')
-				fR=f.readlines()
-				#REGEX URI de l'évènement
-				
-								
-				#REGEX iD de l'événement date
-				reDateUri=re.search(r'\s+mus:U8_foresees_time_span\s+(.*)\s+;',block1)
-				
-				if reDateUri:
-					#On définit le block2 qui contient la date en utilisant l'iD récupéré dans la précédente opérantion
-					dateUri=reDateUri.group(1) #iD mémorisé
-					begin2 = dateUri #iD utilisé comme début du block2
-					end2='dateTime'
-					block2 = ''.join(get_block_lines(fR, begin2, end2))
-				#REGEX date
-					reDate= re.search(r'\s+"(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}).*".*dateTime\s+',block2)
-					if reDate:
-						date=reDate.group(1)
-						#euterpe.write(fichier+'	'+titre+' $date:'+date+'	'+titrePrime+'\n')
-				f.close()
-				
+
 				mAA=list()
 				#Récupérer l'URI de l'évènement
 				#On relis le fichier à nouveau
@@ -235,16 +210,148 @@ def parcours(repertoire) :
 				if reURI:
 					for line in reURI:
 						sentence=str(line)
-						euterpe.write(sentence+'	'+fichier+'	'+titre+' $date:'+date+'	'+titrePrime+'\n')
+
+						#print(sentence+'	'+fichier+'	'+titre+' $date:'+date+'	'+titrePrime+'\n')
+						#euterpe.write(sentence+'	'+fichier+'	'+titre+' $date:'+date+'	'+titrePrime+'\n')
 						if sentence not in mAA:
 							mAA.append(sentence)
 
 				f.close()
-				
+
+
+				#Récupérer la date
+				#On relis le fichier à nouveau
+				f=open(repertoire+"/"+fichier, 'r')
+				fR=f.readlines()
+				#REGEX URI de l'évènement
+				f.close()
+				reDateUri2=re.search(r'\s+mus:U8_foresees_time_span\s+(.*)\s+,\s+(.*)\s+;',block1)
+				if reDateUri2: # 1 > le cas ou l'évenement contient plusieurs dates 
+					#On définit le block2 qui contient la date en utilisant l'iD récupéré dans la précédente opérantion
+					dateUri=reDateUri2.group(1) #première partie de la date pouvant contenir à elle-même aussi plusieurs dates > mémorisé
+					dateUri2=reDateUri2.group(2) #seconde date > mémorisé
+					#print(fichier+'\n'+dateUri)
+					separateur=','
+					if separateur in dateUri: #présence de plusieurs liens dans le lien de la première partie? ><<<<<<<<<<<<<<<<<<D
+						begin2 = dateUri.replace(" ", "")
+						begin2 = begin2.split(',') #on split la ligne en plusieurs dateUri et on obtient le reste des lien présents dans le reDateUri2.group(1)
+
+						f=open(repertoire+"/"+fichier, 'r')
+						lecture = f.read() #lecture fichier 1
+						
+						corps = re.compile(r"(\<http.*\>)\n\s+a\s+ecrm:.*\n\s+rdfs.*\n\s+time.*.*\n\s+time:inXSDDate\s+\"(\d{4}-\d{2}-\d{2}).*\"") #on récupère tous les blocs contenant comme clé un lien, et une date comme valeur)
+						res = corps.findall(lecture) #on repère grace à re.findall() tous les blocs d'un seul coup
+						if res:
+							for line in res:
+								blocDate = str(line) #on transforme en chaine de caractère
+								
+								#r la liste des iDs dates
+								r=list()
+								#h la liste des dates
+								h=list()
+								reElt=re.search(r'.*(\<http.*\>).*(\d{4}-\d{2}-\d{2}).*',blocDate) #ma REGEX pour identifier les bloc contenant les dates valides
+								if reElt:
+									hh=reElt.group(1)# le lien
+									mm=reElt.group(2)# la date
+									r.append(hh)#remplissage des listes
+									h.append(mm)
+									dic = dict(zip(r, h))# création d'un dictionnaire 
+									for lien in begin2: #on parcours le liens un par un et on les utilise pour identifier les blocs contenants les bonnes dates
+										#print(elt,hh)
+										for cle, valeur in dic.items():
+											if levenshteinN(cle,str(lien)) == 1.0: #parmis les blocs seulement ceux contenant un lien déjà validé 
+											
+												
+												euterpe.write(sentence+'	'+fichier+'	'+titre+' $date:'+valeur+'	'+titrePrime+'\n')
+							
+							
+					else:
+						begin2 = dateUri.replace(" ", "")
+						f=open(repertoire+"/"+fichier, 'r')
+						lecture = f.read() #lecture fichier 1
+						
+						corps = re.compile(r"(\<http.*\>)\n\s+a\s+ecrm:.*\n\s+rdfs.*\n\s+time.*.*\n\s+time:inXSDDate\s+\"(\d{4}-\d{2}-\d{2}).*\"") #on récupère tous les blocs contenant comme clé un lien, et une date comme valeur)
+						res = corps.findall(lecture) #on repère grace à re.findall() tous les blocs d'un seul coup
+						if res:
+							for line in res:
+								blocDate = str(line) #on transforme en chaine de caractère
+								
+								#r la liste des iDs dates
+								r=list()
+								#h la liste des dates
+								h=list()
+								reElt=re.search(r'.*(\<http.*\>).*(\d{4}-\d{2}-\d{2}).*',blocDate) #ma REGEX pour identifier les bloc contenant les dates valides
+								if reElt:
+									hh=reElt.group(1)# le lien
+									mm=reElt.group(2)# la date
+									r.append(hh)#remplissage des listes
+									h.append(mm)
+									dic = dict(zip(r, h))# création d'un dictionnaire 
+									for cle, valeur in dic.items():
+										if levenshteinN(cle,str(begin2)) == 1.0: #parmis les blocs seulement ceux contenant un lien déjà validé 
+											euterpe.write(sentence+'	'+fichier+'	'+titre+' $date:'+valeur+'	'+titrePrime+'\n')
+
+					#on utilise aussi le lien après la dernière virgule == deuxième partie
+					begin2 = dateUri2.replace(" ", "")
+					f=open(repertoire+"/"+fichier, 'r')
+					lecture = f.read() #lecture fichier 1
+					
+					corps = re.compile(r"(\<http.*\>)\n\s+a\s+ecrm:.*\n\s+rdfs.*\n\s+time.*.*\n\s+time:inXSDDate\s+\"(\d{4}-\d{2}-\d{2}).*\"") #on récupère tous les blocs contenant comme clé un lien, et une date comme valeur)
+					res = corps.findall(lecture) #on repère grace à re.findall() tous les blocs d'un seul coup
+					if res:
+						for line in res:
+							blocDate = str(line) #on transforme en chaine de caractère
+							
+							#r la liste des iDs dates
+							r=list()
+							#h la liste des dates
+							h=list()
+							reElt=re.search(r'.*(\<http.*\>).*(\d{4}-\d{2}-\d{2}).*',blocDate) #ma REGEX pour identifier les bloc contenant les dates valides
+							if reElt:
+								hh=reElt.group(1)# le lien
+								mm=reElt.group(2)# la date
+								r.append(hh)#remplissage des listes
+								h.append(mm)
+								dic = dict(zip(r, h))# création d'un dictionnaire 
+								for cle, valeur in dic.items():
+									if levenshteinN(cle,str(begin2)) == 1.0: #parmis les blocs seulement ceux contenant un lien déjà validé 
+										euterpe.write(sentence+'	'+fichier+'	'+titre+' $date:'+valeur+'	'+titrePrime+'\n')
+
+
+				else:
+					reDateUri2=re.search(r'\s+mus:U8_foresees_time_span\s+(.*)\s+;',block1)
+					if reDateUri2:
+						dateUri=reDateUri2.group(1)
+						begin2 = dateUri.replace(" ", "")
+						f=open(repertoire+"/"+fichier, 'r')
+						lecture = f.read() #lecture fichier 1
+						
+						corps = re.compile(r"(\<http.*\>)\n\s+a\s+ecrm:.*\n\s+rdfs.*\n\s+time.*.*\n\s+time:inXSDDate\s+\"(\d{4}-\d{2}-\d{2}).*\"") #on récupère tous les blocs contenant comme clé un lien, et une date comme valeur)
+						res = corps.findall(lecture) #on repère grace à re.findall() tous les blocs d'un seul coup
+						if res:
+							for line in res:
+								blocDate = str(line) #on transforme en chaine de caractère
+								
+								#r la liste des iDs dates
+								r=list()
+								#h la liste des dates
+								h=list()
+								reElt=re.search(r'.*(\<http.*\>).*(\d{4}-\d{2}-\d{2}).*',blocDate) #ma REGEX pour identifier les bloc contenant les dates valides
+								if reElt:
+									hh=reElt.group(1)# le lien
+									mm=reElt.group(2)# la date
+									r.append(hh)#remplissage des listes
+									h.append(mm)
+									dic = dict(zip(r, h))# création d'un dictionnaire 
+									for cle, valeur in dic.items():
+										if levenshteinN(cle,str(begin2)) == 1.0: #parmis les blocs seulement ceux contenant un lien déjà validé 
+											euterpe.write(sentence+'	'+fichier+'	'+titre+' $date:'+valeur+'	'+titrePrime+'\n')
+
 #création fichier contenant les résultats EUTERPE
 euterpe = open('euterpe.txt','x+')
 parcours(repertoire)
-#euterpe.close()
+euterpe.close()
+
 
 #////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #Récupérer les titres + dates de chaque évenement depuis PP : ///////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -281,8 +388,7 @@ def parcours(repertoire) :
 
 					#Supprimer les accents
 					for i in range(len(accent)):
-						titre = titre.replace(accent[i], sans_accent[i])
-						
+						titre = titre.replace(accent[i], sans_accent[i])	
 						
 					titre = titre.split()
 				
@@ -297,27 +403,6 @@ def parcours(repertoire) :
 				#On referme le fichier f pour pouvoir le relire à nouveau pour extraire les informations de date, car si on ne fait pas ça, le programme récupérera que les dates situées après le titre, sachant que parfois les dates se trouvent bien avant...
 				f.close()
 
-				#Récupérer la date
-				#On relis le fichier à nouveau
-				f=open(repertoire+"/"+fichier,'r')
-				fR=f.readlines()
-				#REGEX iD de l'événement
-				reDateUri=re.search(r'\s+ecrm:P4_has_time-span\s+(.*)\s+;',block)
-				if reDateUri:
-					#On définit le block2 qui contient la date en utilisant l'iD récupéré dans la précédente opérantion
-					
-					dateUri=reDateUri.group(1) #iD mémorisé
-					begin2 = dateUri #iD utilisé comme début du block2
-					end2='date\s'
-					block2 = ''.join(get_block_lines(fR, begin2, end2))
-					#REGEX date
-					reDate= re.search(r'\s+"(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}).*".*dateTime\s+',block2)
-					if reDate:
-						date=reDate.group(1)
-						#pp.write(fichier+'	'+titre+' $date:'+date+'	'+titrePrime+'\n')
-						
-				f.close()
-				
 				#Récupérer l'URI de l'évènement
 				#On relis le fichier à nouveau
 				f=open(repertoire+"/"+fichier, 'r')
@@ -327,15 +412,52 @@ def parcours(repertoire) :
 				if reURI:
 					for line in reURI:
 						sentence=str(line)
-						pp.write(sentence+'	'+fichier+'	'+titre+' $date:'+date+'	'+titrePrime+'\n')
+
+				#Récupérer la date
+				#On relis le fichier à nouveau
+				reDateUri2=re.search(r'\s+ecrm:P4_has_time-span\s+(.*)\s+;',block)
+				if reDateUri2:
+					dateUri=reDateUri2.group(1)
+					begin2 = dateUri.replace(" ", "")
+					f=open(repertoire+"/"+fichier, 'r')
+					lecture = f.read() #lecture fichier 1
+					
+					corps = re.compile(r"(\<http.*\>)\n\s+a\s+time:Interval.*\n\s+rdfs.*\n\s+time.*\n\s+time:inXSDDate\s+\"(\d{4}-\d{2}-\d{2}).*\"") #on récupère tous les blocs contenant comme clé un lien, et une date comme valeur)
+					res = corps.findall(lecture) #on repère grace à re.findall() tous les blocs d'un seul coup
+					if res:
+						for line in res:
+							blocDate = str(line) #on transforme en chaine de caractère
+							
+							
+							#r la liste des iDs dates
+							r=list()
+							#h la liste des dates
+							h=list()
+							reLien=re.search(r'.*(\<http.*\>).*(\d{4}-\d{2}-\d{2}).*',blocDate) #ma REGEX pour identifier les bloc contenant les dates valides
+							if reLien:
+								hh=reLien.group(1)# le lien
+								mm=reLien.group(2)# la date
+								
+								
+								r.append(hh)#remplissage des listes
+								h.append(mm)
+						
+								dic = dict(zip(r, h))# création d'un dictionnaire 
+								for cle, valeur in dic.items():
+									if levenshteinN(cle,str(begin2)) == 1.0: #parmis les blocs seulement ceux contenant un lien déjà validé 
+										pp.write(sentence+'	'+fichier+'	'+titre+' $date:'+valeur+'	'+titrePrime+'\n')
+								
+							
+
 				f.close()
-				
+
+
 #création fichier contenant les résultats PP
 pp = open('pp.txt','x+')
 parcours(repertoire)
 pp.close()
 
-"""
+
 #////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -344,11 +466,12 @@ pp.close()
 #////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-EMTD=open('EMTD.txt','x+')
-EMD=open('EMD.txt','x+')
-EMTrD=open('EMTrD.txt','x+')
-EMT=open('EMT.txt','x+')
+EMTD=open('EMTD.txt','x+') #Evenements avec Même Titres et Dates
+EMD=open('EMD.txt','x+') #Evenements avec Même Dates avec un acteur en commun
+EMTrD=open('EMTrD.txt','x+') #Evenements avec Même Dates avec des titres très similaires
+EMT=open('EMT.txt','x+') #Evenements avec seulement même titres /////////// `A quoi servira celui la? O.o
 
+yesPP=open('yesPP.txt','x+') #Evenements F31 non reliés
 #/////////////// on collecte les termes à mesurer //////////////////////////
 
 mots1 = open('euterpe.txt','r')
@@ -397,53 +520,26 @@ for ligne in read_mots1:
 						EMTD.write(URIfichierEuterpe+'\t'+nFchierEuterpe+'\t'+titrePrime1+'\t'+date1+'\t'+'Similarité :'+score1+'\n'+URIfichierPP+'\t'+nFchierPP+'\t'+titrePrime2+'\t'+date2+'\n\n')
 						print(nFchierEuterpe)
 						if titre1 not in s:
-							s.append(titre1)
-							
+							s.append(nFchierPP)
+							yesPP.write(nFchierPP)
 					elif levenshteinN(titre1,titre2) >= 0.5 and jaro(titre1,titre2) > 0.7: #titres légèrement différents
 						score2=str((levenshteinN(titre1,titre2)+(jaro(titre1,titre2)))/2) #moyenne des mesures
 						EMTrD.write(URIfichierEuterpe+'\t'+nFchierEuterpe+'\t'+titrePrime1+'\t'+date1+'\t'+'Similarité :'+score2+'\n'+URIfichierPP+'\t'+nFchierPP+'\t'+titrePrime2+'\t'+date2+'\n\n')
 						print(nFchierEuterpe)
 						if titre1 not in s:
-							s.append(titre1)
+							s.append(nFchierPP)
+							yesPP.write(nFchierPP)
+					elif levenshteinN(titre1,titre2) >= 0.25 and jaro(titre1,titre2) > 0.5: #titres avec dénominateur commun 
 
-					else: #titres complétement différents
 						score3=str((levenshteinN(titre1,titre2)+(jaro(titre1,titre2)))/2) #moyenne des mesures
 						EMD.write(URIfichierEuterpe+'\t'+nFchierEuterpe+'\t'+titrePrime1+'\t'+date1+'\t'+'Similarité :'+score3+'\n'+URIfichierPP+'\t'+nFchierPP+'\t'+titrePrime2+'\t'+date2+'\n\n')
 						print(nFchierEuterpe)
-						
+						if titre1 not in s:
+							s.append(nFchierPP)
+							yesPP.write(nFchierPP)
 				elif levenshteinN(titre1,titre2) == 1.0 and jaro(titre1,titre2) == 1.0:  #titres exactes
 						score4=str((levenshteinN(titre1,titre2)+(jaro(titre1,titre2)))/2) #moyenne des mesures
 						#ecriture des alignements répondants aux conditions
 						EMT.write(URIfichierEuterpe+'\t'+nFchierEuterpe+'\t'+titrePrime1+'\t'+date1+'\t'+'Similarité :'+score4+'\n'+URIfichierPP+'\t'+nFchierPP+'\t'+titrePrime2+'\t'+date2+'\n\n')
 						print(nFchierEuterpe)
-						if titre1 not in s:
-							s.append(titre1)
-								
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	
