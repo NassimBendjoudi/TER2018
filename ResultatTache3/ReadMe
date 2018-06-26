@@ -1,4 +1,4 @@
-Tache 03:
+Tache 03: Alignemnet des concerts prévus et concerts réalisés (bases euterpe et aloes de la Philharmonie).
 
 Nous allons exploiter les fichiers ici présents et lancer "tache3_Philharmonie.py" depuis le terminal, cela nous génerera les fichiers : 
   - pp.txt      : qui contiendra des résumers de chaque fichier PP (~4500 au total et seulement ~750 qui contiennenet la classe F31) 
