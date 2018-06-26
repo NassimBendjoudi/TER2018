@@ -15,7 +15,7 @@ Dans cette étape, nous allons exploiter les fichiers ici présents, dans le ter
         
         
 - Lancer "tache2_Alignement_BNF_RAMEAU_jaro.py" pour effectuer l'alignement entre BNF/RAMEAU
-Ce programme va permettre l'alignement des termes des deux librairies (BNF/RAMEAU) en se basant sur deux seuils de similarité principals : 
+Ce programme va permettre l'alignement des termes des deux librairies (BNF/RAMEAU) en se basant sur deux seuils de similarité principaux : 
 Levenshtein et Jaro-Winkler, le corps du code PYTHON est très bien commenté vous y trouverez le descriptif de toutes les étapes.
 
 Ce processus va donc nous génerer plusieurs fichiers que vous retrouverez dans le dossier Retour:
