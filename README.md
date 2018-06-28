@@ -29,9 +29,9 @@ Structuration des informations dans les deux nouveaus fichiers : ID~STRING
 Levenshtein et Jaro-Winkler, 
   Nous avons donc à l'aide des boucles pu parcourir les bases BNF/RAMEAU et avons extrait les informations liées à l'éthni/ peuple et leur position géographique si disponnibles, afins de mesurer la similiratité entre les termes, comme exemple, dans le fichier Retour/ethnieRegionMatch.csv on retrouve que le peuple RAMEAU [38471794	$aTraditions$mOcéanie$mAustralie$eNyongaar] est aligné avec	l'ethnie BNF [12045606	$aNyungar$gpeuple d'Australie] et dont la similarité est de Score=0.823.
 
-Trois cas de figures sont possibles:
+  Trois cas de figures sont possibles:
      - ethnieRegionMatch.csv : contenant des alignements double sens, c'est à dire que les deux termes possèdent des informations de géographie (position dans le monde) (1), et que l'ethnie BNF valide le seuil de similarité avec le peuple RAMEAU (2), et leur régions respectives aussi (3).
-    - newBNF_utf-8.txt : contenant les informations sur l'éthnie et/ou sa géographie.
+     - newBNF_utf-8.txt : contenant les informations sur l'éthnie et/ou sa géographie.
      - ethnieMatch.csv : contenant des alignements d'ethnie, pour le cas de termes présents parfois sans informtion géographique.
      - ethnieErrosMatch.csv : ici les résultats sont à 50% justes, des cas d'ambiguité nous font surface par moment, comme pour le cas de [41073209	$aTraditions$mAfrique$mTanzanie$eGogo] qui est aligné avec [13514558	$aGogo$gpeuple d'Afrique] et dont la similarité est de Score:1.0 , dans ce cas là, on voit l'ethnie $aGogo parfaitement alignée avec le peuple $eGogo, tous les deux ont comme continent l'Afrique mais l'un d'eux possède une précision de Pays $mTanzanie...
      - bnfNotMatch.csv Au final, nous rajoutons ce fichier contenant les termes BNF qui n'ont pas pu valider aucun seuil et sont donc rejetés et non alignés.
@@ -51,9 +51,7 @@ qui contiendront dans chaque ligne, l'URI de l'événement + le nom du fichier s
 la date de l'événement + le titre original de l'événement: 
     - pp.txt      : qui contiendra des résumers de chaque fichier PP dans une seule ligne (~4500 au total et seulement ~750 qui contiennenet
 la classe F31) 
-    exemple : <http://data.doremus.org/performance/050ec49c-7a00-3a2b-8c25-29115589fb04>	0924969.ttl	simonbolivaryouthorchestravenezuela 
-    $date:2018-03-29T21:48	Simón Bolívar Youth Orchestra Venezuela
-    
+    exemple : <http://data.doremus.org/performance/050ec49c-7a00-3a2b-8c25-29115589fb04>	0924969.ttl	simonbolivaryouthorchestravenezuela $date:2018-03-29T21:48	Simón Bolívar Youth Orchestra Venezuela
     - euterpe.txt : qui contiendra des résumers de chaque fichier EUTERPE dans une seule ligne (~3500 au total identifiés avec M29) 
 exemple : <http://data.doremus.org/performance/80e7f775-3bb3-3ebd-ab68-3b31abe89ed1>	15456.ttl	donquichotte $date:2015-11-17T19:00	
 Don Quichotte
