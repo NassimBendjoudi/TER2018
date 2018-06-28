@@ -4,7 +4,7 @@ Projet TER - Alignement des vocabulaires
 Contenu du hub :
 
 - Resultats tache 1: Traitement de données rdf
- - tache1_TERValid.py:
+  tache1_TERValid.py:
   Ce programme Python effectue un traitement sur plusieurs fichiers .rdf avec un format <xml> centenus dans le même dossier, il nous     permet de filtrer le contenu des fichiers de base de telle sorte qu'on ne garde à la fin que des balises <map></map> ne contenant que des relations <relation.*exacteMatch.*>.
 Les résultats sont inscrits dans des fichiers appelés doublons, ayant le même nom que l'original avec _DB comme suffixe.
   
