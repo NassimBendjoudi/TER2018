@@ -15,7 +15,7 @@ Un exemple des résultats est présent dans le dossier. (avec la mention _DB)
 
 - Resultats tache 2: Alignement des vocabulaires (BNF : Bibliothèque Nationale de France, et RAMEAU : Radio France)
 
- _ tache2_prepaFichiers.py:                       ETAPE 01
+  - tache2_prepaFichiers.py:                       ETAPE 01
  Avec ce programme Python, nous allons préparer les fichiers d'alignement cette opération consiste à l'application de plusieurs traitements aux chaines de caractère à aligner;
 Tokénization
 Lemmatization
