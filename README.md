@@ -33,8 +33,7 @@ Levenshtein et Jaro-Winkler,
     - ethnieRegionMatch.csv : contenant des alignements double sens, c'est à dire que les deux termes possèdent des informations de géographie (position dans le monde) (1), et que l'ethnie BNF valide le seuil de similarité avec le peuple RAMEAU (2), et leur régions respectives aussi (3).
     - ethnieMatch.csv : contenant des alignements d'ethnie, pour le cas de termes présents parfois sans informtion géographique.
     - ethnieErrosMatch.csv : ici les résultats sont à 50% justes, des cas d'ambiguité nous font surface par moment, comme pour le cas de [41073209	$aTraditions$mAfrique$mTanzanie$eGogo] qui est aligné avec [13514558	$aGogo$gpeuple d'Afrique] et dont la similarité est de Score:1.0 , dans ce cas là, on voit l'ethnie $aGogo parfaitement alignée avec le peuple $eGogo, tous les deux ont comme continent l'Afrique mais l'un d'eux possède une précision de Pays $mTanzanie...
-
-Au final, nous rajoutons un fichier nommé : bnfNotMatch.csv contenant les termes BNF qui n'ont pas pu valider aucun seuil et sont donc rejetés et non alignés.
+    - bnfNotMatch.csv Au final, nous rajoutons ce fichier contenant les termes BNF qui n'ont pas pu valider aucun seuil et sont donc rejetés et non alignés.
 
 Pour plus de détails, veuillez consulter le corps du code PYTHON en question commenté, et vous y trouverez le descriptif de toutes les étapes dans le détail.
 
