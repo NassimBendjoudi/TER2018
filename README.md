@@ -23,6 +23,14 @@ Suppression de STOP-WORDS (en français) et autres mots inutiles (peuples....)
 Structuration des informations dans les deux nouveaus fichiers : ID~STRING
     - newRameau_utf-8.txt : contenant des informations sur le peuple et/ou sa géographie.
     - newBNF_utf-8.txt : contenant les informations sur l'éthnie et/ou sa géographie.
+  - tache2_prepaFichiers.py:                       ETAPE 01
+ Avec ce programme Python, nous allons préparer les fichiers d'alignement cette opération consiste à l'application de plusieurs traitements aux chaines de caractère à aligner;
+Tokénization
+Lemmatization
+Suppression de STOP-WORDS (en français) et autres mots inutiles (peuples....)
+Structuration des informations dans les deux nouveaus fichiers : ID~STRING
+    - newRameau_utf-8.txt : contenant des informations sur le peuple et/ou sa géographie.
+    - newBNF_utf-8.txt : contenant les informations sur l'éthnie et/ou sa géographie.
  
   - tache2_Alignement_BNF_RAMEAU_jaro.py:             ETAPE 02
   Ici ce fera l'alignement des termes entre les deux vocabulaires (BNF/RAMEAU) en se basant sur deux mesures de similarité principales : 
