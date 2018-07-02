@@ -33,16 +33,18 @@ de 4 seuils de similarité, qui seront définis comme suit:
 
   
 if levenshteinN(date1,date2) ==1.0 and jaro(date1,date2) == 1.0:#dates exactes
-|_____ if levenshteinN(titre1,titre2) == 1.0 and jaro(titre1,titre2) == 1.0:  #titres exactes
-       |      > EMTD.txt  :  Evenements avec même DATE et même TITRE
-       |       
-       |__ elif levenshteinN(titre1,titre2) >= 0.5 and jaro(titre1,titre2) > 0.7: #titres légèrement différents
-       |      > EMTrD.txt :  Evenements avec même DATE et titre légèrement différent.
-       |
-       |__ elif levenshteinN(titre1,titre2) >= 0.25 and jaro(titre1,titre2) > 0.5: #titres avec dénominateur commun
-              > EMD.txt   :  Evenements avec même DATE et titre complétement différent.
-              
+ |_____  if levenshteinN(titre1,titre2) == 1.0 and jaro(titre1,titre2) == 1.0:  #titres exactes
+ |       |      > EMTD.txt  :  Evenements avec même DATE et même TITRE
+ |       |       
+ |       |__ elif levenshteinN(titre1,titre2) >= 0.5 and jaro(titre1,titre2) > 0.7: #titres légèrement différents
+ |       |      > EMTrD.txt :  Evenements avec même DATE et titre légèrement différent.
+ |       |
+ |       |__ elif levenshteinN(titre1,titre2) >= 0.25 and jaro(titre1,titre2) > 0.5: #titres avec dénominateur commun
+ |              > EMD.txt   :  Evenements avec même DATE et titre complétement différent.
+ |              
 elif levenshteinN(titre1,titre2) == 1.0 and jaro(titre1,titre2) == 1.0:  #titres exactes
   > EMT.txt   :  Evenements avec même TITRE et date différente.
+  
+  
   
 Une version CSV de ces résultats se trouve dans le dossier CSV.
