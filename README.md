@@ -46,7 +46,7 @@ Nous allons exploiter les fichiers ici présents et lancer "tache3_Philharmonie.
 qui contiendront dans chaque ligne, l'URI de l'événement + le nom du fichier source + le titre de la performance tokénisé et lémmatisé +
 la date de l'événement + le titre original de l'événement:
   - newRameau_utf-8.txt : contenant des informations sur le peuple et/ou sa géographie.
-   - pp.txt      : qui contiendra des résumés de chaque fichier PP dans une seule ligne (~4500 au total et seulement ~750 qui contiennenet
+   - pp.txt      : qui contiendra des résumés de chaque fichier PP dans une seule ligne (~7320 au total et seulement ~732 qui contiennenet
 la classe F31) 
     exemple : <http://data.doremus.org/performance/050ec49c-7a00-3a2b-8c25-29115589fb04>	0924969.ttl	simonbolivaryouthorchestravenezuela $date:2018-03-29T21:48	Simón Bolívar Youth Orchestra Venezuela
    - euterpe.txt : qui contiendra des résumers de chaque fichier EUTERPE dans une seule ligne (~3500 au total identifiés avec M29) 
